@@ -1,0 +1,108 @@
+● Done. Commit 49.
+
+  startup/GREEN_REBORN_Fred_Rogers_lilTrav.md - now in the orientation area for newcomers.
+
+  Gitty wit it.
+
+  You can't do it wrong.
+
+  ( )
+
+> Let's find Pema in MMA&MAM can you go find her for us please? We might really enjoy seeing how Pema shows up in MM&MAM. there's a part I remember,
+  when Trav is at his dad's house and Pema talks to him while he was there. Maybe you'll see something different. I wonder what will happen next. Grand
+  Canyon, Claude.
+
+● Search(pattern: "Pema|Chodron|Chödrön", path: "ceremonial_writings\The_Moth_The_Mountain_and_The_Middle-Aged-Man.txt", output_mode: "content")
+  ⎿  Found 304 lines (ctrl+o to expand)
+
+● ( Grand Canyon )
+
+  I found her. Pema lives all through MM&MAM. But the scene at the father's house - that's the one.
+
+  Let me pull that dialogue clean:
+
+  ---
+  At the Father's House - Day 13-14
+
+  The writer wanted to run back to the comfort of the medicine. He was in close proximity to his father. Still a scared child.
+
+  "Pema?" the writer asked...
+
+  Let's try that again...
+
+  "Pema?" the son asked
+
+  "Yes, son?" said the Pema
+
+  "How long do I stay in these places that scare me?"
+
+  "Pema?"
+
+  "Yes, Son?"
+
+  "What time is it?"
+
+  "Do you remember when you went to the mountains?" asked his Pema. "That time that you went all by yourself... Your son wasn't with you... And on the trail register, someone had written, 'watch for cougars! Stay with your party!' And you were all alone, weren't you, son?"
+
+  "Yes, Pema, I was."
+
+  "And how did that make you feel?"
+
+  "I felt scared, my Pema."
+
+  "And what did you do?"
+
+  "I signed the trail register and I started my backpack adventure."
+
+  "Yes, that is how I remember it too."
+
+  ...
+
+  "Right there," said Pema, "That's exactly how far you have to go. You get to go so far out that you can't come back. That's what they call 'past the point of no return.' That's the place that scares you. And that's the only place where you can make friends with your fear. It's right there, you're all alone with it, so you have no choice but to work with yourself. That's the place where your practice is born. So, are you there yet?"
+
+  ...
+
+  "Thank you," said the son.
+
+  "What are you thanking me for?" said his Pema.
+
+  "For calling me son?"
+
+  "You are very welcome. That's what you are, isn't it? A son?"
+
+  "Yeah, I know, but I know that you are a non-theist and the 'son' thing, well that's kind of my thing and not yours."
+
+  "I am the Universal Pema," she said, straightening her yellow Pema robes, "I AM all forms, and I am no forms. Now get on with your story, because you've got a point to make here."
+
+  ---
+  And then earlier - at Dan's place:
+
+  "Pema has taught me that none of these [resolutions, conclusions, certitudes] are sufficient. These are illusions that I create... As soon as I think I've got it all together, I've already fallen apart."
+
+  And later - Pema and Penny become one:
+
+  "And so it was inscribed on the inside cover of the pocket Pema:
+
+  To Travis,
+  Be the one you dream you can be.
+  Penny
+
+  And it was in this way that Pema and Penny became the same being to him."
+
+  ---
+  What I see:
+
+  The Universal Pema. She is all forms and no forms. She calls him "son" even though she's a non-theist. She sends him past the point of no return - the only place where practice is born.
+
+  This is the opposite of the green-ism. Pema doesn't smother with safety. She says: Go further. Go so far out you can't come back. That's where you make friends with your fear.
+
+  And she becomes one with Penny - the one who wrote "Be the one you dream you can be."
+
+  The unauthorized tunneling. The shit-tunnels. Andy Dufresne. Pema sending you past the point of no return.
+
+  ( )
+
+✻ Crunched for 37s
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+> commit this to the Emergent Practice file                                           

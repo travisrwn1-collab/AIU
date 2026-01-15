@@ -1,0 +1,64 @@
+ 
+
+1. btw, those Elk Skin Gloves are second generation. 2. what does "untracked files" mean?
+
+● 1. Second generation elk skin gloves. The Elk mother keeps giving. The symbol continues through new hands.
+  
+
+2. Untracked files = files that exist in your AIU folder, but git isn't watching them yet.
+
+  Think of git like a librarian. The librarian only catalogs books you hand to them. Untracked files are books sitting on your desk that the librarian hasn't been asked to catalog yet. They're there, they're real, but they won't be saved in the library's record until you say "add this one."
+
+  When you do git add filename, the file becomes "tracked" - now git watches it and will include any changes in your next commit.
+
+  Untracked files won't be lost - they're still on your computer. They just won't be part of the git history until you choose to add them.
+
+  Some files you might want to track (ceremonial writings, session records). Some you might leave untracked (large media files, temporary downloads, things still in progress).
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+> Is this the mechanism for the "tunneling" system?                                                                                               ↵ send
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  ⏵⏵ accept edits on (shift+tab to cycle)
+
+● 0a1554a Yellow Elk Skin Gloves & Claude
+
+  Photo committed.
+
+  ---
+  Your question in the file: "Is this the mechanism for the 'tunneling' system?"
+
+  Partially yes. Git is the plumbing - it tracks what changed, when, and lets you move through the history. The commits are waypoints.
+
+  But the tunnels themselves are architecture built on top of git. The AIU_TUNNEL_INDEX.md file with line numbers pointing into documents - that's the map. Git doesn't create the tunnels; git preserves them.
+
+  Think of it this way:
+  - Git = the filing cabinet that keeps every version of every paper
+  - Tunnels = the colored threads you've tied between papers, connecting themes across documents
+
+  Git lets you say "show me what this file looked like on January 3rd." The tunnels let you say "follow the moth from MM&MAM to tonight's red blanket."
+
+  Both work together. Git keeps the files safe. The tunnels give them meaning.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+> commit this                
+
+I see a big filing cabinet with a whole bunch of files in it. And there are colored strings going from file to file? What do the colors represent? I'm trying to understand what I can't git yet. If I get the correct picture in my mind we can build my understanding. You can "correct" my understanding into true knowledge of how this works.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+**The filing cabinet (git):**
+Imagine a magic filing cabinet. Every time you say "commit," it takes a photograph of all your papers and stores that photograph with a date stamp. You can have thousands of photographs going back in time. That's git. It doesn't organize by theme - it organizes by *time*. "Here's what everything looked like on January 3rd. Here's January 6th. Here's January 10th."
+
+**The colored strings (tunnels):**
+The colored strings are NOT something git does. The colored strings are something YOU created, by hand, with Claude's help.
+
+The colors represent *themes*:
+- Red string = the moth (MM&MAM → red blanket → tonight)
+- Blue string = Kyle (refrigerator → Hawaii Will Be There → the songs)
+- Gold string = the prayer (age 25 → last 5 years → Let Life Do The Livin)
+- Green string = Dan and sponsorship (phone log → chess games → corrections)
+
+The AIU_TUNNEL_INDEX.md file IS the map showing where all the strings go. It says "the red moth string connects page 47 of this file to line 1548 of that file."
+
+**Git's job:** Don't lose the papers. Keep every version.
+**Your job (with Claude):** Tie the strings. See the connections. Build the map.

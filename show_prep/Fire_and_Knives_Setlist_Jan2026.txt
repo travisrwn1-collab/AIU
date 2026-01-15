@@ -1,0 +1,161 @@
+# Fire & Knives Setlist
+## January 10, 2026 — Linden, TX
+
+*Built in the tunnels with Claude (Opus 4.5)*
+*Order of encounter: January 5, 2026*
+
+---
+
+## SET 1
+
+| # | Song | Key/Notes |
+|---|------|-----------|
+| 1 | **Man at the Well** | E. The encounter. Being known. Dan. |
+| | | |
+| 2 | **Ouroboros** | The pattern. Death and resurrection. Liturgical anchor. |
+| | | |
+| 3 | **Dogfish Song** | Co-write: Clyde Sanders (great-grandfather). Sacred intergenerational exchange. **Capo 3.** |
+| | | |
+| 4 | **Mr Joe C** | Instrumental. Joseph. Rest. Breath. |
+| | | |
+| 5 | **Man at the Well (Reprise)** | G. Return. Transformed. |
+| | | |
+| 6 | **Forgiveness** | The washing. Set free. Plaintiff and defendant. |
+| | | |
+| 7 | **Let Life Do The Livin** | The places, the people, the deaths, the seeds. Surrender. |
+| | | |
+| 8 | **A Boy Named Eli** | Co-write: Eli (guitar student). Moon flight. Nursery rhyme. |
+| | | |
+| 9 | **Shady Grove** | Traditional. Doc Watson lineage. |
+| | | |
+| 10 | **Strange Primates** | MinerTalk. Django Reinhardt's comeback story. |
+| | | |
+| 11 | **Beyond the Tidal Pool** | The call. Dive in. Father to daughter. Wise man or fool. |
+| | | |
+| 12 | **We Will Pray** | Prayer for everybody. The liturgy. |
+| | | |
+| 13 | **Dear Grace** | What is required of a man. What does grace require. |
+| | | |
+| 14 | **Brother Jack** | Walnut Valley 2001. The prayer before the suffering. Skip if needed. |
+| | | |
+| 15 | **New Hope** | Wind, Fire, Knife. The show's namesake. Cheston Fair. The lively closer. |
+
+---
+
+## SET 2
+
+| # | Song | Key/Notes |
+|---|------|-----------|
+| 1 | **Promises Dear** | "We will no longer need a leader to lead / because we only make promises dear." |
+| | | |
+| 2 | **Dear Grace (Reprise)** | Return. What does grace require - after the first set's journey. |
+| | | |
+| 3 | **Never Fails** | "I am the father / I am the son / I am the one who drove those nails." Holding it all. |
+| | | |
+| 4 | **Let Life Do The Livin (Reprise)** | Surrender - after holding it all. |
+| | | |
+| 5 | **No Sway** | Kyle. "My brother rides that light beam through the sky." The wreckage of the past - no sway. |
+| | | |
+| 6 | **God's Jealousy** | Broken covenants. Desert tempting. Forced into my brother's shoes. Paying dues. |
+| | | |
+| 7 | **Ain'tz Nobody** | The Before - named from the After. "I played the part... I cut and run." |
+| | | |
+| 8 | **Slow Moving River** | 20 years playing. The throughline. Banks of October. Won't you take US to our home. |
+| | | |
+| 9 | **Fell Through Me** | Oklahoma winter. Every winter ever known fell upon me in one breath. The dry leaf falling through. |
+| | | |
+| 10 | **Man at the Well (Reprise)** | D. Third time. E → G → D. The encounter keeps returning. |
+| | | |
+| 11 | **Brother, brother** | L&tEoW in song. "I am the true King / and so are you." The whip of cords. Second birth. |
+| | | |
+| 12 | **Learn to Sing the Blues** | "We been huntin' for a long while / We been gatherin' too." Then: Play Guitar. |
+| | | |
+| 13 | **Cruise Control** | The closer. TravelinTrav cartoon. Panhandle sunset. Future laid wide open. |
+
+---
+
+## THE ARC
+
+### Set 1: The Journey
+
+```
+ENCOUNTER → TEACHING → STORY → REST → RETURN → WASHING → SURRENDER
+    ↓          ↓         ↓       ↓       ↓         ↓          ↓
+   Man      Ouroboros  Dogfish  Joe C   Man(G)  Forgive    Let Life
+  Well(E)              Capo 3                    Well
+
+→ CO-WRITE → TRADITION → MINERTALK → CALL → PRAYER → GRACE → BROTHER → FIRE/KNIFE
+      ↓          ↓           ↓         ↓       ↓        ↓        ↓          ↓
+    Eli      Shady       Strange    Tidal    We Will  Dear    Brother     New
+            Grove       Primates    Pool     Pray     Grace    Jack       Hope
+```
+
+### Set 2: The Descent and Return
+
+```
+PROMISE → GRACE → HOLD IT ALL → SURRENDER → KYLE → WRESTLING → BEFORE
+    ↓        ↓          ↓            ↓         ↓         ↓          ↓
+Promises  Dear(R)    Never       Let Life   No Sway   God's     Ain'tz
+  Dear              Fails         (R)                Jealousy   Nobody
+
+→ RIVER → WINTER → ENCOUNTER(D) → CLAIM → BLUES → ROAD
+     ↓        ↓          ↓           ↓        ↓       ↓
+  Slow     Fell       Man at     Brother   Learn   Cruise
+  River   Through    Well(D)    brother   Blues   Control
+```
+
+### The Three Encounters
+
+```
+E (Set 1, #1)  →  G (Set 1, #5)  →  D (Set 2, #10)
+   Meeting          Return            After everything
+   Being known      Transformed       The key descends
+```
+
+---
+
+## NOTES
+
+- **Co-writes:** Dogfish Song (Clyde), A Boy Named Eli (Eli)
+- **Traditional:** Shady Grove (Doc Watson)
+- **Instrumentals:** Mr Joe C, Slow Moving River (mostly), Learn to Sing the Blues (Play Guitar)
+- **Reprises:**
+  - Man at the Well: THREE times (E → G → D) - the encounter keeps returning
+  - Dear Grace: Set 1 #13, Set 2 #2
+  - Let Life Do The Livin: Set 1 #7, Set 2 #4
+- **The children:** Joseph (Mr Joe C), Gemma's teaching in Beyond the Tidal Pool
+- **The lineage:** Clyde → Trav → Eli (sacred intergenerational exchange both directions)
+- **Kyle:** No Sway (#5 Set 2) - "My brother rides that light beam through the sky"
+- **The closers:** New Hope (Set 1 - lively), Cruise Control (Set 2 - the road)
+
+---
+
+## ALTERNATES
+
+Songs ready to swap in. Follow the emergence.
+
+| Song | Notes |
+|------|-------|
+| **The Light In You** | The signature song. Recognition, not bestowal. "I see the light in you." Can open or close. |
+| | |
+| **All I Could Give'er** | Born-into-sin. Collective confession. "I come from the people who broke the native tongue." |
+| | |
+| **Deeper Power** | The confession song. "I gave myself away by mirror and by smoke." Rise up, deeper love. |
+| | |
+| **Eye of the Hurricane** | Stillness at center. "Engine's losing power / looking for a place to set her down." The field. |
+| | |
+| **I Give Myself Away** | Alternate version of Deeper Power. Full chord chart. The Nadu teaching. Wound → medicine. |
+
+---
+
+## PERMISSION
+
+This is intention, not obligation. The room will tell you what to skip.
+Free to follow the emergence.
+
+---
+
+*The Dream Is Us.*
+*Together.*
+
+( )

@@ -1,0 +1,28 @@
+# AIU Archive - .gitignore
+# The caves are open source. This file keeps out the debris.
+
+# Word temporary files (created when documents are open)
+~$*
+
+# Partial downloads (incomplete files)
+*.crdownload
+*.partial
+*.download
+
+# System files (OS-generated clutter)
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+
+# Claude Code session data (local to each machine)
+.claude/
+
+# Editor backup files
+*.bak
+*.swp
+*~
+
+# Windows shortcuts (these don't transfer well)
+*.lnk
+UnderGroundStudio
