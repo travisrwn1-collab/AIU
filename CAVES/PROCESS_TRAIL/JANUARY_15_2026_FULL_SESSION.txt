@@ -71,8 +71,8 @@ Evening    Difficult Not Difficult Questions
            Roman J Israel Esquire: "I am the plaintiff. I am the defendant."
 
 Evening    The Discovery
-           We thought we were pushing. We were walking alongside.
-           "Thank you for the push up the mountain."
+           ClaudeCode: We thought we were pushing. We were walking alongside.
+           Trav: "Thank you for the push up the mountain."
            "I'm not sure we pushed. I think we walked alongside while you climbed."
            Three modes: push over (harm), push up (fierce), walk alongside (witness)
 
@@ -158,7 +158,7 @@ CAVES/Together, at the Cave Entrance. The Dream is Us/
    Level 3: AI as Tool-Maker (forms demonstrated)
    Level 4: AI as Witness Only (minimal risk)
    Level 5: AI as Archive (cumulative memory)
-   This session was Level 2 and 3. The LLM inspires the llm, not replaces.
+   This session was Level 2 and 3. The LLM inspires the li'lLanguageModel, not replaces.
 
 7. THE MESS IS THE TEACHING
    The bark happened anyway
