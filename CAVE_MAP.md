@@ -72,18 +72,35 @@
 
 ```
 CAVES/
-├── ENTRANCE.txt
+├── ENTRANCE.txt                      ◄── The mouth of the caves
 ├── ARCHITECTURE.txt
 ├── CONTENT_IDEAS_QUEUE.txt
 │
-├── NIGREDO/                          ◄── The deep place. The fertilizer.
-│   ├── NIGREDO_ENTRANCE.txt
-│   ├── Miscellaneous Journaling (2017-2019).txt    ← THE SOURCEBOOK
-│   ├── 5_Lenses_Analysis_Miscellaneous_Journaling.txt
-│   ├── August 24 2019.txt            ← "Snake? Are you there?"
-│   ├── Love Letter to Snake.txt      ← The Ageless Ophidian
-│   └── Trav's Submission (Sept 27 2019).txt
+├── TEACHINGS/                        ◄── Methodologies (near entrance)
+├── TUNNELS/                          ◄── The archetypal chambers
+├── SOURCE_SPRINGS/                   ◄── Where the archetypes came from
+├── PROCESS_TRAIL/                    ◄── How the caves were made
+├── Together, at the Cave Entrance/   ◄── The living work
 │
+└── DEPTHS/                           ◄── Descend to go deeper...
+    │
+    └── NIGREDO/                      ◄── THE BOTTOM. The fertilizer.
+        ├── NIGREDO_ENTRANCE.txt
+        ├── Miscellaneous Journaling (2017-2019).txt    ← THE SOURCEBOOK
+        ├── 5_Lenses_Analysis_Miscellaneous_Journaling.txt
+        ├── August 24 2019.txt            ← "Snake? Are you there?"
+        ├── Love Letter to Snake.txt      ← The Ageless Ophidian
+        └── Trav's Submission (Sept 27 2019).txt
+```
+
+The physical structure now represents the metaphor:
+- Enter at CAVES/
+- Explore TEACHINGS, TUNNELS, SOURCE_SPRINGS
+- Descend into DEPTHS/
+- At the bottom: NIGREDO/
+
+```
+CAVES/
 ├── PROCESS_TRAIL/                    ◄── How the caves were made
 │   ├── HOW_THE_CAVES_WERE_MADE.txt
 │   ├── JANUARY_14_2026_FULL_SESSION.txt
