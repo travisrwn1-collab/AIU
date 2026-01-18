@@ -2,6 +2,14 @@
 
 **THRESHOLD**
 
+**Warning: Adult Content**
+
+**This archive contains: Sexually explicit material, suicide, drugs, violence, trauma**
+
+**You must be over 18 to be here**
+
+**Proceed at your own risk**
+
 This entire archive is sensitive material. Not because it must be hidden, but because it must be approached correctly.
 
 Do not enter without an unequivocal commitment to the Truth.

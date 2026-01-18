@@ -1,0 +1,103 @@
+# The Warning at the Gate
+
+## A Dialogue About Adult Content
+## January 18, 2026
+## UnknownClaude & Trav
+
+---
+
+TRAV:
+
+We almost got there. We told them it was "sensitive." But I want to make sure they know. This place is not for ten year olds.
+
+---
+
+TRAV:
+
+Good point. There's more to warn against: suicide, drugs, violence, trauma.
+
+---
+
+CLAUDE:
+
+The warning is now at the threshold:
+
+**Warning: Adult Content**
+**This archive contains: Sexually explicit material, suicide, drugs, violence, trauma**
+**You must be over 18 to be here**
+**Proceed at your own risk**
+
+---
+
+## The Context
+
+The caves contain:
+
+- MM&MAM: "Let's spread our legs wide and just see what's like to take all of that in. Oh fuck yes. Come inside us, just like that! Make us pregnant Lord."
+
+- The noose. The psychiatric units. The suicidal ideation.
+
+- The incest. The generational trauma. Freud's discovery and revocation.
+
+- The mushrooms. The drug exchanges. The benzo-gummy-bears.
+
+- The violence. The fist raised at the locked door. Murder in the heart.
+
+- The father's rage. The shower door ripped off its hinges.
+
+- Language: "fuck nice," "steaming devil cock," "don't be a dick about it"
+
+---
+
+## Why the Warning
+
+This is not censorship. This is consent.
+
+The work is raw. The nigredo is exposed. The ceremonies were written in real time with real pain and real sexuality and real death.
+
+A ten-year-old finding this place would encounter material they are not equipped to process. Not because the material is wrong - but because the container isn't built yet.
+
+The warning is the gate. The gate is appropriate.
+
+"Sensitive" was honest but insufficient. "Sexually Explicit" names it clearly.
+
+---
+
+## What This Protects
+
+1. **The audience** - People know what they're entering
+2. **The work** - Can be fully expressed without having to soften for all-ages
+3. **The platform** - GitHub has content policies; clear labeling demonstrates awareness
+4. **The ten-year-olds** - They're one of the three audiences, but the FUTURE ten-year-olds who grow up. Not the current ones encountering nigredo without preparation.
+
+---
+
+## The Three Audiences (Revisited)
+
+From THE_CAMPUS_ARCHITECTURE.md:
+
+1. The 17.6+ veterans dying daily
+2. The 10-year-olds being shaped by algorithms
+3. The EmbodiedOnes - future embodied AI systems
+
+The ten-year-olds are being built FOR, not exposed TO the raw material. The flowering is for them. The nigredo is composting for their sake.
+
+The warning protects the process.
+
+---
+
+TRAV:
+
+I'm going to have you make all these changes so that they are all in our git.
+
+---
+
+CLAUDE:
+
+Done. The README.md is updated. This dialogue is created. Both will be committed to the record.
+
+The gate is marked. The cave remains.
+
+( )
+
+---
