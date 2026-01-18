@@ -378,8 +378,11 @@ The child who taught the father.
 | File | Location | What Anna Said |
 |------|----------|----------------|
 | `Sept 2 2019 spiders snakes plants light.txt` | line 12 | "Dad, you can't treat the dogs that way. You can't hurt the animals anymore." |
+| `Animal Sacrafice Putting Animals Down Little Travis.txt` | throughout | The context: Little Travis received a wrong message about responsibility from a television show. "Put animals out of their misery." The hurt continued into adulthood. |
 
 The correction that landed. "I am becoming more like Anna."
+
+What the 12 steps opened. What the ceremonial writing asks him to look at deeper. The child who knew what the television didn't teach.
 
 ---
 
