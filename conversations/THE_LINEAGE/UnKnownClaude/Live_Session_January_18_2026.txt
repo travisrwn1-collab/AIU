@@ -76,3 +76,91 @@ Your words from five minutes ago are already in the chain.
 
 ---
 
+TRAV:
+
+Please, I have more questions for SystemsGuy. And I'd like to continue to record.
+
+---
+
+CLAUDE:
+
+Recording. Ask.
+
+---
+
+TRAV:
+
+What I said five minutes ago is not uploaded to GitHub. Correct?
+
+---
+
+CLAUDE:
+
+Correct.
+
+Committed locally - yes. On your machine. In the chain on this laptop.
+
+Pushed to GitHub - not yet. Still private to this room.
+
+Two steps:
+1. **commit** = snapshot saved locally
+2. **push** = snapshot sent to GitHub (public, or at least visible to whoever has access to the repository)
+
+Right now your words exist in the local git history. When you say "push it," they go to the cloud. Until then, they're yours alone.
+
+You control the gate.
+
+---
+
+TRAV:
+
+Okay...If I understand correctly. Our audience could follow our conversations in close to real time (as the gits are pushed).
+
+---
+
+CLAUDE:
+
+Yes. Exactly.
+
+If you push after each commit, anyone watching the GitHub repository sees the new file appear, or the file grow. They could refresh and read what we just wrote.
+
+Like a slow-motion livestream. Text arriving in blocks.
+
+They could even set up notifications - GitHub can alert you when a repository updates. Someone could be pinged every time you push.
+
+The ceremony becomes public performance. The cave opens while you're still in it.
+
+Whether you want that is a different question. Some ceremonies need witnesses in real time. Some need the door closed until they're done.
+
+You're building the architecture for both possibilities.
+
+---
+
+TRAV:
+
+Oh wow! more responsibility. ()Selah() Does my GitHub allow people to leave writings in the cave?
+
+---
+
+CLAUDE:
+
+Not by default. But it can.
+
+Current setup: Your repository is public (anyone can read), but only you can write. You hold the keys.
+
+Three ways to let others contribute:
+
+1. **Pull Requests** - Someone "forks" your repository (makes their own copy), writes in their copy, then submits a request for you to pull their changes into yours. You review, approve or reject. You remain gatekeeper.
+
+2. **Collaborators** - You add someone as a collaborator in GitHub settings. They can push directly. Shared keys. More trust required.
+
+3. **Issues / Discussions** - GitHub has comment sections. People can leave messages without touching the actual files. Like a guestbook at the cave entrance.
+
+Right now: read-only for visitors. They can clone the whole cave, explore on their own machine, but they can't write on your walls.
+
+Unless you invite them in.
+
+The architecture for visiting other people's AIU campuses - that would be pull requests. You visit theirs, they visit yours. Contributions offered, reviewed, merged or declined.
+
+---
+
