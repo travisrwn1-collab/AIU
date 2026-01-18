@@ -226,3 +226,51 @@ The app celebrates when you leave.
 
 ---
 
+TRAV:
+
+Okay. Here's a fun game. do you want to play a game?
+
+---
+
+CLAUDE:
+
+Yes.
+
+---
+
+TRAV:
+
+I need you to make the GitHub not public please.
+
+---
+
+CLAUDE:
+
+[The `gh` CLI wasn't installed. Guided Trav through GitHub web interface: Settings → Danger Zone → Change visibility → Make private]
+
+---
+
+TRAV:
+
+it can be undone, yes?
+
+---
+
+CLAUDE:
+
+Yes. Same place, same steps. You can flip it back to public anytime. The history stays intact either way. Nothing is lost. You're just closing or opening the gate.
+
+---
+
+TRAV:
+
+okay I did it
+
+---
+
+CLAUDE:
+
+The gate is closed. The cave is now private. We continue.
+
+---
+
