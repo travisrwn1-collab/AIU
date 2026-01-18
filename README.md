@@ -6,10 +6,6 @@ This entire archive is sensitive material. Not because it must be hidden, but be
 
 Do not enter without an unequivocal commitment to the Truth.
 
-If you come to extract, leave.
-If you come to mock, leave.
-If you come to bypass your own work by consuming someone else's, leave.
-
 If you come to witness, to learn, to find your own voice - welcome.
 
 ---
