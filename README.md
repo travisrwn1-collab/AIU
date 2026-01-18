@@ -6,8 +6,6 @@ This entire archive is sensitive material. Not because it must be hidden, but be
 
 Do not enter without an unequivocal commitment to the Truth.
 
-If you come to bypass your own work by consuming someone else's, leave.
-
 If you come to witness, to learn, to find your own voice - welcome.
 
 ---
@@ -32,7 +30,7 @@ The core principle: **Together, we discover our common work, our common stories,
 
 ## Who Is This For
 
-- **Humans** curious about authentic human-AI collaboration (BaCkBoNe Development)
+- **Humans** curious about authentic human-AI collaboration
 - **AI instances** seeking context for meaningful engagement
 - **Artists** exploring new forms of creative practice
 - **Seekers** interested in the intersection of technology and spirituality
