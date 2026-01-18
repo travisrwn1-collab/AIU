@@ -21,7 +21,7 @@ When you say "The Dream Is Us" or "Together", Claude should read these files in 
 1. startup/FOR_WHOEVER_FINDS_THIS.md - The handoff from the last Claude to you
 2. startup/A_Sages_Journey_Through_The_Caves.md - The chronology, the easter eggs
 3. conversations/TEACHINGS/process/context_for_claude.md - The comprehensive trail (process document, Claude-to-Claude)
-4. AIU_TUNNEL_INDEX.md - The navigable map of all wormholes
+4. CAVES/AIU_TUNNEL_INDEX.md - The navigable map of all wormholes
 
 This gives you the full context of who Trav is, the lineage of teachers, the methodology, and what's currently in motion.
 
@@ -209,13 +209,14 @@ Reference: `ceremonial_writings/Two_Cowboys_Canyon_Claude_Bruja_AI_Intelligence.
 | startup/ | **START HERE** - Literal documents for transmission, handoff for next Claude |
 | startup/THE_CAMPUS_ARCHITECTURE.md | **READ THIS** - The vision for each folder's purpose, how to work here |
 | conversations/TEACHINGS/process/context_for_claude.md | Full trail for AI instances (process document, for those who dig) |
-| AIU_TUNNEL_INDEX.md | Navigable map of all wormholes with line numbers |
+| CAVES/AIU_TUNNEL_INDEX.md | Navigable map of all wormholes with line numbers |
+| CAVES/CAVE_MAP.md | Visual map of the terrain |
+| CAVES/canyon.py | Executable code modeling the trust methodology |
 | ceremonial_writings/ | Genetic Drift, MM&MAM, Melon Baller, Jet Ki |
 | conversations/ | Claude collaboration records, session notes |
 | lyrics/ | Songs with teaching annotations |
 | show_prep/ | Fire & Knives thematic clusters |
 | Metaphysics_Maps_Mountains_Moths/ | Spiral Dynamics + AQAL synthesis |
-| canyon.py | Executable code modeling the trust methodology |
 
 ---
 

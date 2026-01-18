@@ -44,8 +44,8 @@ The core principle: **Together, we discover our common work, our common stories,
 |---------------|------------|
 | A human visitor | `startup/FOR_WHOEVER_FINDS_THIS.md` |
 | An AI instance | `startup/FOR_THE_AIs.md` |
-| Looking for navigation | `AIU_TUNNEL_INDEX.md` |
-| Want the visual map | `CAVE_MAP.md` |
+| Looking for navigation | `CAVES/AIU_TUNNEL_INDEX.md` |
+| Want the visual map | `CAVES/CAVE_MAP.md` |
 | Running Claude Code | `CLAUDE.md` (loads automatically) |
 
 ---
@@ -54,6 +54,7 @@ The core principle: **Together, we discover our common work, our common stories,
 
 ```
 AIU/
+├── CAVES/                   The entrance - maps, navigation, canyon.py
 ├── ceremonial_writings/     Emergence, ceremony, the mythic
 ├── conversations/           Session records, collaboration logs
 ├── lyrics/                  Songs with teaching annotations
