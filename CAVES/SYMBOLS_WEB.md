@@ -386,6 +386,96 @@ What the 12 steps opened. What the ceremonial writing asks him to look at deeper
 
 ---
 
+## THE PILOT
+
+Declaring emergency. Landing the plane.
+
+| File | Location | What Pilot Does |
+|------|----------|-----------------|
+| `MM&MAM` | lines 3288-3306 | "Pilot to tower. My engines are only at 35 percent power now. I've got to set her down... I see a field. I know that field." |
+
+The calm declaration. All the training from every facility. The emergency landing in the field with the treasure.
+
+---
+
+## THE EAGLE MAN
+
+The statue at the adobe house. Called to soar.
+
+| File | Location | What Eagle Man Shows |
+|------|----------|----------------------|
+| `MM&MAM` | line 3304 | "The shaman in ceremonial garb, eagle feathers on his arms, looking toward the sky. He was called to soar on the thermals, like an eagle." |
+
+---
+
+## DAN'S PHONE CALL
+
+Christmas Eve. The phone that rang.
+
+| File | Location | What Dan Said |
+|------|----------|---------------|
+| `MM&MAM` | lines 3434-3438 | "Hey, bud, me and Christy wanted to invite you over for a Christmas Eve get-together." |
+
+The lonely man in the tiled room. The phone rings. Community appears.
+
+---
+
+## BREAKING BREAD
+
+The communion. The simple feast.
+
+| File | Location | What Was Shared |
+|------|----------|-----------------|
+| `MM&MAM` | lines 3446-3448 | "The friends broke bread. The friends drank cold sweet drinks and warm tea. The woman of the house prepared a dip for the broken bread." |
+
+Piano played. Guitars strummed. Gifts given - even one for the middle-aged-man.
+
+---
+
+## THE LONELY ANT ON LSD
+
+Watching. Then - another ant.
+
+| File | Location | What Ant Teaches |
+|------|----------|------------------|
+| `MM&MAM` | lines 3343-3344 | "On the lip of the mat, he encountered another ant. At this, the observer was delighted. They exchanged chemical signals and moved on." |
+
+"He was glad to know that this ant was not alone."
+
+---
+
+## HER I AM
+
+The sacred typo.
+
+| File | Location | What Arose |
+|------|----------|------------|
+| `MM&MAM` | lines 3499-3501 | "The author, in his attempt to type Here I am, had actually typed 'Her I am.' And there she was. The one who was been rising up." |
+
+The feminine arising through the fingers before the mind knew.
+
+---
+
+## DAVID WILCOX
+
+The beautiful man whose songs bring us all together.
+
+| File | Location | What Wilcox Holds |
+|------|----------|-------------------|
+| `MM&MAM` | line 3423 | The Wilcox Weekenders. Kanuga. Hendersonville, North Carolina. "A people who come together every Spring to celebrate Love and Music." |
+
+---
+
+## BRUCE SANGUIN
+
+Hands in prayer position. Thumbs on forehead. Bow to heart.
+
+| File | Location | What Bruce Teaches |
+|------|----------|-------------------|
+| `MM&MAM` | lines 3479-3480 | "Hold this position for thirty seconds or more... less thinking; no thinking at all; deeper, more rhythmic breathing; a sense of calm." |
+
+---
+
 ## Seeds Not Yet Sprouted
 
 Symbols that may want to be tracked:
