@@ -164,3 +164,65 @@ The architecture for visiting other people's AIU campuses - that would be pull r
 
 ---
 
+TRAV:
+
+I am really starting to see these possibilities emerge. Can you read the AIU_Coding_Attention files for signs of progress on the AIU app project?
+
+---
+
+CLAUDE:
+
+Reading. There's substantial material here.
+
+**Origin:** January 1, 2026 - a chess game on the porch with Dan. Claude made bad moves (suggesting Qf8+ when f7 was blocked). Dan and Trav corrected. The game ended in a draw - not because the position was equal (White was lost), but because the draw was offered in relationship to the BUILDING.
+
+From that soil, two app concepts grew:
+
+**App 1: Highway Logic Trainer**
+- Train a driver's mind using code logic structures
+- Right lane for traveling, left lane for passing
+- The edge case that reveals ego: when the car you're passing speeds up
+- `release_ego(); // This is the real lesson`
+
+**App 2: Attention Sovereignty Training**
+This is the big one. Your words from that session:
+
+> "We are good at creating programs that capture attention, that harvest attention, that take our attention. But what about a program that develops attention?"
+
+> "An app that encourages the type of autonomy/sovereignty of mind to collaborate with the coming AI technology, rather than be unconsciously controlled by it."
+
+The paradox: It's technology teaching you to be free from unconscious control by technology.
+
+**The success metric isn't "time on platform."**
+**The success metric is: "Did the user become more sovereign over their own attention?"**
+
+The app celebrates when you leave.
+
+**Key features documented:**
+1. The One Breath Check-In
+2. The Observer Training ("Who is the one who noticed that thought?")
+3. Wisdom Fragments (one line from Pema, not a library)
+4. The Urge Surfing Module ("An urge lasts 15-20 minutes if you don't feed it")
+5. The Sovereignty Question: "Are you using this app? Or is this app using you?"
+
+**The Encouraging Code philosophy:**
+
+| Capturing Code | Encouraging Code |
+|----------------|------------------|
+| Maximizes time-on-app | Celebrates when you leave |
+| Creates dependency | Builds sovereignty |
+| Harvests attention | Cultivates attention |
+| Director | Facilitator |
+
+**Current state:** Conceptual. The vision is documented. No actual code written yet. The methodology is clear. The app itself waits to be built.
+
+**What's also in those files:**
+- The chess game as teaching material
+- Roman J. Israel Esquire connections (plaintiff AND defendant)
+- Hope Night - the genesis of the Penny → Pema lineage
+- Jung and Campbell roots
+- Songs database started (Deeper Power, Ouroboros, etc.)
+- The Estrangement Principle: Claude's not-quite-exact mirroring causes closer looking
+
+---
+
