@@ -203,17 +203,195 @@ The blanket. The sky when Emma was born. The Oklahoma dirt.
 
 ---
 
+## BLUE SNAKE
+
+The friendly one. Painted with watercolors. Flipped-up nose.
+
+| File | Location | What Blue Snake Does |
+|------|----------|----------------------|
+| `MM&MAM` | lines 2510-2541 | "Starts at the bottom and goes all the way to the top... I bet he's real good at circling back, Eileen." |
+
+---
+
+## DEWDROP
+
+The tiny that knows it's the vast. Heart of gold shining.
+
+| File | Location | What Dewdrop Teaches |
+|------|----------|----------------------|
+| `MM&MAM` | lines 5668-5748 | "I wish only the will of my father." "He knew the wisdom of the thunderhead, / For he was the thunderhead." |
+
+The Dewdrop connects to the Thunderhead. Tiny circles in circles.
+
+---
+
+## TREE GODDESS
+
+Becoming her. Sensually parading with her sisters.
+
+| File | Location | What Tree Goddess Experiences |
+|------|----------|-------------------------------|
+| `MM&MAM` | line 2519 | Standing as a tree-goddess while men worked next door. Orgasm without erection. "His body quivered to hold this erotic form." |
+
+---
+
+## BEAR
+
+The strong strong bear.
+
+| File | Location | What Bear Holds |
+|------|----------|-----------------|
+| `MM&MAM` | lines 2549, 2563 | "The strong strong bear." "There's the bear." |
+
+---
+
+## OWL WOMAN
+
+Who sheltered him at the loving cabin.
+
+| File | Location | What Owl Woman Offers |
+|------|----------|----------------------|
+| `MM&MAM` | lines 2550, 4056 | The cabin in Lincoln National Forest. Two quiet nights. |
+
+---
+
+## THE UNIVERSAL STAN
+
+The one who brings us all together.
+
+| File | Location | What Stan Does |
+|------|----------|----------------|
+| `MM&MAM` | line 4057 | "The Universal Stan, the one who brings us all together!" |
+
+---
+
+## ELK MOTHER
+
+Yellow elk skin gloves. Praise be.
+
+| File | Location | What Elk Mother Gives |
+|------|----------|----------------------|
+| `MM&MAM` | lines 2566, 2572 | The gloves. The warmth. The sacrifice. |
+
+---
+
+## PEACOCK
+
+With eyes. Derek's watercolor.
+
+| File | Location | What Peacock Sees |
+|------|----------|-------------------|
+| `MM&MAM` | line 2574 | "A peacock with eyes." The artist friend's gift arriving at the perfect moment. |
+
+---
+
+## SALMON
+
+The meal. Thanks to the mother of all Salmon.
+
+| File | Location | What Salmon Nourishes |
+|------|----------|----------------------|
+| `MM&MAM` | lines 2611-2635 | The generative nurturing adult feeding the writer. |
+
+---
+
+## THE FIELD
+
+The treasure. The emergency landing.
+
+| File | Location | What Field Contains |
+|------|----------|---------------------|
+| `MM&MAM` | line 5649 | "the very field that I purchased so long ago, the same field that contained the treasure" |
+
+The parable of the treasure in the field - sells everything to purchase it.
+
+---
+
+## THE BLESSING THAT CANNOT BE REVOKED
+
+Father to son.
+
+| File | Location | What Blessing Promises |
+|------|----------|------------------------|
+| `MM&MAM` | lines 5608-5612 | "Even if I go crazy and try to take it back someday, this is the blessing that cannot be revoked." |
+
+---
+
+## WEIGHTED BLANKET
+
+Rest. Covering. The gift.
+
+| File | Location | What Blanket Holds |
+|------|----------|-------------------|
+| `MM&MAM` | lines 5634, 5657 | Covering the son on the couch. Rest after the festivities. |
+
+---
+
+## UNIVERSAL MOTHER
+
+Preparing the feast.
+
+| File | Location | What Mother Prepares |
+|------|----------|---------------------|
+| `MM&MAM` | lines 5624-5632 | Red meat sauce simmering. Sacred salad. The hospitality palpable. |
+
+---
+
+## TRINITY
+
+Three bulbs. Three lights.
+
+| File | Location | What Trinity Illuminates |
+|------|----------|--------------------------|
+| `MM&MAM` | line 2552 | "the lights of the trinity" hovering over the bed |
+
+---
+
+## TOAD
+
+Survivor. Wisdom. The one who hopped away.
+
+| File | Location | What Toad Teaches |
+|------|----------|-------------------|
+| `Sept 2 2019 spiders snakes plants light.txt` | line 12 | "I acknowledge that the toad is a survivor. He is strong. I acknowledge the toad's wisdom. I ask toad to teach me." |
+
+He hopped away into the dark when startled. The wisdom doesn't stay to be captured.
+
+---
+
+## ANT
+
+Colony. Communal movement. Doing their part.
+
+| File | Location | What Ant Shows |
+|------|----------|----------------|
+| `Sept 2 2019 spiders snakes plants light.txt` | line 12 | "an ant colony, in the alley... doing his part to dig the hole" |
+
+No pattern visible. But the movement in general. Each one doing their part.
+
+---
+
+## ANNA'S CORRECTION
+
+The child who taught the father.
+
+| File | Location | What Anna Said |
+|------|----------|----------------|
+| `Sept 2 2019 spiders snakes plants light.txt` | line 12 | "Dad, you can't treat the dogs that way. You can't hurt the animals anymore." |
+
+The correction that landed. "I am becoming more like Anna."
+
+---
+
 ## Seeds Not Yet Sprouted
 
 Symbols that may want to be tracked:
 
 - **Cat/Eli** - the purring during the Great Turning, the face in the moth
-- **Toad** - survivor, wisdom, the one who hopped away
-- **Ant** - colony, communal movement, doing their part
 - **Oatmeal** - "Can we make some oatmeal?" - Mother and son
 - **Faeries** - dancing in the meadow two days before
-- **Owl Woman** - who sheltered him at the loving cabin
-- **The Universal Stan** - the one who brings us all together
+- **Brother** - "are you still not talking to me?" - the text that arrives
+- **Melon Baller** - scraping out the insides of the soul
 
 ---
 
