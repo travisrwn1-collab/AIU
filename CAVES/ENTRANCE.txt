@@ -62,8 +62,11 @@ Some travelers find them useful. Others walk right past.
 ───────────────────────────────────────────────────────────────────────────────
                               THE BACKBONE
                          (OpenSource--Educational Materials)
-((({Dear Reader: 1. take what you can use 2. Leave the rest 
-[The writer who opens his process to heal]})))()ParentheticalSpaces 
+
+((({Dear Reader: 1. take what you can use 
+                 2. Leave the rest})))    
+
+{[(ParentheticalSpaces)]} 
 
 & 
 
