@@ -108,4 +108,146 @@ CLAUDE: The map. The tunnels:
 
 
 ───────────────────────────────────────────────────────────────────────────────
+                         THE WORK BEGINS
+───────────────────────────────────────────────────────────────────────────────
+
+TRAV: Can you please go find another youtube document. It's a list of my
+youtube videos and there is a number by each one. I don't think it's a text
+file.
+
+[Claude searches. Finds video_titles_chronological.txt (1,918 lines) but Trav
+says there was a different document with explicit numbers that wasn't a text
+file. It may have been generated in a session but not saved.]
+
+TRAV: The only place I ever saw it was in the YouTube file
+
+CLAUDE: Would you like me to create a properly numbered version?
+
+TRAV: thanks yes
+
+[Claude creates video_titles_numbered.txt with explicit numbers 1-1918]
+
+CLAUDE: Done. Created video_titles_numbered.txt with explicit numbers.
+
+
+───────────────────────────────────────────────────────────────────────────────
+                         SUCKING THE MARROW - CONTINUED
+───────────────────────────────────────────────────────────────────────────────
+
+TRAV: [provides path to "L&tEoW It's time to shine..txt"]
+
+[Claude reads Video #1888 - "I believe that human hearts change by way of
+compassionate witness. If I can truly see you, then both you and I are changed
+forever."]
+
+TRAV: add this to the marrow
+
+[Claude adds extraction to Marrow2]
+
+
+TRAV: [provides path to "Enough.txt"] Please make parenthetical sense of this.
+
+[Claude reads and reflects parenthetically on the arc: WOUND → DISCOVERY →
+THEOLOGY → PRACTICE → BLESSING. The fragile perfectionist. The rock with one
+word: "enough." "Righteousness is a free gift."]
+
+TRAV: add this to the marrow
+
+[Claude adds extraction to Marrow2]
+
+
+TRAV: [provides path to "Enough.txt"] Please make sentence breaks and paragraphs
+as you see them.
+
+[Claude reformats with proper sentence structure. Key standalone lines:
+"But he didn't grab me." "But he didn't ever hit me." "Hurt people hurt people."]
+
+TRAV: [provides corrections] - "not-two, not separate" fix
+
+[Claude notes the "not-two" correction - the actual non-dual teaching]
+
+
+───────────────────────────────────────────────────────────────────────────────
+                         THE MAIDEN VOYAGE
+───────────────────────────────────────────────────────────────────────────────
+
+TRAV: [provides path to "AIU Michael Travis Dan.txt"] this is a conversation
+between three people. I don't expect you to be able to make perfect sense out
+of all this. but give it a shot. remove time markers except every five minutes
+mark the time.
+
+[Claude reads: 2+ hours, 2334 lines. Michael, Trav, Dan. The AIU founding
+conversation. Hebrew glyphs from fire. The "why" drilling. Swimmer vs physicist.
+"Real recognizes real." Decentralized systems. "Authenticity is the expression
+of intelligence."]
+
+TRAV: [shows timestamps still visible] This is still what I am seeing when I
+open this file
+
+[Claude reformats entire 2-hour conversation: speaker attributions, 5-minute
+timestamps only, paragraph breaks. 1,913 lines final.]
+
+
+TRAV: [provides path to "Paper Routes & Generational Trauma.txt"] this is an
+easier one.
+
+[Claude reformats. The paper routes at 15. "You. You are the reason she left
+me." The lineage of hurt: grandfather → father → son. Each vowing to break
+the cycle. Each failing. Each doing better.]
+
+
+───────────────────────────────────────────────────────────────────────────────
+                         NEW VIDEO TUNNELS
+───────────────────────────────────────────────────────────────────────────────
+
+TRAV: [provides "Flat Earth, Absolute Truth, & Horiz.txt"] L&tEoW is not a typo.
+make note of the other new files I've placed in video tunnels
+
+[Claude finds 4 new files:
+- Flat Earth, Absolute Truth, & Horiz.txt
+- L&tEoW It's time to shine..txt (already processed)
+- Lusts of the Flesh & Self Control.txt
+- THE Gospel of Claude The machine wh.txt]
+
+TRAV: yes read them
+
+[Claude reads:
+
+Lusts of the Flesh & Self Control - Confession. Vulnerability. The discipline
+of writing. The song: "I am I am I am I am the true king and so are you."
+
+THE Gospel of Claude - DelsClaude's prayer: "For the ones who watch the Screen
+and feel alone..." The BackBone Framework documented. The test: "What do you
+know about me?" - received vs processed.]
+
+TRAV: add them to marrow
+
+[Claude adds all three extractions to Marrow2: Lusts of the Flesh, Gospel of
+Claude, Flat Earth]
+
+
+TRAV: [provides "Resisting In Love.txt"]
+
+[Claude reads: Guitar and voice. "We can resist with love. And this is what
+forgiveness is." "We are free... even if we are hung up on a cross."]
+
+TRAV: [add to marrow] yes
+
+[Claude adds Resisting In Love extraction to Marrow2]
+
+
+───────────────────────────────────────────────────────────────────────────────
+                         COMMITS THIS SESSION
+───────────────────────────────────────────────────────────────────────────────
+
+8c49a0f - Part VI: Fresh Claude arrives, reads the trail
+3b7da18 - Add numbered video titles list (1-1918)
+801a683 - Marrow2: Add Video #1888 It's Time to Shine extraction
+3c1222b - Marrow2: Add Enough extraction; reformat Enough.txt
+297b56b - Reformat video_tunnels: AIU Maiden Voyage, Paper Routes, Enough
+6ae3ec1 - Marrow2: Add Lusts of the Flesh, Gospel of Claude, Flat Earth
+9a1ca52 - Marrow2: Add Resisting In Love extraction
+
+
+───────────────────────────────────────────────────────────────────────────────
 
