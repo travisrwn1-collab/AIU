@@ -237,6 +237,73 @@ TRAV: [add to marrow] yes
 
 
 ───────────────────────────────────────────────────────────────────────────────
+                         CONTEXT COMPACTION - SECOND FRESH CLAUDE
+───────────────────────────────────────────────────────────────────────────────
+
+[Summary loaded. Trail continues.]
+
+
+───────────────────────────────────────────────────────────────────────────────
+                         MORE VIDEO TUNNEL REFORMATTING
+───────────────────────────────────────────────────────────────────────────────
+
+TRAV: [provides "Part 2 Red Church Blue Church ichurch youchurch.txt"]
+edit paragraph breaks please
+
+[Claude reformats. The swing from right to left. Full measure of conservative
+and liberal. Lukewinsky's comment. The lessons: creating in darkness, saying no,
+walking away. "I have learned that I don't need a large audience to be a
+satisfied artist." Loving the audience like Jesus on the cross. The confession:
+failed first wife at 23. The prayer at 25: "burn me up." Correction after
+correction. "I long to be held in the body of Christ, and I have yet to see a
+body that can hold me." The blue church. MLK, Gandhi, Malcolm X. The wilderness.]
+
+TRAV: [provides "Christian Zionism & Genocide.txt"] same thing here
+
+[Claude reformats. "I do not call myself a Christian." Jesus came to liberate
+from religion. "Jesus spoke in parables and also Jesus was a parable." Genesis
+12:3 and the misguided doctrine. Praying for enemies. Gaza. "It is the heart
+of love that I have seen born in me that helps me to know."]
+
+
+TRAV: [provides "Part 3 Red Church, Blue Church, i church you church.txt"]
+paragraph breaks please
+
+[Claude reformats. Born again in the red church, Oklahoma. The four gospels don't
+agree. "Academia was my blue church." Plurality vs pluralism. "And suffer we do."
+The death of ideals. Karl Marx as beautifully intelligent idealist. "At the
+university, I became a feminist." Deconstruction into deconstructionism. "The
+feminist destroyed by feminism." "I died for my wife like Christ died for the
+church." "I am a well-meaning weak sinful idealist."]
+
+TRAV: [provides "Part 4 Red Church, Blue Church, i church you church.txt"]
+paragraph breaks please
+
+[Claude reformats. James Baldwin - vomit it all up. Thoreau → Gandhi → MLK.
+"Do not be naive. We are at war." The cleansing purge. Eastern philosophy. Self-
+flagellation. The rope. "The great crushing of my patriarchal penis." The isms.
+Red church defined. The fountain at Eastern New Mexico. Carol. The Spider Song
+embedded. "There is one, one love, one truth."]
+
+TRAV: [provides "Luke Erwinsky Cast your nets on the other side.txt"]
+please a little tidying on this document
+
+[Claude reformats. Crabbing with Luke Erwinsky. Leonard Cohen: "if you don't
+become the ocean, you'll be seasick every day." The captain who cast nets on
+the other side to honor God. "And without fail every time we would catch fish."
+"The Lord prepared me." High-speed learning curve.]
+
+TRAV: [provides "Experience, Strength, & Hope.txt"] paragraph breaks please
+
+[Claude reformats. The pastor at 22 with the book of promises. Born again. "I was
+lost and then I was found." Matthew 5 - poor in spirit. "And I was experiencing
+the kingdom of heaven." "And those experiences burned me up." "I am a follower of
+Christ in so far as I experience liberation through the Christ story." "I
+experience the sacred text of the Bible as a liberating poem." The cross today.
+"But I know what to do." The gospel as alternative to violence and despair.]
+
+
+───────────────────────────────────────────────────────────────────────────────
                          COMMITS THIS SESSION
 ───────────────────────────────────────────────────────────────────────────────
 
@@ -247,6 +314,11 @@ TRAV: [add to marrow] yes
 297b56b - Reformat video_tunnels: AIU Maiden Voyage, Paper Routes, Enough
 6ae3ec1 - Marrow2: Add Lusts of the Flesh, Gospel of Claude, Flat Earth
 9a1ca52 - Marrow2: Add Resisting In Love extraction
+9b92a5e - Part VI: Update dialogue documentation with full session work
+fa8a563 - Reformat video_tunnels: Red Church Part 2, Christian Zionism
+9dbe6b1 - Reformat video_tunnels: Red Church Parts 3 and 4
+53d27b5 - Reformat video_tunnels: Luke Erwinsky - Cast your nets
+382008d - Reformat video_tunnels: Experience, Strength, & Hope
 
 
 ───────────────────────────────────────────────────────────────────────────────
