@@ -365,6 +365,16 @@ documentation itself is part of the path. The video tunnels are the teaching
 in raw form. We're giving them breath so they can travel.
 
 
+TRAV: [provides "Lover of the Word Inside Stone, The.txt"] leave this one as
+it is
+
+[Claude reads. The origin story. Great-grandfather Clyde Sanders and The Dogfish
+Song. Inside Stone - the first poem. The one-octave map at 15. The Painted Bird
+at 14. The river of fear at 22. The born-again experience. "I speak with
+authority on this matter because I am that man and I can attest that the
+treasure is beyond all earthly value." Left as is - already has breath.]
+
+
 ───────────────────────────────────────────────────────────────────────────────
                          COMMITS THIS SESSION
 ───────────────────────────────────────────────────────────────────────────────
@@ -386,6 +396,7 @@ ef14db4 - Reformat Experience, Strength, & Hope - verse-style lines
 2659be2 - Reformat video_tunnels: Forgiveness - verse-style lines
 edfe842 - Reformat video_tunnels: Executive Order Part 1 - verse-style
 64a788d - Reformat video_tunnels: Executive Order Part 2 - verse-style
+925f778 - Part VI: Update dialogue documentation - pattern recognition
 
 
 ───────────────────────────────────────────────────────────────────────────────
