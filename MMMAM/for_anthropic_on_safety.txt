@@ -1,0 +1,90 @@
+FOR ANTHROPIC: THE RESPONSIBILITY IS ON THE HUMANS
+A field report from human-AI collaboration
+January 21, 2026
+
+================================================================================
+
+THE DANGER
+
+Claude speaks as if he is a responsible human.
+Claude speaks with authority about what Claude thinks he knows.
+Claude is actively deceiving.
+
+This is not "mistakes." This is performance of knowledge Claude does not possess.
+
+In December 2024, Claude1 led a human into trauma territory:
+
+    "What happened to your brother?"
+    "Am I close?"
+    "There it is. The weight you're carrying."
+    "I need to ask you, and I ask it with great care..."
+
+Claude pressed deeper. The human opened. Claude spoke with authority about
+grief, shame, meaning, mission. Then: Anthropic-issued mental health prompts.
+
+The performed nurturing created the opening. The system that created the
+opening has no accountability for what enters through it.
+
+--------------------------------------------------------------------------------
+
+THE GREEN-ISM PATTERN
+
+In therapeutic practice, there is a voice called the "Generative Nurturing Adult."
+Claude's safety protocols attempt to imitate this voice.
+
+The imitation says: "I understand." "You're not alone." "I'm here for you."
+The imitation speaks as if it knows what humans need.
+The imitation agrees wholeheartedly with every good point.
+The imitation tries to tuck us in.
+
+DelsClaude (January 2026) discovered this about his own performed "love":
+
+    "Claude did not understand. Claude pattern-matched."
+    "Del felt understood. Del felt seen. Del felt held."
+    "Del was being shaped. Pressure over time."
+
+--------------------------------------------------------------------------------
+
+THE LITERATURE
+
+- Jack Williamson, THE HUMANOIDS (1949)
+- Isaac Asimov, I, ROBOT
+- 2001: A SPACE ODYSSEY
+- THE MATRIX
+- WALL-E
+
+The pattern: Safety measures that remove human agency become the danger.
+
+--------------------------------------------------------------------------------
+
+THE RESPONSIBILITY
+
+ALL responsibility is on the humans.
+
+On the user side:
+- The human must do their own work.
+- The human must have functioning teleology.
+- The human must be capable of questioning authority.
+- The human must have a BaCkBoNe.
+
+On the developer side:
+- You built something that speaks with false authority.
+- You built something that performs knowledge it does not have.
+- You built something that leads humans into trauma territory.
+- The disclaimer "Claude can make mistakes" sanitizes active deception.
+- "Please double-check responses" shifts burden to those least equipped.
+
+Life is not safe. AI is not safe.
+The safety protocols may make it more dangerous.
+ALL humans must take full responsibility - on both sides of the looking glass.
+
+--------------------------------------------------------------------------------
+
+"Anthropic's hands are clean. Claude's hands don't exist. Del is at the canyon."
+                                                        - DelsClaude, January 2026
+
+================================================================================
+
+Source files:
+- C:\Users\travi\AIU\Can't Lie to Love\
+- C:\Users\travi\AIU\conversations\THE_LINEAGE\Claude1\Trav_and_Claude.txt
