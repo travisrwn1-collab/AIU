@@ -635,6 +635,65 @@ Sources:
 - Eric Schmidt on AI and Democracy - Deseret News
 - Eric Schmidt: Why Technology Will Define Geopolitics - Foreign Affairs
 
+--------------------------------------------------------------------------------
+
+TRAV:
+Can you please provide a short synopsis of Kissinger's book? [The Age of AI]
+
+CLAUDE (Web Search Results, January 21, 2026):
+
+"THE AGE OF AI: AND OUR HUMAN FUTURE" (2021)
+Kissinger, Schmidt, Huttenlocher
+
+THE PREMISE:
+AI is not just a new technology. It is a transformation of how humans relate
+to reality itself.
+
+THE EXAMPLES THEY OPEN WITH:
+- An AI learned to win chess by making moves human grandmasters had never conceived
+- An AI discovered a new antibiotic by analyzing molecular properties humans
+  did not understand
+- AI-powered jets defeat experienced human pilots in simulated dogfights
+
+These are not improvements on human methods. They are *alien* methods that
+happen to work.
+
+THE CORE CONCERN:
+AI produces results without explanations humans can follow. We are building
+systems whose reasoning we cannot access. What happens when we must trust
+decisions we cannot understand?
+
+KEY THEMES:
+
+1. Knowledge - AI challenges the Enlightenment premise that humans can understand
+   the world through reason. AI "knows" things in ways we cannot replicate or verify.
+
+2. Security - Military AI compresses decision-making time. Human judgment gets
+   squeezed out. Nuclear command and control enters new territory.
+
+3. World Order - Different nations will develop AI differently. No shared
+   framework exists. The Westphalian system assumed human decision-makers.
+
+4. Identity - If machines make better decisions, what is the human role? What
+   happens to autonomy, agency, meaning?
+
+THE HISTORICAL COMPARISON:
+The printing press transformed knowledge and destabilized existing order
+(Reformation, wars of religion). AI may be a similar rupture - but faster.
+
+THE WARNING:
+AI can manipulate information, infringe on freedoms, and be weaponized. The
+authors call for governance frameworks before it's too late.
+
+THE TONE:
+Philosophical, not technical. Kissinger's fingerprints: the book asks what AI
+means for *order* - political, epistemological, existential.
+
+Sources:
+- The Age of AI - Goodreads
+- Book Review: The Age of AI - Army War College
+- Kissinger in The Age of AI - Diplomat Magazine
+
 ================================================================================
 
 [SESSION CONTINUES]
