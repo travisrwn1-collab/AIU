@@ -1,0 +1,128 @@
+THIEL, VANCE, CHRIST, PALANTIR
+A research dialogue between Trav and Claude (Opus 4.5)
+January 21, 2026
+
+================================================================================
+
+CONTEXT:
+This file branches from process_dialogue_jan_2026_pt2.txt
+Trav researching Anthropic's connections: Palantir, Gates, LTBT trustees.
+This thread follows the Christ/Antichrist language in Peter Thiel's worldview.
+
+--------------------------------------------------------------------------------
+
+TRAV:
+Since Thiel mentioned the AntiChrist, please tell me about Thiel's Christ in
+terms of how he speaks of his understanding of who Christ is.
+
+CLAUDE (Web Search Results, January 21, 2026):
+
+THE CORE CONFESSION:
+
+"I believe in the resurrection of Christ—the bodily resurrection of Christ." (2024)
+
+He labels his biblical views "pretty fairly orthodox." Lutheran by upbringing
+and current profession. Emphatically not Calvinist.
+
+--------------------------------------------------------------------------------
+
+THE GIRARDIAN CHRIST
+
+Thiel's theology is filtered through Rene Girard, the Christian anthropologist
+he studied under at Stanford. He founded Imitatio, an organization dedicated to
+Girard's mimetic theory.
+
+The Scapegoat Mechanism:
+- Human desires are mimetic (imitative) - we want what others want
+- This imitation leads to rivalry and violence
+- Societies restore order through scapegoating - transferring collective
+  aggression onto an innocent victim
+- This temporarily unites the community but perpetuates cycles of violence
+
+Christ as the Revelation:
+The Christian story is the ultimate Girardian ritual because Jesus is a classic
+scapegoat, but with an all-important twist:
+
+- Previous myths were told from the perspective of the community (the mob)
+- The Christian story is told from the perspective of the victim
+- This is "the essence of biblical revelation" - it unmasks the scapegoat mechanism
+- Christ's story reveals the innocence of victims and the injustice of scapegoating
+
+Thiel "finds hope in Girard's account of the Christian inversion of the
+scapegoat story... he sees in the story of Christ the final mechanism that will
+control mimetic violence and bring peace."
+
+--------------------------------------------------------------------------------
+
+"HYPER-CHRISTIANITY" (Thiel's Critique)
+
+Thiel distinguishes between orthodox Christianity and what he calls
+"hyper-Christianity" or "ultra-Christianity":
+
+- Orthodox faith: solidarity + robust condemnation of sin + duty of forgiveness
+- Hyper-Christianity: keeps the moralizing, dumps the mercy—and God himself
+
+In colloquial terms, he equates "hyper-Christianity" with wokeness. The form of
+Christianity without the content.
+
+--------------------------------------------------------------------------------
+
+FAITH AND REASON
+
+"When you get rid of faith you end up in a world where there's no reason either.
+And we're living in a much less rational world than we were living in 100 years
+ago."
+
+--------------------------------------------------------------------------------
+
+PESSIMISM ABOUT HUMAN NATURE
+
+Thiel is a pessimist about human nature, rooted in original sin. Humans are
+inherently prone to violence and envy, requiring strong frameworks (often
+religious) to contain their darker impulses.
+
+--------------------------------------------------------------------------------
+
+THE ANTICHRIST LANGUAGE
+
+When Thiel calls AI regulators "legionnaires of the Antichrist," he's operating
+in an apocalyptic register. He's talking more openly in the 2020s about "agency
+and apocalypse." At a 2023 brunch, he delivered a talk on miracles, forgiveness,
+and Jesus Christ to 220 tech/VC people who "didn't know Peter Thiel was a
+Christian."
+
+--------------------------------------------------------------------------------
+
+THE CRITIC'S VIEW
+
+A priest responding to Thiel's Antichrist language: Thiel "seems to envisage a
+'clash of civilisations' between ideologically differentiated enemies — the
+Christian West and fundamentalist Islam — rather than, as Mimetic Theory would
+find, mimetic rivals whose conflict stems from wanting the same things."
+
+In other words: Thiel may be selectively applying Girard's framework.
+
+--------------------------------------------------------------------------------
+
+THE JD VANCE CONNECTION
+
+JD Vance ascribes his adult conversion to Catholicism partly to the influence
+of Girard, via Thiel. The mentor-protege relationship includes theological
+transmission.
+
+--------------------------------------------------------------------------------
+
+Sources:
+- Why Peter Thiel is talking about the Antichrist and Armageddon - Bonnie Kristian
+- Peter Thiel's Religion - David Perell
+- Peter Thiel Returns to San Francisco To Make the Intellectual Case for
+  Christianity - Medium
+- I'm a priest. Here's why you should reject Peter Thiel's Antichrist talk -
+  SF Standard
+- Tech bros don't get Rene Girard - UnHerd
+- Deconstructing the Worldview of Peter Thiel - Stephen Diehl
+
+================================================================================
+
+[SESSION CONTINUES]
+
