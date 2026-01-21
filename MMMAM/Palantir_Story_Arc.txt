@@ -101,6 +101,166 @@ Sources:
 - Roommates, PayPal fraud, and the unconventional story behind Palantir - The Hustle
 - New book explores Palantir's CEO - NPR
 
+--------------------------------------------------------------------------------
+
+TRAV:
+what happened after the CIA funding
+
+CLAUDE (Web Search Results, January 21, 2026):
+
+AFTER THE CIA FUNDING
+
+2004: SILICON VALLEY REJECTION
+
+Before In-Q-Tel, they tried Sand Hill Road. Nobody wanted it.
+
+Sequoia Capital meeting: Michael Moritz (who had backed PayPal, sat on its board,
+was close to Thiel) spent most of the pitch "absentmindedly doodling in his notepad."
+
+No VC wanted to fund an "expensive software platform for large organizations."
+
+This made Karp contemptuous of professional investors permanently.
+
+--------------------------------------------------------------------------------
+
+2005: IN-Q-TEL SAYS YES
+
+A VC who rejected them suggested: "If you really want to work with government,
+try In-Q-Tel."
+
+What Palantir didn't know: the CIA was actively looking for new data analytics
+tech. Their existing tool (Analyst's Notebook, British company i2) had
+deficiencies in data processing.
+
+In-Q-Tel CEO Gilman Louie normally didn't attend pitch meetings. He made an
+exception because Thiel was involved.
+
+$2 million across multiple stages. Small money, but enormous credibility.
+
+--------------------------------------------------------------------------------
+
+2005-2006: BUILDING GOTHAM
+
+- Engineers traveled biweekly from Palo Alto to CIA headquarters at Langley
+- Iterative process with actual intelligence analysts
+- Built first platform: Palantir Gotham
+
+Late 2006: CIA analyst Sarah Adams discovered Palantir at a tech conference.
+Stephen Cohen demoed the software. She became an in-house evangelist, got her
+unit to do a pilot program.
+
+Funding rounds (2006):
+- Series A: $7.5 million (June, Oakhouse Partners)
+- Series B: $10.5 million (November, REV)
+
+Key move: They never gave up a board seat to investors. Not even In-Q-Tel.
+Founder control maintained.
+
+--------------------------------------------------------------------------------
+
+2008: GOTHAM DEPLOYED
+
+First major clients: U.S. Intelligence Community
+
+Used to detect roadside bombs in Iraq and Afghanistan.
+
+--------------------------------------------------------------------------------
+
+2010: PRIVATE SECTOR PIVOT BEGINS
+
+Worked with Thomson Reuters on analytics tool. Helped JPMorgan fight financial
+fraud.
+
+No longer quasi-government agency only.
+
+--------------------------------------------------------------------------------
+
+2013: LEAKED CLIENT LIST
+
+TechCrunch obtained document showing at least 12 U.S. government clients:
+- CIA
+- DHS
+- NSA
+- FBI
+- CDC
+- Marine Corps
+- Air Force
+- Special Operations Command
+- And more
+
+Valuation: $9 billion (December 2013)
+
+--------------------------------------------------------------------------------
+
+2014-2015: GROWTH
+
+- $15 billion valuation (November 2014)
+- $20 billion valuation (late 2015, $880 million round)
+
+--------------------------------------------------------------------------------
+
+2016: SUED THE U.S. ARMY
+
+Palantir sued the Army over a "battle management software" contract. Won the
+right to compete. Opened floodgates for more government contracts.
+
+--------------------------------------------------------------------------------
+
+2020: IPO AND EXIT FROM SILICON VALLEY
+
+- Went public (unconventional IPO, no hype)
+- Moved headquarters to Denver, Colorado
+- Distanced from "engineering elite of Silicon Valley... they do not know more
+  about how society should be organized or what justice requires"
+
+--------------------------------------------------------------------------------
+
+THE ARC:
+
+    PayPal fraud detection ("Igor")
+            |
+            v
+    FBI requests it
+            |
+            v
+    Thiel proposes company to Karp
+            |
+            v
+    Silicon Valley rejects them
+            |
+            v
+    CIA's In-Q-Tel funds them
+            |
+            v
+    Build Gotham at Langley
+            |
+            v
+    Iraq/Afghanistan bomb detection
+            |
+            v
+    Expand to all intelligence agencies
+            |
+            v
+    Private sector (banks, corporations)
+            |
+            v
+    Sue Army, win right to compete
+            |
+            v
+    IPO, leave Silicon Valley
+            |
+            v
+    Israel partnership, Ukraine targeting
+            |
+            v
+    "Responsible for most of the targeting"
+
+Sources:
+- How Silicon Valley rejection and CIA cash fueled Palantir's rise - Fast Company
+- Palantir Technologies - Wikipedia
+- Inside the CIA-backed venture fund - Fortune
+- Palantir's Growth Story - Medium
+
 ================================================================================
 
 [SESSION CONTINUES]
