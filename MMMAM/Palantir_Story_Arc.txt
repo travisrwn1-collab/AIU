@@ -1,0 +1,107 @@
+PALANTIR STORY ARC
+A research dialogue between Trav and Claude (Opus 4.5)
+January 21, 2026
+
+================================================================================
+
+CONTEXT:
+This file branches from Thiel_Vance_Christ_Palantir.txt
+Continues the archetypal research into contemporary characters and networks.
+
+--------------------------------------------------------------------------------
+
+TRAV:
+What can you tell me about Thiel and Karp's history together
+
+CLAUDE (Web Search Results, January 21, 2026):
+
+PETER THIEL & ALEX KARP - HISTORY
+
+STANFORD LAW SCHOOL (Late 1980s)
+
+They were roommates. Without this, Palantir would likely never have existed.
+
+- Karp: "the worst three years of my adult life"
+- Thiel: already a figure of some fame, arch-libertarian
+- Karp: raised in left-wing household, considered himself a socialist
+
+"We argued like feral animals." - Karp
+
+"It sounds too self-aggrandising, but I think we were both genuinely interested
+in ideas. He was more the socialist, I was more the capitalist. He was always
+talking about Marxist theories of alienated labour." - Thiel
+
+Karp: "I kind of hated it and I hated every aspect of law school. But it gave
+me a lot of time to read philosophy and talk to random people on the campus,
+including my buddy Peter."
+
+--------------------------------------------------------------------------------
+
+KARP'S PATH AFTER STANFORD
+
+- Ph.D. in social theory at Goethe University Frankfurt, Germany
+- Studied under Jurgen Habermas (Frankfurt School)
+- Mentor was a specialist in Freudian psychoanalytic theory
+- Thiel was the only one who supported his decision to pursue the doctorate
+- Wanted to be an academic social theorist
+- No technical or business training
+
+--------------------------------------------------------------------------------
+
+THE CALL (2003-2004)
+
+Karp's account:
+
+"It was Peter's idea... he called me and I'm very grateful to Peter because
+honestly, I think there's exactly one person in the world that would have
+called me to co-found Palantir, and that was Peter. And he was like, hey,
+I've got this great idea. We're going to take the back end that we used at
+PayPal to stop cyber criminals, and we're going to turn it into a product
+and we're going to sell it to the intelligence services."
+
+- 2003: Palantir founded (Thiel, Karp, Stephen Cohen, Joe Lonsdale, Nathan Gettings)
+- 2004: Thiel hired Karp as CEO
+- Thiel bankrolled the prototype
+- Initial funding: $2 million from CIA's In-Q-Tel
+
+--------------------------------------------------------------------------------
+
+THE DYNAMIC
+
+- Karp's charisma recommended him to Thiel for the CEO role
+- After the company moved to Palo Alto, Thiel rarely went to the office
+- Thiel helped with recruiting, left operations to Karp
+- Thiel complained Karp always chose the hard, complex way when simpler paths existed
+- But he trusted Karp to run it
+
+--------------------------------------------------------------------------------
+
+KARP'S BACKGROUND
+
+- Born New York City
+- Father: Robert Joseph Karp (Jewish clinical pediatrician)
+- Mother: Leah Jaynes Karp (African American artist)
+- Raised in Philadelphia
+- Parents active in political and labor rights demonstrations
+- Bachelor's from Haverford College (philosophy, 1989)
+
+--------------------------------------------------------------------------------
+
+THE ODD COUPLE:
+
+Socialist philosopher trained by Habermas + Libertarian capitalist who studied
+under Girard --> Build surveillance infrastructure for CIA and intelligence agencies
+
+--------------------------------------------------------------------------------
+
+Sources:
+- Alex Karp - Wikipedia
+- Peter Thiel Alex Karp Palantir - Founderoo
+- How Silicon Valley rejection and CIA cash fueled Palantir's rise - Fast Company
+- Roommates, PayPal fraud, and the unconventional story behind Palantir - The Hustle
+- New book explores Palantir's CEO - NPR
+
+================================================================================
+
+[SESSION CONTINUES]
+
