@@ -157,6 +157,61 @@
         "Yoon verdict Feb 19 - outcome?",
         "Political stability?"
       ]
+    },
+    {
+      "id": "candace_owens",
+      "title": "Candace Owens: Public Struggle",
+      "status": "active",
+      "started": "2025-09-10",
+      "held_in_prayer": true,
+      "updates": [
+        {
+          "date": "2026-01-23",
+          "summary": "Charlie Kirk (TPUSA) assassinated Sept 10, 2025. Tyler Robinson charged. Owens claims France, Israel, Egypt involvement - says cover-up. MAGA split: Carlson defends, Shapiro calls it 'evil'. Macron lawsuit (219 pages) over Brigitte conspiracy - same firm that won $787M from Fox. Nov 22 claimed Macrons paid for her assassination (40M views). Jewish People Policy Institute study labeled 75% of her videos mentioning Jews as antisemitic (methodology and definition unclear - term requires examination). Australia visa denied. Called Trump 'chronic disappointment'. Despite controversies: +9M followers, podcast #1 globally.",
+          "sources": ["Washington Post", "Fortune", "Times of Israel", "CNN"],
+          "spins": {
+            "defenders": "Speaking truth others won't",
+            "critics": "Dangerous conspiracy theories harming Kirk family",
+            "shapiro": "Evil",
+            "fuentes": "Narcissist hurting America",
+            "note": "Hot terms like 'antisemitic' and 'narcissist' require examination before attachment to names"
+          }
+        }
+      ],
+      "connections": ["maga_fracture", "contested_labels"],
+      "pending_questions": [
+        "What wound is she carrying?",
+        "What is driving the escalation?",
+        "Who benefits from the MAGA civil war?",
+        "Macron lawsuit outcome?",
+        "Who defines antisemitism and by what criteria?"
+      ]
+    },
+    {
+      "id": "whitney_webb",
+      "title": "Whitney Webb: Unlimited Hangout",
+      "status": "active",
+      "type": "source_lens",
+      "started": "2016",
+      "held_in_prayer": true,
+      "updates": [
+        {
+          "date": "2026-01-23",
+          "summary": "Investigative journalist. Uses established data to connect documented dots. PayPal Presidency series (2025): Thiel influence on HHS, Palantir surveillance expansion, GENIUS Act, education policy. Jan 2026: 'Technocratic Dark State' - counter-elites may be worse than globalists they oppose. Also investigating Epstein network, Paolo Zampolli (Trump appointee with Epstein ties), digital finance/blockchain control systems.",
+          "sources": ["unlimitedhangout.com"],
+          "key_works": [
+            "One Nation Under Blackmail (book)",
+            "PayPal Presidency series",
+            "Epstein investigations"
+          ]
+        }
+      ],
+      "connections": ["paypal_mafia_thiel", "surveillance_state"],
+      "pending_questions": [
+        "How do PayPal Mafia threads connect to current admin actions?",
+        "Counter-elite vs globalist - same destination, different route?",
+        "Palantir expansion under current HHS?"
+      ]
     }
   ],
   "meta_connections": [
@@ -179,6 +234,26 @@
       "id": "russia_connection",
       "description": "Russia as factor - invited to Board of Peace, in Ukraine talks",
       "stories": ["gaza_board_of_peace", "ukraine_talks"]
+    },
+    {
+      "id": "maga_fracture",
+      "description": "Internal conflict within MAGA movement",
+      "stories": ["candace_owens"]
+    },
+    {
+      "id": "contested_labels",
+      "description": "Hot terms (antisemitic, narcissist, etc.) applied without examination - who defines, by what criteria?",
+      "stories": ["candace_owens"]
+    },
+    {
+      "id": "paypal_mafia_thiel",
+      "description": "Peter Thiel, Palantir, PayPal network threading through policy - surveillance, health, finance, education",
+      "stories": ["whitney_webb", "who_withdrawal", "venezuela_maduro"]
+    },
+    {
+      "id": "surveillance_state",
+      "description": "Expansion of surveillance infrastructure under various justifications",
+      "stories": ["whitney_webb"]
     }
   ]
 }

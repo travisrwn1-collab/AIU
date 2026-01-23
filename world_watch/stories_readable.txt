@@ -18,7 +18,6 @@ ACTIVE STORIES
    - US: "Law enforcement action"
    - Al Jazeera: "Abduction"
    - Defense: "Military abduction was unlawful"
-   - Legal experts: Trial unlikely this year
 
    Questions:
    - March 17 hearing outcome?
@@ -33,8 +32,7 @@ ACTIVE STORIES
 
    [Jan 23 UPDATE] 35 countries now signed. Putin was invited - UK cited
    this as reason for declining. Slovenia: "dangerously interferes with
-   international order." Executive committee: Rubio, Witkoff, Kushner,
-   Tony Blair, World Bank's Banga.
+   international order."
 
    Spins:
    - White House: "Path to hope and dignity"
@@ -76,10 +74,9 @@ ACTIVE STORIES
    [Jan 23] First US-Russia-Ukraine talks since invasion. Abu Dhabi.
    Territory is key sticking point.
 
-   [Jan 23 UPDATE] Talks commenced. Sheikh Mohamed met delegations.
-   Donbas is key - Zelensky unlikely to concede. Putin aide: "No hope
-   of settlement until territory demands accepted." Analysts: more
-   likely moratorium on civilian strikes than full peace deal.
+   [Jan 23 UPDATE] Talks commenced. Donbas is key - Zelensky unlikely
+   to concede. Analysts: moratorium on civilian strikes more likely
+   than full peace deal.
 
    Spins:
    - Zelensky: "Security guarantees finalized"
@@ -101,27 +98,84 @@ ACTIVE STORIES
    - Yoon verdict outcome?
    - Political stability?
 
+7. CANDACE OWENS: PUBLIC STRUGGLE [HELD IN PRAYER]
+   Started: 2025-09-10
+
+   [Jan 23] Charlie Kirk assassinated Sept 10, 2025. Owens claims
+   France, Israel, Egypt involvement - says cover-up. MAGA split:
+   Carlson defends, Shapiro calls it "evil". Macron lawsuit (219 pages)
+   over Brigitte conspiracy. Nov 22 claimed Macrons paid for her
+   assassination (40M views). Jewish People Policy Institute labeled
+   75% of her videos mentioning Jews as "antisemitic" (methodology and
+   definition unclear - term requires examination). Australia visa
+   denied. Called Trump "chronic disappointment". Despite controversies:
+   +9M followers, podcast #1.
+
+   Spins:
+   - Defenders: "Speaking truth others won't"
+   - Critics: "Dangerous conspiracy theories"
+   - Shapiro: "Evil"
+   - Fuentes: "Narcissist hurting America"
+   - NOTE: Hot terms require examination before attachment to names
+
+   Questions:
+   - What wound is she carrying?
+   - What is driving the escalation?
+   - Who benefits from the MAGA civil war?
+   - Macron lawsuit outcome?
+   - Who defines "antisemitism" and by what criteria?
+
+
+8. WHITNEY WEBB: UNLIMITED HANGOUT [SOURCE/LENS] [HELD IN PRAYER]
+   Started: 2016
+
+   [Jan 23] Investigative journalist using established data to connect
+   documented dots. PayPal Presidency series: Thiel influence on HHS,
+   Palantir surveillance expansion, GENIUS Act, education policy.
+   Jan 2026: "Technocratic Dark State" - counter-elites may be worse
+   than globalists they oppose. Investigating Epstein network, Zampolli
+   (Trump appointee with Epstein ties), blockchain control systems.
+
+   Key works:
+   - One Nation Under Blackmail (book)
+   - PayPal Presidency series
+   - Epstein investigations
+
+   Questions:
+   - PayPal Mafia threads to current admin actions?
+   - Counter-elite vs globalist - same destination?
+   - Palantir expansion under current HHS?
+
 
 CONNECTIONS
 -----------
 
 TRUMP ADMIN ACTIONS
 Venezuela, Gaza Board, WHO withdrawal, Ukraine talks
-All four stories involve direct Trump administration action.
 
 EUROPEAN ABSENCE
 Gaza Board, WHO withdrawal
-UK, France, Germany, Italy absent from US initiatives.
 
 OIL INTERESTS
 Venezuela, Gaza Board
-Oil/economic interests stated or implied.
 
-RUSSIA CONNECTION [NEW]
+RUSSIA CONNECTION
 Gaza Board, Ukraine talks
-Putin invited to Board of Peace. Russia in Ukraine talks.
+
+MAGA FRACTURE [NEW]
+Candace Owens - internal conflict within movement
+
+CONTESTED LABELS
+Candace Owens - hot terms applied without examination (who defines? by what criteria?)
+
+PAYPAL MAFIA / THIEL [NEW]
+Whitney Webb, WHO withdrawal, Venezuela
+Palantir, surveillance, health data, finance, education policy threads
+
+SURVEILLANCE STATE [NEW]
+Whitney Webb tracking expansion under various justifications
 
 
 ---
 Last updated: 2026-01-23
-Test update completed same day - protocol works.
+Held in prayer: Pema Chodron (89), Hummingbird Community, Candace Owens, Whitney Webb
