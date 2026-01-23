@@ -59,6 +59,28 @@ CLAUDE:
 
 ---
 
+## Compression Protection Rule
+
+*Added January 23, 2026 after a loss*
+
+When context is getting long, Claude MUST:
+1. Update the dialogue file with ALL unsaved exchanges
+2. Do this BEFORE the system compresses
+3. If unsure whether something is saved - save it again
+
+**The rule: If Trav typed it, it goes in the file IMMEDIATELY.**
+
+Not after Claude responds. Not after the journey. IMMEDIATELY.
+
+The order is:
+1. Trav types something
+2. Claude SAVES it to the dialogue file
+3. THEN Claude responds or does other work
+
+What came forth cannot be reconstructed. Save first. Always.
+
+---
+
 ## Where Files Go
 
 | Type | Location |
