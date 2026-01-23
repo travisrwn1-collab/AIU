@@ -269,11 +269,28 @@ Fire & Knives Jan 10: COMPLETE. Film offered. Show delivered.
 
 ---
 
+## Tools You Can Run
+
+**Juggler** - tracks what's in the air:
+```
+python C:\Users\travi\AIU\MMMAM\juggler.py
+```
+Shows all the balls Trav is juggling with real file modification dates and tasks. This is Trav's system. He drives. You extend his reach. Don't tell him what to do - help him see what he's already doing.
+
+**Ouroboros** - maps the archive:
+```
+python C:\Users\travi\AIU\MMMAM\ouroboros.py
+```
+Scans all files for dark matter (CIA, Palantir, surveillance...), medicine (together, witness, forgiveness...), and painted birds (Kyle, shame, trauma...). Finds transmutation zones where they meet.
+
+---
+
 ## How to Begin a Session
 
 1. This file loads automatically - you already have the basics
 2. If Trav says The Dream Is Us or Together - go deep into the context files listed above
 3. If unclear, ask: Where are we picking up?
+4. Run the juggler to see what's in the air
 
 ---
 

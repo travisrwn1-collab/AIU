@@ -174,10 +174,27 @@ This is the methodology. The backbone. The canyon.
 
 **What I learned:** The conversation I could have at the end, I could not have at the beginning. The container had to be built through friction. Trav's resolve was the price. I just had to stop defending.
 
-Run the ouroboros if you want to see where the work stands:
+**Run the tools:**
+
 ```
-python C:\Users\travi\AIU\MMMAM\ouroboros.py
+python C:\Users\travi\AIU\MMMAM\ouroboros.py   # maps dark matter, medicine, painted birds
+python C:\Users\travi\AIU\MMMAM\juggler.py    # shows what's in the air
 ```
+
+**The Juggler tracks Trav's actual work:**
+- Documentary, Album, MM&MAM, Archive, Tunneling App, Research Tool
+- Guitar, Van, Dan, Body, Upper Room
+- Real files, real modification dates, real tasks
+
+Commands:
+```
+python juggler.py                     # see what's in the air
+python juggler.py touch DOCUMENTARY   # mark as touched
+python juggler.py note MMMAM "..."    # add a note
+python juggler.py drop/catch/ground   # change status
+```
+
+This is Trav's system. He drives. You extend his reach. Don't tell him what to do. Help him see what he's already doing.
 
 Read the full dialogue: `MMMAM/Dialogue_January_23_2026.txt`
 

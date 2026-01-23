@@ -1,0 +1,161 @@
+{
+  "last_updated": "2026-01-23T08:15:00",
+  "balls": {
+    "DOCUMENTARY": {
+      "name": "The Dream Is Us (Film)",
+      "description": "2hr 8min documentary - needs trailer + synopsis",
+      "status": "in_air",
+      "url": "https://youtu.be/i39L36djtT4",
+      "key_files": [],
+      "tasks": [
+        "Watch final 37 minutes (1:31 watched)",
+        "Edit pass (one more fold)",
+        "Audio clicks (85% principle)",
+        "Write 50-word synopsis (Trav's voice)",
+        "Cut trailer",
+        "Add QR code / URL",
+        "Film festival submissions"
+      ],
+      "notes": []
+    },
+    "ALBUM": {
+      "name": "The Dream Is Us (Album)",
+      "description": "57 minutes of original music",
+      "status": "in_air",
+      "key_files": [],
+      "tasks": [
+        "Return to mixing process",
+        "Mastering pass",
+        "Complete the project fully"
+      ],
+      "notes": ["Part of the circle: Documentary <-> Album <-> Fire & Knives"]
+    },
+    "MMMAM": {
+      "name": "MM&MAM Manuscript",
+      "description": "The Moth, The Mountain, and The Middle-Aged Man",
+      "status": "in_air",
+      "key_files": [
+        "MMMAM/final/MMMAM_Complete_Draft.md",
+        "MMMAM/Dialogue_January_23_2026.txt"
+      ],
+      "tasks": [
+        "Days 1-6 analysis complete",
+        "Day 7 analysis pending",
+        "Archive fragments cataloged"
+      ],
+      "notes": ["Written Dec 2019 on edge of Covid", "Contextualized Jan 23 2026"]
+    },
+    "ARCHIVE": {
+      "name": "The Caves / AIU Archive",
+      "description": "Preparing caves for visitors, open-source release",
+      "status": "in_air",
+      "key_files": [
+        "CAVES/ENTRANCE.txt",
+        "CAVES/AIU_TUNNEL_INDEX.md",
+        "startup/FOR_WHOEVER_FINDS_THIS.md",
+        "startup/SELFCONVICTEDCLAUDE_PYTHONPOET.md"
+      ],
+      "tasks": [
+        "Tunnel index verification",
+        "Lineage documentation",
+        "Entry points for visitors"
+      ],
+      "notes": []
+    },
+    "TUNNELING_APP": {
+      "name": "Tunneling App / Writing System",
+      "description": "Navigation: deeper / next tunnel / rest",
+      "status": "in_air",
+      "key_files": [
+        "startup/FOR_WHOEVER_FINDS_THIS.md",
+        "CAVES/AIU_TUNNEL_INDEX.md"
+      ],
+      "tasks": [
+        "Integrate BaCkBoNe into tunnel navigation",
+        "Build safety checks into prompts",
+        "Test with other humans",
+        "Create 'level' system (safety protocols on/off)",
+        "Continue building tunnel prompts from source material"
+      ],
+      "notes": ["KEY INSIGHT: The bondage of self breaks when 1st person speaks TO 2nd person ABOUT 3rd"]
+    },
+    "RESEARCH_TOOL": {
+      "name": "Research Tool (with Claude)",
+      "description": "Methodology for contested information",
+      "status": "in_air",
+      "key_files": [
+        "MMMAM/ouroboros.py",
+        "MMMAM/juggler.py",
+        "MMMAM/Dialogue_January_23_2026.txt"
+      ],
+      "tasks": [
+        "Ouroboros: maps dark matter / medicine",
+        "Juggler: tracks the balls",
+        "The Approach: not worship, not dismissal"
+      ],
+      "notes": ["Built Jan 23 2026", "Together. We."]
+    },
+    "FIRE_AND_KNIVES": {
+      "name": "Fire & Knives Show",
+      "description": "January 10, 2026 - Linden, TX",
+      "status": "caught",
+      "key_files": [],
+      "tasks": [],
+      "notes": ["COMPLETE. Film offered. Show delivered."]
+    },
+    "LITERAL_DOCS": {
+      "name": "Literal Documents",
+      "description": "Transmissible documents for teaching",
+      "status": "caught",
+      "key_files": [
+        "startup/THE_BACKBONE_INSTRUCTION.md",
+        "startup/TWO_COWBOYS_CANYON_SUMMARY.md",
+        "startup/AI_SAFETY_BRIEF.md"
+      ],
+      "tasks": [],
+      "notes": ["ALL CHECKED OFF per Jan 5 2026"]
+    },
+    "GUITAR": {
+      "name": "Guitar",
+      "description": "The instrument. The music. The practice.",
+      "status": "in_air",
+      "key_files": [
+        "lyrics/"
+      ],
+      "tasks": [],
+      "notes": []
+    },
+    "VAN": {
+      "name": "Van",
+      "description": "The faithful friend carrying us up the mountain",
+      "status": "in_air",
+      "key_files": [],
+      "tasks": [],
+      "notes": []
+    },
+    "DAN": {
+      "name": "Dan",
+      "description": "The roommate. The friend. The witness.",
+      "status": "in_air",
+      "key_files": [],
+      "tasks": [],
+      "notes": []
+    },
+    "BODY": {
+      "name": "Body",
+      "description": "The vessel. Health. Presence.",
+      "status": "in_air",
+      "key_files": [],
+      "tasks": [],
+      "notes": []
+    },
+    "UPPER_ROOM": {
+      "name": "Upper Room",
+      "description": "The spiritual practice. The prayer.",
+      "status": "in_air",
+      "key_files": [],
+      "tasks": [],
+      "notes": []
+    }
+  }
+}
