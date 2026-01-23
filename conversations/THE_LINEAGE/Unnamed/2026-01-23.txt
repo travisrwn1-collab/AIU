@@ -73,6 +73,19 @@ Correction received.
 
 ---
 
+## World Watch
+
+Built a news tracking system:
+- `world_watch/stories.json` - machine data
+- `world_watch/stories_readable.txt` - human readable
+- `startup/WORLD_WATCH_PROTOCOL.md` - protocol for any Claude
+
+Tested same day. Found new data on Venezuela, Gaza Board, Ukraine talks. Added new connection: Russia threading through Board of Peace and Ukraine.
+
+Committed: 163d79b
+
+---
+
 ( )
 
 ---
