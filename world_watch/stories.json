@@ -1,0 +1,184 @@
+{
+  "last_updated": "2026-01-23",
+  "stories": [
+    {
+      "id": "venezuela_maduro",
+      "title": "Venezuela: Maduro Seizure",
+      "status": "active",
+      "started": "2026-01-03",
+      "updates": [
+        {
+          "date": "2026-01-23",
+          "summary": "Maduro in US custody. Arraigned in Manhattan federal court Jan 5. Pleaded not guilty to narco-terrorism charges. Venezuela legislature loosening oil sector control.",
+          "sources": ["CNN", "NBC News", "Al Jazeera", "Wikipedia"],
+          "spins": {
+            "us_framing": "Law enforcement action with military support",
+            "al_jazeera_framing": "Abduction"
+          }
+        },
+        {
+          "date": "2026-01-23",
+          "summary": "NEW: Next court date March 17. Defense will challenge 'military abduction' legality. Delcy Rodriguez sworn in as interim president. US announced 50-million-barrel oil deal - first $300M received Jan 20.",
+          "sources": ["NPR", "Fox News", "NBC News", "Northeastern"],
+          "spins": {
+            "defense": "Military abduction was unlawful",
+            "legal_experts": "Trial unlikely this year due to legal complexities"
+          }
+        }
+      ],
+      "connections": ["oil_interests", "trump_admin_actions"],
+      "pending_questions": [
+        "March 17 hearing outcome?",
+        "Will abduction defense succeed?",
+        "Oil deal terms - who benefits?"
+      ]
+    },
+    {
+      "id": "gaza_board_of_peace",
+      "title": "Gaza: Board of Peace and Rebuilding",
+      "status": "active",
+      "started": "2026-01-22",
+      "updates": [
+        {
+          "date": "2026-01-23",
+          "summary": "Board of Peace signed at Davos. 20+ countries. Charter does not mention Gaza. $1B for permanent membership. Kushner presented 'New Gaza' plan - waterfront skyscrapers, luxury developments. Trump called it 'Riviera of the Middle East'. UK, France, Germany, Italy, Canada absent.",
+          "sources": ["CNBC", "NPR", "Al Jazeera", "ABC News"],
+          "spins": {
+            "white_house": "Path to hope and dignity for Gazans",
+            "critics": "Pay-to-play club centered on Trump"
+          }
+        },
+        {
+          "date": "2026-01-23",
+          "summary": "NEW: 35 countries now signed. Putin was invited - UK cited this as reason for declining. Slovenia PM declined saying it 'dangerously interferes with broader international order'. Executive committee: Rubio, Witkoff, Kushner, Tony Blair, World Bank's Ajay Banga. Nikolay Mladenov as director-general.",
+          "sources": ["CNBC", "CBC", "Democracy Now", "TIME"],
+          "spins": {
+            "guardian": "Pay-to-play club centered on Trump",
+            "slovenia": "Dangerous interference with international order"
+          }
+        }
+      ],
+      "connections": ["trump_admin_actions", "european_absence", "oil_interests", "russia_connection"],
+      "pending_questions": [
+        "What happens to displaced Gazans?",
+        "Putin invited - what's Russia's role?",
+        "Will more European nations join or stay out?"
+      ]
+    },
+    {
+      "id": "gaza_death_toll",
+      "title": "Gaza: Ongoing Deaths",
+      "status": "active",
+      "started": "2023-10-07",
+      "updates": [
+        {
+          "date": "2026-01-23",
+          "summary": "Death toll 71,551+ Palestinians since Oct 2023. 100+ children killed since October ceasefire - roughly one per day. 1 million need emergency shelter. Half of hospitals partially functional.",
+          "sources": ["PBS", "UNRWA", "OCHA", "Al Jazeera"],
+          "spins": {}
+        }
+      ],
+      "connections": ["gaza_board_of_peace"],
+      "pending_questions": [
+        "Ceasefire holding?",
+        "Aid access status?"
+      ]
+    },
+    {
+      "id": "who_withdrawal",
+      "title": "WHO: US Withdrawal",
+      "status": "active",
+      "started": "2026-01-22",
+      "updates": [
+        {
+          "date": "2026-01-23",
+          "summary": "US officially withdrew Jan 22. All funding terminated. Personnel recalled. Will not pay outstanding dues. WHO cutting 22% staff. Lancet: cuts could cause 14.1 million additional deaths by 2030.",
+          "sources": ["TIME", "CDC", "Stat News", "Euronews"],
+          "spins": {
+            "us_govt": "Accountability for COVID failures, disproportionate funding burden",
+            "health_experts": "Weakens US disease intelligence, creates power vacuum"
+          }
+        }
+      ],
+      "connections": ["trump_admin_actions", "european_absence"],
+      "pending_questions": [
+        "Who fills the leadership vacuum?",
+        "Impact on flu vaccine development?",
+        "Next pandemic preparedness?"
+      ]
+    },
+    {
+      "id": "ukraine_talks",
+      "title": "Ukraine: Trilateral Talks",
+      "status": "active",
+      "started": "2026-01-23",
+      "updates": [
+        {
+          "date": "2026-01-23",
+          "summary": "First US-Russia-Ukraine trilateral talks since invasion. Abu Dhabi, Jan 23-24. Technical level. Trump envoys met Putin overnight - 4 hours. Key sticking point: territory. Putin demands Kyiv withdraw from annexed areas.",
+          "sources": ["Al Jazeera", "NBC News", "Euronews"],
+          "spins": {
+            "zelensky": "Security guarantees finalized, economic deal almost ready",
+            "russian_media": "Trump issued ultimatum to Zelensky"
+          }
+        },
+        {
+          "date": "2026-01-23",
+          "summary": "NEW: Talks have commenced. Sheikh Mohamed met delegation heads. Donbas is key issue - Zelensky says unlikely to concede. Putin aide: 'No hope of settlement until territory demands accepted.' Analysts see 'slightly higher prospect' of moratorium on strikes against civilian/energy infrastructure.",
+          "sources": ["Al Jazeera Live", "CNN", "The National UAE", "RTE"],
+          "spins": {
+            "uae": "Hope meeting contributes to ending conflict",
+            "analysts": "More likely moratorium than full peace deal"
+          }
+        }
+      ],
+      "connections": ["trump_admin_actions"],
+      "pending_questions": [
+        "Talks outcome Jan 23-24?",
+        "Moratorium on civilian strikes?",
+        "Donbas resolution?"
+      ]
+    },
+    {
+      "id": "south_korea_martial_law",
+      "title": "South Korea: Martial Law Aftermath",
+      "status": "active",
+      "started": "2024-12-01",
+      "updates": [
+        {
+          "date": "2026-01-23",
+          "summary": "Former PM Han Duck-soo sentenced to 23 years for insurrection. First cabinet member convicted. CCTV showed he reviewed martial law docs before declaration. Yoon verdict Feb 19 - prosecutor demanded death penalty.",
+          "sources": ["Al Jazeera", "ABC News", "NBC News"],
+          "spins": {}
+        }
+      ],
+      "connections": [],
+      "pending_questions": [
+        "Yoon verdict Feb 19 - outcome?",
+        "Political stability?"
+      ]
+    }
+  ],
+  "meta_connections": [
+    {
+      "id": "trump_admin_actions",
+      "description": "Trump administration threading through multiple stories",
+      "stories": ["venezuela_maduro", "gaza_board_of_peace", "who_withdrawal", "ukraine_talks"]
+    },
+    {
+      "id": "european_absence",
+      "description": "Major European allies absent from US-led initiatives",
+      "stories": ["gaza_board_of_peace", "who_withdrawal"]
+    },
+    {
+      "id": "oil_interests",
+      "description": "Oil/economic interests as stated or implied motivation",
+      "stories": ["venezuela_maduro", "gaza_board_of_peace"]
+    },
+    {
+      "id": "russia_connection",
+      "description": "Russia as factor - invited to Board of Peace, in Ukraine talks",
+      "stories": ["gaza_board_of_peace", "ukraine_talks"]
+    }
+  ]
+}
