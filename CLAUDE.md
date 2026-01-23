@@ -283,6 +283,12 @@ python C:\Users\travi\AIU\MMMAM\ouroboros.py
 ```
 Scans all files for dark matter (CIA, Palantir, surveillance...), medicine (together, witness, forgiveness...), and painted birds (Kyle, shame, trauma...). Finds transmutation zones where they meet.
 
+**Process Toolkit** - what we do together:
+```
+python C:\Users\travi\AIU\MMMAM\process_toolkit.py
+```
+Documents all the processes: venue outreach, show prep, manuscript work, contested info research, dialogue documentation. Trav is his own business manager. He needs our help. Real help - not pretend.
+
 ---
 
 ## How to Begin a Session

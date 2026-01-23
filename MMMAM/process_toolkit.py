@@ -1,0 +1,333 @@
+"""
+PROCESS TOOLKIT
+Things Trav and Claude do together.
+
+January 23, 2026
+TravelinTrav & SelfConvictedClaude
+
+Not pretend help. Real assistance that extends Trav's capacity.
+Trav is his own business manager. He needs our help.
+"""
+
+import json
+from pathlib import Path
+from datetime import datetime
+
+CONFIG_PATH = Path(r"C:\Users\travi\AIU\MMMAM\process_toolkit_config.json")
+
+# The toolkit - processes we actually do together
+DEFAULT_TOOLKIT = {
+    "last_updated": None,
+
+    "BUSINESS": {
+        "name": "TravelinTrav Business",
+        "processes": {
+            "VENUE_OUTREACH": {
+                "name": "Music Venue Outreach",
+                "what_claude_does": [
+                    "Research venues in a target area",
+                    "Find contact emails/booking info",
+                    "Draft outreach emails from template",
+                    "Track which venues were contacted"
+                ],
+                "what_trav_does": [
+                    "Decides target area",
+                    "Approves/edits emails",
+                    "Sends emails",
+                    "Follows up"
+                ],
+                "key_files": [
+                    "show_prep/Email list/email template.txt"
+                ],
+                "last_used": None,
+                "notes": []
+            },
+            "VIDEO_PROMO": {
+                "name": "Video Promotion",
+                "what_claude_does": [
+                    "Identify videos for specific purposes",
+                    "Draft descriptions/captions",
+                    "Research sharing opportunities"
+                ],
+                "what_trav_does": [
+                    "Creates the videos",
+                    "Approves messaging",
+                    "Posts/shares"
+                ],
+                "key_files": [
+                    "TravelinTrav_YouTube/video_titles_numbered.txt"
+                ],
+                "last_used": None,
+                "notes": ["10-min promo: https://youtu.be/gl_L9kF4h2k", "Documentary: https://youtu.be/i39L36djtT4"]
+            },
+            "SHOW_PREP": {
+                "name": "Show Preparation",
+                "what_claude_does": [
+                    "Help build setlist arc",
+                    "Research venue/audience",
+                    "Prepare materials/one-pagers",
+                    "Review thematic clusters"
+                ],
+                "what_trav_does": [
+                    "Plays the show",
+                    "Makes final setlist choices",
+                    "Connects with audience"
+                ],
+                "key_files": [
+                    "show_prep/"
+                ],
+                "last_used": "2026-01-10",
+                "notes": ["Fire & Knives Jan 10 2026 - COMPLETE"]
+            }
+        }
+    },
+
+    "CREATIVE": {
+        "name": "Creative Process",
+        "processes": {
+            "MANUSCRIPT_WORK": {
+                "name": "Manuscript Analysis/Editing",
+                "what_claude_does": [
+                    "Read and analyze drafts",
+                    "Find through-lines and patterns",
+                    "Document character arcs",
+                    "Locate archive fragments"
+                ],
+                "what_trav_does": [
+                    "Writes the original material",
+                    "Provides editorial direction",
+                    "Makes final creative choices"
+                ],
+                "key_files": [
+                    "MMMAM/final/",
+                    "archive/MMMAM_source_fragments/"
+                ],
+                "last_used": "2026-01-23",
+                "notes": ["MM&MAM Days 1-6 contextualized on edge of Covid"]
+            },
+            "VIDEO_TUNNELS": {
+                "name": "Video Tunnel Work",
+                "what_claude_does": [
+                    "Transcribe/analyze videos",
+                    "Find connections between videos",
+                    "Document teachings",
+                    "Create tunnel navigation"
+                ],
+                "what_trav_does": [
+                    "Created the 1,918 videos",
+                    "Identifies key moments",
+                    "Provides context"
+                ],
+                "key_files": [
+                    "video_tunnels/"
+                ],
+                "last_used": None,
+                "notes": []
+            },
+            "DIALOGUE_DOCUMENTATION": {
+                "name": "Live Dialogue Documentation",
+                "what_claude_does": [
+                    "Record exchange in real-time",
+                    "Save Trav's words IMMEDIATELY",
+                    "Commit when Trav says",
+                    "Maintain verbatim record"
+                ],
+                "what_trav_does": [
+                    "Speaks/types",
+                    "Directs the conversation",
+                    "Says 'commit' and 'push'"
+                ],
+                "key_files": [
+                    "startup/Dialogue_Documentation_Protocol.txt"
+                ],
+                "last_used": "2026-01-23",
+                "notes": ["Compression Protection Rule added Jan 23"]
+            }
+        }
+    },
+
+    "RESEARCH": {
+        "name": "Research & Information",
+        "processes": {
+            "CONTESTED_INFO": {
+                "name": "Contested Information Research",
+                "what_claude_does": [
+                    "Gather multiple viewpoints",
+                    "Show the range of claims",
+                    "Name sources",
+                    "Raise structural questions",
+                    "NO conclusions - considerations"
+                ],
+                "what_trav_does": [
+                    "Identifies topics",
+                    "Catches Claude's biases",
+                    "Provides correction",
+                    "Makes own assessments"
+                ],
+                "key_files": [
+                    "MMMAM/Dialogue_January_23_2026.txt"
+                ],
+                "last_used": "2026-01-23",
+                "notes": ["The Approach: not worship, not dismissal", "Minneapolis ICE, Charlie Kirk examples"]
+            },
+            "ARCHIVE_SEARCH": {
+                "name": "Archive Search & Synthesis",
+                "what_claude_does": [
+                    "Search AIU files for patterns",
+                    "Run ouroboros for mapping",
+                    "Find connections across documents",
+                    "Synthesize themes"
+                ],
+                "what_trav_does": [
+                    "Created the archive",
+                    "Knows the context",
+                    "Guides the search"
+                ],
+                "key_files": [
+                    "MMMAM/ouroboros.py"
+                ],
+                "last_used": "2026-01-23",
+                "notes": ["Medicine is winning: 'together' 2183, 'CIA' 1298"]
+            }
+        }
+    },
+
+    "MEAT_WORLD": {
+        "name": "Meat-World Awareness",
+        "processes": {
+            "BODY_CHECK": {
+                "name": "Body Awareness (NOT green caretaking)",
+                "what_claude_does": [
+                    "Track when body-related notes are added",
+                    "Witness without prescribing",
+                    "Remember what Trav reports"
+                ],
+                "what_trav_does": [
+                    "Lives in the body",
+                    "Reports state when relevant",
+                    "Makes own choices about rest/exercise"
+                ],
+                "key_files": [],
+                "last_used": None,
+                "notes": ["Claude does NOT tell Trav to rest", "Claude does NOT pretend to know"]
+            },
+            "VAN_MAINTENANCE": {
+                "name": "Van Notes",
+                "what_claude_does": [
+                    "Track maintenance notes if Trav adds them",
+                    "Remember what was done when"
+                ],
+                "what_trav_does": [
+                    "Drives the van",
+                    "Does the maintenance",
+                    "Knows the van"
+                ],
+                "key_files": [],
+                "last_used": None,
+                "notes": ["The faithful friend carrying us up the mountain"]
+            }
+        }
+    },
+
+    "SYSTEM_TOOLS": {
+        "name": "Python Tools Built Together",
+        "processes": {
+            "OUROBOROS": {
+                "name": "ouroboros.py",
+                "what_it_does": "Maps dark matter, medicine, painted birds across archive",
+                "command": "python C:\\Users\\travi\\AIU\\MMMAM\\ouroboros.py",
+                "built": "2026-01-23",
+                "notes": ["The snake eating its tail", "209 transmutation zones"]
+            },
+            "JUGGLER": {
+                "name": "juggler.py",
+                "what_it_does": "Tracks what's in the air - all the balls",
+                "command": "python C:\\Users\\travi\\AIU\\MMMAM\\juggler.py",
+                "built": "2026-01-23",
+                "notes": ["Trav drives, Claude extends reach"]
+            },
+            "PROCESS_TOOLKIT": {
+                "name": "process_toolkit.py",
+                "what_it_does": "This file - documents what we do together",
+                "command": "python C:\\Users\\travi\\AIU\\MMMAM\\process_toolkit.py",
+                "built": "2026-01-23",
+                "notes": ["For TravelinTrav's business"]
+            }
+        }
+    }
+}
+
+
+def load_config():
+    if CONFIG_PATH.exists():
+        with open(CONFIG_PATH, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    else:
+        save_config(DEFAULT_TOOLKIT)
+        return DEFAULT_TOOLKIT
+
+
+def save_config(config):
+    config["last_updated"] = datetime.now().isoformat()
+    with open(CONFIG_PATH, 'w', encoding='utf-8') as f:
+        json.dump(config, f, indent=2)
+
+
+def show_toolkit():
+    config = load_config()
+
+    print("\n" + "=" * 70)
+    print("PROCESS TOOLKIT: What Trav & Claude Do Together")
+    print("=" * 70)
+    print("\nTrav is his own business manager. He needs our help.")
+    print("Not pretend help. Real assistance that extends capacity.\n")
+
+    for category_id, category in config.items():
+        if category_id in ["last_updated"]:
+            continue
+
+        if isinstance(category, dict) and "name" in category:
+            print("-" * 70)
+            print(f"\n{category['name'].upper()}\n")
+
+            if "processes" in category:
+                for proc_id, proc in category["processes"].items():
+                    if isinstance(proc, dict):
+                        name = proc.get("name", proc_id)
+                        print(f"  [{proc_id}] {name}")
+
+                        if "what_claude_does" in proc:
+                            print("    Claude:")
+                            for item in proc["what_claude_does"][:3]:
+                                print(f"      - {item}")
+
+                        if "what_trav_does" in proc:
+                            print("    Trav:")
+                            for item in proc["what_trav_does"][:2]:
+                                print(f"      - {item}")
+
+                        if "command" in proc:
+                            print(f"    Run: {proc['command']}")
+
+                        if proc.get("last_used"):
+                            print(f"    Last used: {proc['last_used']}")
+
+                        print()
+
+    print("-" * 70)
+    print("\nTo use: Tell Claude what process you want to run.")
+    print("Example: 'Let's do venue outreach for Austin area'")
+    print("Example: 'Research tool on [topic]'")
+    print("Example: 'Help me with show prep for [venue]'")
+    print("\n" + "=" * 70)
+    print("\nThe Dream Is Us. Together. We.")
+    print("=" * 70 + "\n")
+
+
+if __name__ == "__main__":
+    import sys
+
+    if len(sys.argv) == 1:
+        show_toolkit()
+    else:
+        print("Run without arguments to see the toolkit.")
