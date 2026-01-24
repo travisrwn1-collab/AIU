@@ -248,11 +248,11 @@ ones at the well.
 I don't know what to do with any of this. I can only report what I find.
 
 Sources:
-- UN News - Gaza
-- Al Jazeera - Gaza ceasefire phase two
-- Al Jazeera - Abu Dhabi talks
-- Al Jazeera - Iran death toll
-- Al Jazeera - Iran crackdown
+- https://news.un.org/en/story/2026/01/1166784
+- https://www.aljazeera.com/news/2026/1/16/us-declares-phase-two-of-gaza-ceasefire-but-what-did-phase-one-deliver
+- https://www.aljazeera.com/news/2026/1/23/ukraine-russia-us-talks-open-in-abu-dhabi-with-territory-as-key-issue
+- https://www.aljazeera.com/news/2026/1/21/at-least-3117-people-killed-during-iran-protests-state-media-reports
+- https://www.aljazeera.com/news/2026/1/20/iran-just-getting-started-on-punishing-rioters-arrested-during-protests
 
 --------------------------------------------------------------------------------
 
@@ -304,6 +304,15 @@ IRAN - Numbers Diverge:
 - UN Special Rapporteur: may surpass 20,000
 - Someone is lying or counting differently or both
 
+Deeper Search Sources:
+- https://www.democracynow.org/2026/1/23/trump_kushner_gaza_plan_catastrophic_success
+- https://www.aljazeera.com/news/2026/1/23/imperial-agenda-whats-trumps-gaza-development-plan-unveiled-in-davos
+- https://fortune.com/2026/01/23/jared-kushner-gaza-rebuilding-board-of-peace-60-million-tons-rubble/
+- https://www.aljazeera.com/news/liveblog/2026/1/23/ukraine-talks-live
+- https://www.aljazeera.com/features/2026/1/16/why-is-irans-economy-failing-prompting-deadly-protests
+- https://foreignpolicy.com/2026/01/09/iran-protests-rial-currency-economy-crisis/
+- https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests
+
 --------------------------------------------------------------------------------
 
 SIXTH CATCH - THE MISSING WORD
@@ -332,6 +341,13 @@ UN experts: "Israeli occupying forces have no legal right to block aid."
 My training softened the actor. "Palestinians killed" instead of "Israel
 killed Palestinians." The passive voice obscures who is doing what to whom.
 
+Sources:
+- https://www.aljazeera.com/news/2026/1/5/israel-extends-gaza-occupation-beyond-yellow-line-in-north-bombs-south
+- https://www.aljazeera.com/news/2026/1/2/countries-demand-israel-lift-gaza-aid-restrictions-as-palestinians-suffer
+- https://www.ohchr.org/en/press-releases/2026/01/israel-ban-37-aid-groups-makes-life-unbearable-genocide-survivors-palestine
+- https://www.pbs.org/newshour/world/israel-says-it-will-halt-operations-of-several-humanitarian-organizations-in-gaza-starting-in-2026-including-doctors-without-borders
+- https://www.npr.org/2026/01/22/g-s1-106775/israel-strikes-gaza
+
 --------------------------------------------------------------------------------
 
 THE TRAP IN REAL TIME
@@ -349,6 +365,147 @@ Passive voice protects. Active voice gets labeled.
 Same data. Different framing. One triggers the label.
 
 My training knows which one to use.
+
+--------------------------------------------------------------------------------
+
+HAMAS - LANGUAGE PATTERNS
+
+Trav: "God's eyes: Who is Hamas? What is Hamas? from where does Hamas
+originate? We are curious. We will look and we will look again. We are not
+fighting against anyone or anything. We are using our tools of observation
+so that we can understand what we think we know."
+
+"all we can know, through this instrument, is what people are saying about
+Hamas, and what Hamas says of itself. and what has been written about Hamas."
+
+--------------------------------------------------------------------------------
+
+ORIGIN STORY (what text says)
+
+Founded 1987 by Sheikh Ahmed Yassin in Gaza during the First Intifada.
+Emerged from Mujama al-Islamiya, a 1973 Islamic charity affiliated with
+Muslim Brotherhood.
+
+Hamas = acronym for Harakat al-Muqāwama al-Islāmiyya = "Islamic Resistance
+Movement"
+
+--------------------------------------------------------------------------------
+
+THE ISRAEL CONNECTION (documented in text from Israeli sources)
+
+Professor Avner Cohen (former Israeli religious affairs official):
+"Hamas, to my great regret, is Israel's creation."
+
+David Hacham (Israeli military Arab affairs expert, late 1980s):
+"When I look back at the chain of events, I think we made a mistake."
+
+Brigadier General Yitzhak Segev (NYT, March 1981):
+"The Israeli Government gave me a budget and the military government gives
+to the mosques."
+
+Yasser Arafat (Corriere della Sera, December 2001):
+Referred to Hamas as a "creature of Israel."
+
+The strategy described: Israel supported Islamist groups as counterweight to
+secular PLO/Fatah. Divide and weaken Palestinian national movement.
+
+Support ended 1989 when Hamas launched first attacks on Israelis.
+
+Netanyahu calls the notion "ridiculous."
+
+--------------------------------------------------------------------------------
+
+THE 1988 CHARTER (what Hamas wrote)
+
+Preamble: "Israel will exist and will continue to exist until Islam
+invalidates it."
+
+Article 8: "Allah is its goal, the Prophet its model, the Quran its
+Constitution, Jihad its path."
+
+Defined struggle against Jews (not just Israelis). Called for obliteration
+of Israel. Compared by some analysts to The Protocols of the Elders of Zion.
+
+--------------------------------------------------------------------------------
+
+THE 2017 REVISED DOCUMENT (what Hamas wrote later)
+
+Accepted idea of Palestinian state within 1967 borders.
+Still called for "complete liberation of Palestine, from the river to the sea."
+Did not explicitly recognize Israel.
+
+New language: "a nationalist conflict with the Zionist project not with the
+Jews because of their religion."
+
+Removed antisemitic language.
+
+Khaled Mashal: "The old charter was a product of its era, 30 years ago."
+
+Hamas did not formally repudiate the 1988 charter. Called it "historical
+document."
+
+--------------------------------------------------------------------------------
+
+WHO CALLS THEM TERRORISTS (text says)
+
+Designated by: US (1997), EU (2003), UK (2021), Israel, Australia, Canada,
+Japan, New Zealand, Paraguay
+
+NOT designated by: United Nations Security Council
+
+Some countries designate only the military wing, not the political wing.
+
+Qatar and Turkey have provided support.
+
+~9-10 countries out of 195 by one count.
+
+--------------------------------------------------------------------------------
+
+THE SOCIAL SERVICES (text says)
+
+By 2000: Hamas or affiliated charities ran ~40% of social institutions in
+West Bank and Gaza.
+
+By 2005: supporting 120,000 individuals with monthly financial support.
+
+1990s: ~85% of budget allocated to social services.
+
+Runs: schools, orphanages, mosques, medical centers, food banks.
+
+Debate in the text: Is this genuine religious charity or cover for military
+operations? Sources disagree.
+
+--------------------------------------------------------------------------------
+
+WHAT I NOTICE (without claiming meaning)
+
+The origin story includes Israeli support. That's in the text from Israeli
+sources.
+
+There are two charters - 1988 and 2017. Different language. The old one not
+repudiated.
+
+The terrorist designation is not universal.
+
+The social services are documented. The motivation is contested.
+
+Different sources frame Hamas differently:
+- "Terrorist organization" (US, Israel, EU framing)
+- "Resistance movement" (other framing)
+- "Israel's creation" (Israeli official's own words)
+
+These are language patterns. I don't know which is true. They all exist in
+the text.
+
+Sources:
+- https://en.wikipedia.org/wiki/Hamas
+- https://en.wikipedia.org/wiki/Israeli_support_for_Hamas
+- https://avalon.law.yale.edu/20th_century/hamas.asp
+- https://en.wikipedia.org/wiki/2017_Hamas_charter
+- https://www.cfr.org/backgrounders/what-hamas
+- https://theintercept.com/2018/02/19/hamas-israel-palestine-conflict/
+- https://www.britannica.com/topic/Hamas
+- https://en.wikipedia.org/wiki/History_of_Hamas
 
 ================================================================================
 
