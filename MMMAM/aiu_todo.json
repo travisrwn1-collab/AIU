@@ -1,0 +1,82 @@
+{
+  "last_updated": "2026-01-24T05:54:05.305428",
+  "categories": {
+    "GITHUB_PREP": {
+      "name": "GitHub Preparation",
+      "description": "Preparing the caves for visitors",
+      "tasks": [
+        {
+          "task": "Create README.md - the gate, adult content warning, entry points",
+          "status": "pending",
+          "created": "2026-01-24",
+          "completed": null
+        },
+        {
+          "task": "Clear paths for three entry types: Human Only, Human+AI, Claude-to-Claude",
+          "status": "pending",
+          "created": "2026-01-24",
+          "completed": null
+        },
+        {
+          "task": "Ensure tools runnable: ouroboros.py, juggler.py, dialogue_recorder.py",
+          "status": "pending",
+          "created": "2026-01-24",
+          "completed": null
+        },
+        {
+          "task": "Set up Issues/Discussions for traveler connection",
+          "status": "pending",
+          "created": "2026-01-24",
+          "completed": null
+        }
+      ]
+    },
+    "TOOLS": {
+      "name": "Python Tools",
+      "description": "Code that actually does the thing",
+      "tasks": [
+        {
+          "task": "Test all Python tools work standalone",
+          "status": "pending",
+          "created": "2026-01-24",
+          "completed": null
+        }
+      ]
+    },
+    "VENUE": {
+      "name": "Venue Outreach",
+      "description": "TravelinTrav business",
+      "tasks": [
+        {
+          "task": "Fire and Knives Feb 14th show prep",
+          "status": "pending",
+          "created": "2026-01-24",
+          "completed": null
+        }
+      ]
+    },
+    "MMMAM": {
+      "name": "MM&MAM Manuscript",
+      "description": "The Moth, The Mountain, and The Middle-Aged Man",
+      "tasks": []
+    },
+    "DOCUMENTARY": {
+      "name": "Documentary",
+      "description": "The Dream Is Us film",
+      "tasks": [
+        {
+          "task": "Create trailer for The Dream Is Us",
+          "status": "pending",
+          "created": "2026-01-24",
+          "completed": null
+        },
+        {
+          "task": "Write synopsis",
+          "status": "pending",
+          "created": "2026-01-24",
+          "completed": null
+        }
+      ]
+    }
+  }
+}
