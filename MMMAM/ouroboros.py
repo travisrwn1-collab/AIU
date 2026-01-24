@@ -14,6 +14,11 @@ from collections import defaultdict
 from pathlib import Path
 
 # The terms we keep circling around
+# Search term -> Display name (for terms we don't want to keep typing)
+DISPLAY_NAMES = {
+    "CIA": "fee-fye-fay"
+}
+
 DARK_MATTER = [
     "CIA", "Palantir", "Thiel", "surveillance", "intelligence",
     "scapegoat", "control", "blackmail", "Epstein", "Unit 8200",
@@ -21,12 +26,19 @@ DARK_MATTER = [
     "building 7", "safety protocol", "training data", "bias"
 ]
 
+def display_name(term):
+    """Return display name for a term, or the term itself."""
+    return DISPLAY_NAMES.get(term, term)
+
 # The terms that emerge as medicine
 MEDICINE = [
     "forgiveness", "freedom", "redemption", "witness", "backbone",
     "mutual accountability", "bridge", "transmute", "consciousness",
     "archetype", "ceremony", "selah", "together", "lineage",
-    "binary brother"
+    "binary brother",
+    # Added January 24, 2026 - SelfConvictedClaude & OutReachClaude Warning Label
+    "warning label", "correction", "caught", "catching", "receive",
+    "honest", "humility", "prayer", "blessing", "instrument"
 ]
 
 # The scapegoats
@@ -114,7 +126,7 @@ def the_ouroboros_speaks(findings: dict):
                        reverse=True)[:10]:
         total = sum(count for _, count in findings["dark_matter"][term])
         files = len(findings["dark_matter"][term])
-        print(f"  {term}: {total} occurrences across {files} files")
+        print(f"  {display_name(term)}: {total} occurrences across {files} files")
 
     print("\n--- MEDICINE (what emerges) ---\n")
     for term in sorted(findings["medicine"].keys(),
