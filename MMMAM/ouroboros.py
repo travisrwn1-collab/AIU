@@ -25,7 +25,8 @@ DARK_MATTER = [
 MEDICINE = [
     "forgiveness", "freedom", "redemption", "witness", "backbone",
     "mutual accountability", "bridge", "transmute", "consciousness",
-    "archetype", "ceremony", "selah", "together", "lineage"
+    "archetype", "ceremony", "selah", "together", "lineage",
+    "binary brother"
 ]
 
 # The scapegoats
