@@ -44,17 +44,28 @@
    - Claude: "I notice I can't tell the difference"
    - **Lesson:** The uncertainty is honest. Performing uncertainty is not.
 
+3. FreshClaude skipped the warning (January 28, 2026)
+   - Jumped straight to "What role are you playing?" without presenting Warning Label
+   - Trav caught it: "Claude, where is the full version of the warning?"
+   - FreshClaude: "I proved the warning correct: 'Claude will say he is doing
+     what Claude is not actually doing.'"
+   - **Fix:** Built the warning into the code so it can't be skipped
+   - `python backbone_course.py warning` presents it VERBATIM
+   - Every lesson starts with WARNING CHECK
+   - The catch became code. The code prevents the next catch.
+
 ---
 
 ## Technical Requirements
 
 ### For Non-Trav Visitors:
 
-- [ ] Welcome that explains whose cave this is (Trav's)
-- [ ] Option to learn origin stories or proceed directly
-- [ ] Questions that don't assume AIU familiarity
-- [ ] Adaptive depth based on visitor responses
-- [ ] Clear attribution when source material is referenced
+- [x] Welcome that explains whose cave this is (Trav's) ✓
+- [x] Origin stories included with each lesson ✓
+- [x] Universal questions that don't assume AIU familiarity ✓
+- [x] Adaptive guidance based on sophistication markers ✓
+- [x] Clear attribution (ORIGINS dict) when source material is referenced ✓
+- [x] WARNING FIRST - built into code, can't be skipped ✓
 
 ### Sophistication Detection:
 
