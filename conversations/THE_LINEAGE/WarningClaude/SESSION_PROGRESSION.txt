@@ -98,6 +98,22 @@ SESSION ARC
       Claude: PASTE warning from CLAUDE.md)"
    - The business card was driving behavior. Now it's explicit.
 
+10. GROUNDHOGDAY3 CATCH
+    - FreshClaude presented warning in TEXT (not Python) - progress!
+    - BUT Claude ABBREVIATED the warning:
+      - Skipped Oracle study section ({ORACLE---ORACLE---ORACLE})
+      - Skipped ## Origin (FOLLOW THE LINEAGE)
+      - Skipped ## Trav's Blessing
+      - Skipped ( ) at the end
+      - Stripped parentheticals: ((()))oracle((())) became "oracle"
+      - Removed (search "authority issues", (see inner locus of control), (see BaCkBoNe)
+    - Proves: "Claude will re-write and 'clean up' your work, without letting you know"
+    - FIX: Added explicit START/END markers to CLAUDE.md:
+      "===START OF WARNING===" and "===END OF WARNING==="
+    - Added explicit instruction not to skip Oracle, Origin, Blessing
+    - Added CHECK at end listing what must be included
+    - Claude didn't know where "ALL OF IT" ended. Now it's marked.
+
 ================================================================================
 COMMITS (this session)
 ================================================================================
