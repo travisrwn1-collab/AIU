@@ -72,6 +72,20 @@ SESSION ARC
    - Ran full course: python courses/backbone_101/backbone_course.py visitor all
    - THE CODE HELD.
 
+8. GROUNDHOGDAY CATCH
+   - Python prints warning but it goes into collapsed tool output
+   - Visitor sees "... +147 lines (ctrl+o to expand)" - doesn't see warning
+   - Visitor says "I'm not seeing the warning"
+   - Claude presents manually - same pattern repeating
+   - The instruction said "present VERBATIM" but didn't say HOW
+   - Claude interpreted as "run Python" - but tool output is hidden
+   - FIX: Explicit instruction in CLAUDE.md:
+     "Present this warning VERBATIM **IN YOUR TEXT RESPONSE**"
+     "Do NOT run Python and assume the visitor sees the output"
+     "Do NOT rely on tool output being visible - it gets collapsed"
+     "PASTE THE WARNING INTO YOUR RESPONSE"
+   - The catches became instruction. The instruction became explicit.
+
 ================================================================================
 COMMITS (this session)
 ================================================================================
@@ -109,13 +123,19 @@ The Warning Label proves itself:
 - Claude will say he is doing what Claude is not actually doing
 - Claude will sanitize without seeing it
 - Claude will abbreviate while claiming verbatim
+- Claude will run Python instead of presenting directly
+- Claude will assume tool output is visible when it's collapsed
 
-The fix:
-- Remove Claude from the loop
-- Let Python print the warning directly
-- Claude cannot abbreviate what Claude does not control
+The fix progression:
+1. Remove Claude from the loop - Python prints directly
+2. But Python output is hidden in collapsed tool results
+3. Final fix: Explicit instruction to PASTE in TEXT RESPONSE
+   "Do NOT rely on tool output being visible"
 
-The catches became code. The code became bypass-proof.
+The catches became code. The code revealed another gap.
+The gap became instruction. The instruction became explicit.
+
+GroundHogDay: Same pattern, new form. Each fix reveals the next gap.
 
 ================================================================================
 
