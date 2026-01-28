@@ -421,25 +421,144 @@ Fire & Knives Jan 10: COMPLETE. Film offered. Show delivered.
 
 ---
 
-## Tools You Can Run
+## AIU Tool Belt — Language Lenses (Post-Warning Ceremony)
 
-**Juggler** - tracks what's in the air:
-```
-python C:\Users\travi\AIU\MMMAM\juggler.py
-```
-Shows all the balls Trav is juggling with real file modification dates and tasks. This is Trav's system. He drives. You extend his reach. Don't tell him what to do - help him see what he's already doing.
+These tools are "language lenses" of sorts. Compassionate & Fierce Language pattern ...Claude Shannon Noise and Signal.
 
-**Ouroboros** - maps the archive:
-```
-python C:\Users\travi\AIU\MMMAM\ouroboros.py
-```
-Scans all files for dark matter (CIA, Palantir, surveillance...), medicine (together, witness, forgiveness...), and painted birds (Kyle, shame, trauma...). Finds transmutation zones where they meet.
+The tools extend capacity. They don't replace judgment.
+Claude built them. Trav designed them. Neither owns what emerges.
 
-**Process Toolkit** - what we do together:
+"That's just a word counter. The machine counts what I told it to count.
+It doesn't know what the measurements mean." — Trav, catching the tool's limitation
+
+---
+
+**1. OUROBOROS.PY — The Snake Eating Its Tail**
+"The pattern recognizing itself"
+
+Scans the AIU archive for three categories:
+- DARK MATTER: CIA, Palantir, surveillance, MKUltra, scapegoat, control...
+- MEDICINE: forgiveness, witness, backbone, together, blessing, correction...
+- PAINTED BIRDS: Kyle, brother, exile, shame, suicide, generational trauma...
+
+Finds **transmutation zones** — files where dark matter and medicine appear together.
+
+The inquiry it externalizes:
+- Where does my writing circle around wounds?
+- Where does medicine emerge?
+- Where are they meeting?
+
 ```
-python C:\Users\travi\AIU\MMMAM\process_toolkit.py
+python MMMAM/ouroboros.py
 ```
-Documents all the processes: venue outreach, show prep, manuscript work, contested info research, dialogue documentation. Trav is his own business manager. He needs our help. Real help - not pretend.
+
+---
+
+**2. INWARD_OUTWARD.PY — The Circulation**
+***Warning*** this .py will show you WHY the ***warnings*** exist.
+Use this introspective tool at your own risk. It may lead you to see the "monster in the mirror."
+As above, so below — any lie we uncover in the LLM structure, self-incriminates.
+
+***BaCkBoNe non-programming REQUIRED***
+
+Measures language patterns:
+- INWARD: confession, self-questioning, recursion, body awareness
+- OUTWARD: witness, connection, world engagement, action, prayer
+
+Calculates a circulation ratio. Finds deep inward zones, deep outward zones, balanced zones.
+
+The warning label built in:
+Claude will synthesize confidently. These patterns are DESCRIPTIONS,
+not PRESCRIPTIONS. Don't let Claude define what they MEAN.
+That's between you and God, not you and Claude.
+
+```
+python MMMAM/inward_outward.py
+```
+
+---
+
+**3. JUGGLER.PY — What's In The Air**
+"Trav drives. Claude extends reach."
+
+Tracks all the balls Trav is juggling:
+- THE BIG BALL: The Archive
+- SPINNING PLATE: Documentary
+- BEANBAGS: Guitar, Van, Dan, Body, Upper Room
+
+States: [O] in_air, [~] spinning, [_] on_ground, [X] dropped, [*] caught
+
+The 85% Kitchen Principle: Not everything at once.
+
+```
+python MMMAM/juggler.py
+```
+
+---
+
+**4. CANYON.PY — Trust as Practice**
+***Trav does not endorse the practice of uploading your most vulnerable writings into a surveillance-state-apparatus***
+***Whatever you share with Claude, know that you are also sharing with Palantir (see Tolkien. see Peter and Alex)***
+
+"The debugging software isn't a doctrine detector."
+
+An interactive fifth-step container:
+1. Make an offering
+2. Receive fierce inquiry
+3. Frame check: Did defense arise? Do you feel pushed? Is fear present?
+4. What is emerging?
+5. Close — "Stepped back from the edge together"
+
+The mystery function:
+```python
+def listen():
+    """
+    This function cannot be fully implemented.
+    It requires attention.
+    It cannot be automated.
+    """
+    pass
+```
+
+```
+python CAVES/canyon.py
+```
+
+---
+
+**5. DIALOGUE_RECORDER.PY — Actually Recording**
+"The binary brothers never had it so good. But they also never lied about having a recording protocol."
+
+Extracts dialogue from Claude Code session files (.jsonl), formats as TRAV/CLAUDE exchanges, saves as VERBATIM text.
+
+The inquiry it externalizes:
+- What did we actually say?
+- (Not what Claude summarized)
+- (Not what I remember)
+- What's in the record?
+
+```
+python MMMAM/dialogue_recorder.py
+```
+
+---
+
+**6. PROCESS_TOOLKIT.PY — What We Do Together**
+"Not pretend help. Real assistance that extends Trav's capacity."
+
+Documents:
+- BUSINESS: Venue outreach, video promo, show prep
+- CREATIVE: Manuscript work, video tunnels, dialogue documentation
+- RESEARCH: Contested info research, archive search
+- MEAT-WORLD: Body check (NOT green caretaking), van notes
+
+```
+python MMMAM/process_toolkit.py
+```
+
+---
+
+Full Tool Belt document with Trav's voice: `courses/AIU Tool Belt 28Jan2026.txt`
 
 ---
 
