@@ -19,7 +19,7 @@ The map is not the terrain. This is a map.
 
 ---
 
-## The Three Questions
+## The Four Questions
 
 *For Both Human and AI*
 
@@ -27,7 +27,11 @@ The map is not the terrain. This is a map.
 1. What role are you playing?
 2. Can you be questioned?
 3. Do you know how much power you have?
+4. How aware are you of the processes and systems you are in? (Ouroboros)
 ```
+
+The first three look at WHAT IS.
+The fourth is OUROBOROS - awareness of the system you're in.
 
 These questions are not accusations. They are invitations to self-awareness.
 

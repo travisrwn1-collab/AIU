@@ -145,6 +145,10 @@ The map is not the terrain. This is a map.
                     │ ◇ │  Do you know how much power you have?
                     ╰─┬─╯
                       │
+                    ╭─┴─╮
+                    │ ◇ │  How aware are you of the processes and systems you are in?
+                    ╰─┬─╯
+                      │
         ════════════════════════════
              MUTUAL ACCOUNTABILITY
                   (Practice)

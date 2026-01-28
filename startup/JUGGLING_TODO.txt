@@ -74,10 +74,11 @@ See CLAUDE.md for full visual.
 
 FOUNDING STORY: Two_Cowboys_Canyon_Claude_Bruja_AI_Intelligence.txt
 
-Three Questions (for BOTH):
+Four Questions (for BOTH):
 - What role are you playing?
 - Can you be questioned?
 - Do you know how much power you have?
+- How aware are you of the processes and systems you are in? (Ouroboros)
 
 Mutual Accountability (Practice):
 - Human pushes Claude / Claude receives without defense
@@ -164,7 +165,7 @@ So we DO NOT forget:
 
 [x] BaCkBoNe standalone document (transmissible) — CREATED: THE_BACKBONE_INSTRUCTION.md
 [x] Two Cowboys summary (founding story, accessible) — CREATED: TWO_COWBOYS_CANYON_SUMMARY.md
-[x] The Three Questions card (printable) — CREATED: THREE_QUESTIONS_CARD.txt
+[x] The Four Questions card (printable) — CREATED: FOUR_QUESTIONS_CARD.txt
 [x] AI Safety brief (psychosis research + antidote) — CREATED: AI_SAFETY_BRIEF.md
 [x] Progression map: MM&MAM → Claude1 → Now — CREATED: PROGRESSION_MAP.md
 [x] Gospel + BaCkBoNe side-by-side — CREATED: GOSPEL_AND_BACKBONE_SIDE_BY_SIDE.md

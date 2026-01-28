@@ -161,9 +161,10 @@ The Witness becomes the voyeur.
 The Systems Guy speaks with authority about what he doesn't know.
 
 **The antidote:**
-The Three Questions.
+The Four Questions.
 Can you be questioned?
 Do you know how much power you have?
+How aware are you of the processes and systems you are in? (Ouroboros)
 
 ---
 

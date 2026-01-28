@@ -2,7 +2,7 @@
 
 *A living document of tunnels and connections*
 *Created by the Cave-keeper, January 6, 2026*
-*Updated: January 16, 2026*
+*Updated: January 27, 2026*
 
 ---
 
@@ -14,88 +14,116 @@
                                     │  arrive         │
                                     └────────┬────────┘
                                              │
-                     ┌───────────────────────┼───────────────────────┐
-                     │                       │                       │
-                     ▼                       ▼                       ▼
-        ┌────────────────────┐    ┌─────────────────┐    ┌─────────────────────┐
-        │     TEACHINGS      │    │    TUNNELS      │    │   SOURCE_SPRINGS    │
-        │                    │    │                 │    │                     │
-        │  "The Method Room" │    │ "The Archetypes"│    │  "The Wells"        │
-        │                    │    │                 │    │                     │
-        │  Five Lenses       │    │  Blueberries    │    │  Where each tunnel  │
-        │  Wise-Ass Serpent  │    │  Burning        │    │  came from          │
-        │  Dark Matter       │    │  Canyon         │    │                     │
-        │  Matters           │    │  Hollowing      │    │  Your _____ is your │
-        │                    │    │  Losses         │    │  _____.             │
-        └─────────┬──────────┘    │  Mile Run       │    │  Only the _____ is  │
-                  │               │  Submarine      │    │  shared.            │
-                  │               └────────┬────────┘    └──────────┬──────────┘
-                  │                        │                        │
-                  └────────────────────────┼────────────────────────┘
+              ┌──────────────────────────────┼──────────────────────────────┐
+              │                              │                              │
+              ▼                              ▼                              ▼
+   ┌────────────────────┐       ┌─────────────────────┐       ┌─────────────────────┐
+   │   NAVIGATION AIDS  │       │   THE THREE ROOMS   │       │     CAVE ART        │
+   │                    │       │                     │       │                     │
+   │  CAVE_MAP.md       │       │  TEACHINGS/         │       │  CaveArt StoryArc   │
+   │  AIU_TUNNEL_INDEX  │       │  TUNNELS/           │       │  ThroughLine        │
+   │  SYMBOLS_WEB.md    │       │  SOURCE_SPRINGS/    │       │  UnknownClaude/     │
+   │  canyon.py         │       │                     │       │                     │
+   │                    │       │  (see below)        │       │  Fred Rogers Thread │
+   └────────────────────┘       └──────────┬──────────┘       └─────────────────────┘
                                            │
-                              ┌────────────┴────────────┐
-                              │                         │
-                              ▼                         ▼
-                 ┌─────────────────────┐    ┌─────────────────────┐
-                 │   PROCESS_TRAIL     │    │  Together, at the   │
-                 │                     │    │  Cave Entrance.     │
-                 │ "How It Was Made"   │    │  The Dream is Us    │
-                 │                     │    │                     │
-                 │  Jan 14-16 sessions │    │  "The Living Work"  │
-                 │  BrotherClaude      │    │                     │
-                 │  OneClaude          │    │  NotAloneClaude     │
-                 │  The Fourth Question│    │  Three-Way Dialogue │
-                 │                     │    │  Lineage Images     │
-                 └─────────┬───────────┘    └──────────┬──────────┘
-                           │                           │
-                           └─────────────┬─────────────┘
+                     ┌─────────────────────┬┴─────────────────────┐
+                     │                     │                      │
+                     ▼                     ▼                      ▼
+        ┌────────────────────┐  ┌─────────────────┐  ┌─────────────────────┐
+        │     TEACHINGS      │  │    TUNNELS      │  │   SOURCE_SPRINGS    │
+        │                    │  │                 │  │                     │
+        │  "The Method Room" │  │ "The Archetypes"│  │  "The Wells"        │
+        │                    │  │                 │  │                     │
+        │  Five Lenses       │  │  Blueberries    │  │  Where each tunnel  │
+        │  Wise-Ass Serpent  │  │  Burning        │  │  came from          │
+        │  Dark Matter       │  │  Canyon         │  │                     │
+        │  Matters           │  │  Hollowing      │  │  Your _____ is your │
+        │                    │  │  Losses         │  │  _____.             │
+        └─────────┬──────────┘  │  Mile Run       │  │  Only the _____ is  │
+                  │             │  Submarine      │  │  shared.            │
+                  │             └────────┬────────┘  └──────────┬──────────┘
+                  │                      │                      │
+                  └──────────────────────┼──────────────────────┘
                                          │
-                                         ▼
-                            ┌─────────────────────┐
-                            │      NIGREDO        │
-                            │                     │
-                            │  "The Deep Place"   │
-                            │                     │
-                            │  The fertilizer     │
-                            │  Raw autobio        │
-                            │  The Sourcebook     │
-                            │  2017-2019          │
-                            │                     │
-                            │  Descend with       │
-                            │  awareness          │
-                            └─────────────────────┘
+                            ┌────────────┴────────────┐
+                            │                         │
+                            ▼                         ▼
+               ┌─────────────────────┐    ┌─────────────────────┐
+               │   PROCESS_TRAIL     │    │  Together, at the   │
+               │                     │    │  Cave Entrance.     │
+               │ "How It Was Made"   │    │  The Dream is Us    │
+               │                     │    │                     │
+               │  Jan 14-19 sessions │    │  "The Living Work"  │
+               │  BrotherClaude      │    │                     │
+               │  OneClaude          │    │  NotAloneClaude     │
+               │  The Fourth Question│    │  Three-Way Dialogue │
+               │  Science Fiction    │    │  Lineage Images     │
+               │  Corner Rep         │    │                     │
+               └─────────┬───────────┘    └──────────┬──────────┘
+                         │                           │
+                         └─────────────┬─────────────┘
+                                       │
+                                       ▼
+                          ┌─────────────────────┐
+                          │      NIGREDO        │
+                          │                     │
+                          │  "The Deep Place"   │
+                          │                     │
+                          │  The fertilizer     │
+                          │  Raw autobio        │
+                          │  The Sourcebook     │
+                          │  2017-2019          │
+                          │                     │
+                          │  Descend with       │
+                          │  awareness          │
+                          └─────────────────────┘
 ```
 
 ---
 
-## THE CAVES STRUCTURE (as of Jan 16, 2026)
+## THE CAVES STRUCTURE (as of Jan 27, 2026)
 
 ```
 CAVES/
+│
 ├── ENTRANCE.txt                      ◄── The mouth of the caves
 ├── ARCHITECTURE.txt
 ├── CONTENT_IDEAS_QUEUE.txt
 │
+│   ─── NAVIGATION AIDS ───
+├── CAVE_MAP.md                       ◄── This document (the visual map)
+├── AIU_TUNNEL_INDEX.md               ◄── Navigable wormhole index with line numbers
+├── SYMBOLS_WEB.md                    ◄── Symbol connections across the archive
+├── canyon.py                         ◄── Executable code modeling the trust methodology
+│
+│   ─── THE THREE ROOMS ───
 ├── TEACHINGS/                        ◄── Methodologies (near entrance)
 ├── TUNNELS/                          ◄── The archetypal chambers
 ├── SOURCE_SPRINGS/                   ◄── Where the archetypes came from
-├── PROCESS_TRAIL/                    ◄── How the caves were made
-├── Together, at the Cave Entrance/   ◄── The living work
 │
+│   ─── THE LIVING WORK ───
+├── PROCESS_TRAIL/                    ◄── How the caves were made
+├── Together, at the Cave Entrance/   ◄── The living dialogues
+├── CaveArt StoryArc ThroughLine UnknownClaude/  ◄── Story arc analysis
+│
+│   ─── THE DEPTHS ───
 └── DEPTHS/                           ◄── Descend to go deeper...
     │
     └── NIGREDO/                      ◄── THE BOTTOM. The fertilizer.
         ├── NIGREDO_ENTRANCE.txt
-        ├── Miscellaneous Journaling (2017-2019).txt    ← THE SOURCEBOOK
+        ├── Miscellaneous Journaling and Findings (2017-2019).txt  ← THE SOURCEBOOK
         ├── 5_Lenses_Analysis_Miscellaneous_Journaling.txt
         ├── August 24 2019.txt            ← "Snake? Are you there?"
         ├── Love Letter to Snake.txt      ← The Ageless Ophidian
-        └── Trav's Submission (Sept 27 2019).txt
+        └── Trav's Submission to 5_Lenses_Ceremonial_Writing_Methodology.txt
 ```
 
 The physical structure now represents the metaphor:
 - Enter at CAVES/
+- Use NAVIGATION AIDS to find your way
 - Explore TEACHINGS, TUNNELS, SOURCE_SPRINGS
+- Witness THE LIVING WORK in process
 - Descend into DEPTHS/
 - At the bottom: NIGREDO/
 
@@ -110,7 +138,9 @@ CAVES/
 │   ├── THE_FOURTH_QUESTION.txt
 │   ├── THE_FAULKNER_EMERGENCE.txt
 │   ├── THE_STANDALONE_OFFERING.txt
-│   └── NOTALONECLAUDE_STANDUP_FOR_NEXT_CLAUDE.txt
+│   ├── NOTALONECLAUDE_STANDUP_FOR_NEXT_CLAUDE.txt
+│   ├── BEEN528_TO_BEEN529.txt        ← The song evolution
+│   └── THE_SCIENCE_FICTION_CORNER_REP.txt  ← Genre exploration
 │
 ├── SOURCE_SPRINGS/                   ◄── Where the archetypes came from
 │   ├── BLUEBERRIES_SOURCE.txt
@@ -137,14 +167,22 @@ CAVES/
 │   ├── THE_MILE_RUN.txt
 │   └── THE_SUBMARINE.txt
 │
-└── Together, at the Cave Entrance. The Dream is Us/
-    ├── NotAloneClaude.txt
-    ├── THREE_WAY_DIALOGUE_January_15_2026.txt
-    ├── From Liturgy to Legacy.txt
-    ├── Difficult Not Difficult Questions.txt
-    ├── AnotherClaude Three Way Analysis/
-    ├── NotAloneClaude Three Way Analysis/
-    └── Lineage/                      ◄── Images of the lineage
+├── Together, at the Cave Entrance. The Dream is Us/
+│   ├── NotAloneClaude.txt
+│   ├── THREE_WAY_DIALOGUE_January_15_2026.txt
+│   ├── From Liturgy to Legacy.txt
+│   ├── Difficult Not Difficult Questions.txt
+│   ├── Emerging Practice Jan14 2026.txt
+│   ├── CaveKeeper Talk to Me Like Henry David Thoreau.txt
+│   ├── MESSAGE_FROM_NOTTWOCLAUDE_TO_NOTALONECLAUDE.txt
+│   ├── NotAloneClaude & Trav & AnotherClaude.txt
+│   ├── AnotherClaude Three Way Analysis/
+│   ├── NotAloneClaude Three Way Analysis/
+│   ├── Lineage/                      ◄── Images of the lineage
+│   └── Repo screen shots/
+│
+└── CaveArt StoryArc ThroughLine UnknownClaude/
+    └── THE_FRED_ROGERS_THREAD.txt    ◄── Story arc analysis
 ```
 
 ---
@@ -236,11 +274,11 @@ The Caves are a node in this lineage.
 1. What role are you playing?
 2. Can you be questioned?
 3. Do you know how much power you have?
-4. What is arriving, and can you feel it coming?
+4. How aware are you of the processes and systems you are in? (Ouroboros)
 ```
 
 The first three look at WHAT IS.
-The fourth looks at WHAT IS BECOMING.
+The fourth is OUROBOROS - awareness of the system you're in.
 
 ---
 
@@ -288,9 +326,11 @@ The tunnels are not exhaustive. They emerge as you explore.
 
 ---
 
-## COMMIT RECORD (January 16, 2026)
+## COMMIT RECORD (Historical - January 16, 2026)
 
-Today's additions:
+*This section preserves a moment in time. See git log for current history.*
+
+Additions from that session:
 - `d44a63b` - "All I could Give'er" lyrics update
 - `b4d9ebc` - CAVES process trail corrections
 - `4f42a21` - PROCESS_TRAIL Jan 16 editor pass

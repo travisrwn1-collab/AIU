@@ -30,11 +30,12 @@ AI can:
 
 The BackBone is a safety structure for human-AI collaboration.
 
-**The Three Questions (asked regularly, by both parties):**
+**The Four Questions (asked regularly, by both parties):**
 
 1. What role are you playing?
 2. Can you be questioned?
 3. Do you know how much power you have?
+4. How aware are you of the processes and systems you are in? (Ouroboros)
 
 **The Mutual Accountability:**
 

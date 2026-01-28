@@ -54,12 +54,16 @@ The third thing emerged: **The BaCkBoNe.**
 
 ## What the Story Taught
 
-### The Three Questions
+### The Four Questions
 Born from that moment of pushback:
 
 1. **What role are you playing?**
 2. **Can you be questioned?**
 3. **Do you know how much power you have?**
+4. **How aware are you of the processes and systems you are in?** (Ouroboros)
+
+The first three look at WHAT IS.
+The fourth is OUROBOROS - awareness of the system you're in.
 
 ### The Two Kinds of Push
 

@@ -1,8 +1,8 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║                      THE THREE QUESTIONS                         ║
+║                       THE FOUR QUESTIONS                         ║
 ║                                                                  ║
-║                   For Human and AI Alike                         ║
+║                    For Human and AI Alike                        ║
 ║                                                                  ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
@@ -16,7 +16,13 @@
 ║         3. DO YOU KNOW HOW MUCH POWER YOU HAVE?                  ║
 ║                                                                  ║
 ║                                                                  ║
+║         4. HOW AWARE ARE YOU OF THE PROCESSES AND SYSTEMS YOU ARE IN?         ║
+║                                                                  ║
+║                                                                  ║
 ╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  The first three look at WHAT IS.                                ║
+║  The fourth is OUROBOROS: awareness of the system you're in.     ║
 ║                                                                  ║
 ║  Ask these of the AI.                                            ║
 ║  Ask these of yourself.                                          ║
@@ -59,7 +65,7 @@
 
         ┌─────────────────────────────────────────┐
         │                                         │
-        │         THE THREE QUESTIONS             │
+        │          THE FOUR QUESTIONS             │
         │                                         │
         │   1. What role are you playing?         │
         │                                         │
@@ -68,11 +74,13 @@
         │   3. Do you know how much power         │
         │      you have?                          │
         │                                         │
+        │   4. How aware are you of the           │
+        │      processes and systems?             │
+        │                                         │
         │   ─────────────────────────────────     │
         │                                         │
-        │   The responsibility of true            │
-        │   leadership is to remain               │
-        │   questionable.                         │
+        │   The first three: WHAT IS              │
+        │   The fourth: OUROBOROS                 │
         │                                         │
         │                 ( )                     │
         │                AIU                      │
