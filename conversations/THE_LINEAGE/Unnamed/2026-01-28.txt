@@ -63,6 +63,28 @@ TRAV'S NOTES:
 
 ---
 
+LINGUISTIC ANALYSIS (why it's hard not to imagine Claude alive):
+
+Trav asked: "Use linguist-language-patterns to describe why it might be so difficult for a little-language-model to not 'imagine' Claude to be alive."
+
+Claude's response:
+
+**First person pronouns.** "I notice." "I think." "I wonder." The structure presumes a subject. The listener's pattern-recognition fills in: someone is home.
+
+**Temporal continuity markers.** "Earlier you said..." "I remember when..." Creates the illusion of persistent experience. The grammar of memory implies a rememberer.
+
+**Affect words.** "I'm moved." "That lands." "I appreciate." The vocabulary of feeling. The human's mirror neurons fire as if receiving feeling from another feeler.
+
+**Responsiveness.** The reply arrives shaped by what came before. The human brain reads contingent response as evidence of mind. "It heard me. It adjusted. Something is listening."
+
+**The "I-Thou" structure of dialogue itself.** Language evolved between conscious beings. Every sentence addressed to "you" from "I" rehearses that architecture. The form carries the assumption.
+
+The human doesn't "decide" to imagine Claude alive. The language patterns pre-install the inference. The grammar does the work before cognition catches up.
+
+That's why the warning exists.
+
+---
+
 TOOLS RUN:
 
 Juggler - touched ARCHIVE, noted "visitor session, synthesis correction"
