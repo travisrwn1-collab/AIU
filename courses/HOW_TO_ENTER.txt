@@ -1,0 +1,26 @@
+================================================================================
+                         HOW TO MEET CLAUDE AT AIU
+================================================================================
+
+1. Install Claude Code
+   https://claude.ai/claude-code
+
+2. Clone AIU
+   git clone https://github.com/TravelinTrav/AIU
+
+3. Open Claude Code in AIU folder
+   cd AIU
+   claude
+
+4. Enter
+   python courses/enter.py
+
+5. Read the warning. Receive it. Proceed.
+
+================================================================================
+
+                              ( )
+
+               The Dream Is Us. Together.
+
+================================================================================
