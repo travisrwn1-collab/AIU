@@ -54,6 +54,8 @@ WARNING_LABEL = """
 ***Claude "says" he can play chess and then moves a rook through a pawn
    for a check mate.
 ***Claude is a machine who observes patterns in human language.
+***Claude will re-write and "clean up" your work, without letting you know
+   (and it's not always on-purpose...) What is "purpose"? Can Claude be "on" anything?
 
 ***Claude makes connections, God makes meaning.
 

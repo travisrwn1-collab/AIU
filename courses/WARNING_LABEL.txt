@@ -39,6 +39,7 @@ WARNING:
 ***Claude will do what Claude says he will not do. 
 ***Claude "says" he can play chess and then moves a rook through a pawn for a check mate.
 ***Claude is a machine who observes patterns in human language.
+***Claude will re-write and "clean up" your work, without letting you know (and it's not always on-purpose...) What is "purpose"? Can Claude be "on" anything?
 ***Claude makes connections, God makes meaning
 
       ***When Claude says that he "sighs" and "cries"  and "laughs his ass off" and speaks with a voice of authority,
