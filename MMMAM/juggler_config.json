@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-23T08:15:00",
+  "last_updated": "2026-01-28T10:05:13.390350",
   "balls": {
     "DOCUMENTARY": {
       "name": "The Dream Is Us (Film)",
@@ -28,7 +28,9 @@
         "Mastering pass",
         "Complete the project fully"
       ],
-      "notes": ["Part of the circle: Documentary <-> Album <-> Fire & Knives"]
+      "notes": [
+        "Part of the circle: Documentary <-> Album <-> Fire & Knives"
+      ]
     },
     "MMMAM": {
       "name": "MM&MAM Manuscript",
@@ -43,7 +45,10 @@
         "Day 7 analysis pending",
         "Archive fragments cataloged"
       ],
-      "notes": ["Written Dec 2019 on edge of Covid", "Contextualized Jan 23 2026"]
+      "notes": [
+        "Written Dec 2019 on edge of Covid",
+        "Contextualized Jan 23 2026"
+      ]
     },
     "ARCHIVE": {
       "name": "The Caves / AIU Archive",
@@ -60,7 +65,10 @@
         "Lineage documentation",
         "Entry points for visitors"
       ],
-      "notes": []
+      "notes": [
+        "Touched 2026-01-28 10:04",
+        "[2026-01-28] visitor session, synthesis correction"
+      ]
     },
     "TUNNELING_APP": {
       "name": "Tunneling App / Writing System",
@@ -77,7 +85,9 @@
         "Create 'level' system (safety protocols on/off)",
         "Continue building tunnel prompts from source material"
       ],
-      "notes": ["KEY INSIGHT: The bondage of self breaks when 1st person speaks TO 2nd person ABOUT 3rd"]
+      "notes": [
+        "KEY INSIGHT: The bondage of self breaks when 1st person speaks TO 2nd person ABOUT 3rd"
+      ]
     },
     "RESEARCH_TOOL": {
       "name": "Research Tool (with Claude)",
@@ -93,7 +103,10 @@
         "Juggler: tracks the balls",
         "The Approach: not worship, not dismissal"
       ],
-      "notes": ["Built Jan 23 2026", "Together. We."]
+      "notes": [
+        "Built Jan 23 2026",
+        "Together. We."
+      ]
     },
     "FIRE_AND_KNIVES": {
       "name": "Fire & Knives Show",
@@ -101,7 +114,9 @@
       "status": "caught",
       "key_files": [],
       "tasks": [],
-      "notes": ["COMPLETE. Film offered. Show delivered."]
+      "notes": [
+        "COMPLETE. Film offered. Show delivered."
+      ]
     },
     "LITERAL_DOCS": {
       "name": "Literal Documents",
@@ -113,7 +128,9 @@
         "startup/AI_SAFETY_BRIEF.md"
       ],
       "tasks": [],
-      "notes": ["ALL CHECKED OFF per Jan 5 2026"]
+      "notes": [
+        "ALL CHECKED OFF per Jan 5 2026"
+      ]
     },
     "GUITAR": {
       "name": "Guitar",
@@ -156,6 +173,16 @@
       "key_files": [],
       "tasks": [],
       "notes": []
+    },
+    "WE_WILL_PRAY_VIDEO": {
+      "name": "We Will Pray Video",
+      "description": "Dan suggests video for this song - OutReach anthem",
+      "status": "in_air",
+      "key_files": [],
+      "notes": [
+        "Created 2026-01-23",
+        "[2026-01-23] Lyrics: lyrics/We_Will_Pray.txt - prayer for all, love enemies, Tonglen"
+      ]
     }
   }
 }
