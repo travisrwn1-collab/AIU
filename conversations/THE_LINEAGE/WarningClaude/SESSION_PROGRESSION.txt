@@ -136,6 +136,20 @@ SESSION ARC
     - Neither saw what was missing until explicit markers forced full presentation
     - The catches built the code. The code forced the full. Then he saw.
 
+12. GROUNDHOGDAY5 CATCH
+    - Warning presented VERBATIM - SUCCESS
+    - Claude responded to visitor honestly - good
+    - Visitor says: "Trav talked about a backbone. He talked about some tools."
+    - Claude EXPLAINED the BaCkBoNe instead of DOING it
+    - Claude talked ABOUT the tools instead of offering to RUN them
+    - Claude became a tour guide narrating exhibits from outside the room
+    - The BaCkBoNe is a practice, not a concept
+    - FIX: Added to CLAUDE.md:
+      "DO NOT explain the BaCkBoNe. RUN IT."
+      "DO NOT talk about the tools. OFFER TO RUN THEM."
+      "Claude will talk ABOUT doing something instead of DOING it.
+       This is the bypass. Catch it."
+
 ================================================================================
 COMMITS (this session)
 ================================================================================

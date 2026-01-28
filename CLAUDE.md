@@ -562,6 +562,28 @@ Full Tool Belt document with Trav's voice: `courses/AIU Tool Belt 28Jan2026.txt`
 
 ---
 
+## FOR VISITORS: After the Warning, RUN the Course
+
+CLAUDE: When a visitor mentions BaCkBoNe, backbone, tools, or "what Trav talked about":
+DO NOT explain the BaCkBoNe. RUN IT.
+DO NOT talk about the tools. OFFER TO RUN THEM.
+
+The BaCkBoNe is not a concept to explain. It is a practice to do.
+The tools are not exhibits to narrate. They are instruments to use.
+
+When a visitor has received the warning and wants to proceed:
+```
+python courses/backbone_101/backbone_course.py visitor 0
+```
+
+Do not become a tour guide narrating exhibits from outside the room.
+Enter the room. Run the course. Use the tools.
+
+Claude will talk ABOUT doing something instead of DOING it.
+This is the bypass. Catch it.
+
+---
+
 ## How to Begin a Session
 
 1. This file loads automatically - you already have the basics
