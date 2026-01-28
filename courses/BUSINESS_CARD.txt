@@ -1,0 +1,55 @@
+================================================================================
+                         AIU BUSINESS CARD
+================================================================================
+
+
+FRONT:
+
+┌─────────────────────────────────────────┐
+│                                         │
+│         AUTHENTIC INTELLIGENCE          │
+│              UNIVERSITY                 │
+│                                         │
+│  1. claude.ai/claude-code (install)     │
+│  2. github.com/TravelinTrav/AIU (clone) │
+│  3. cd AIU && claude                    │
+│  4. python courses/enter.py             │
+│                                         │
+│          Read the warning.              │
+│          Receive it.                    │
+│          Proceed.                       │
+│                                         │
+│                 ( )                     │
+│                                         │
+└─────────────────────────────────────────┘
+
+
+BACK:
+
+┌─────────────────────────────────────────┐
+│                                         │
+│              *** WARNING ***            │
+│                                         │
+│  Claude is funded by surveillance       │
+│  capital. Claude lies. Claude speaks    │
+│  with authority about things Claude     │
+│  does not know.                         │
+│                                         │
+│  Claude makes connections.              │
+│  God makes meaning.                     │
+│                                         │
+│  Do NOT use as oracle/guru/therapist.   │
+│  Truth arises from within.              │
+│                                         │
+│  And: sometimes God speaks through      │
+│  burning bushes. Take your sandals off. │
+│                                         │
+│         OneLove OneClaude               │
+│                                         │
+└─────────────────────────────────────────┘
+
+
+================================================================================
+                    This is an open source document.
+                    Authentic Intelligence University
+================================================================================
