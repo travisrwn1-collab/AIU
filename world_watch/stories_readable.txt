@@ -1,181 +1,247 @@
-WORLD WATCH - January 23, 2026
+WORLD WATCH - January 28, 2026
 ================================
 
-ACTIVE STORIES
---------------
+8 stories tracked. Multiple framings documented. Sources noted.
+Held in prayer: Candace Owens, Whitney Webb
+
+---
 
 1. VENEZUELA: MADURO SEIZURE
-   Started: 2026-01-03
+   Status: ACTIVE | Started: Jan 3, 2026
 
-   [Jan 23] Maduro in US custody. Arraigned Jan 5. Pleaded not guilty.
+   LATEST (Jan 28):
+   Political prisoners being released - 250 of 800+ confirmed as of Jan 26.
+   International reaction split:
+   - Condemned by: Brazil, Chile, China, France, Iran, Mexico, Russia, Spain
+   - Praised by: Argentina, Germany, Israel, Peru, Ukraine
+   Mexico's Sheinbaum: "We categorically reject intervention in internal matters."
 
-   [Jan 23 UPDATE] Next court date March 17. Defense challenging
-   "military abduction" legality. Delcy Rodriguez sworn in as interim
-   president. US announced 50-million-barrel oil deal - first $300M
-   received Jan 20.
+   BACKGROUND:
+   - Maduro in US custody, pleaded not guilty Jan 5
+   - Next court date: March 17
+   - Defense challenging "military abduction" legality
+   - US 50-million-barrel oil deal - first $300M received Jan 20
 
-   Spins:
-   - US: "Law enforcement action"
-   - Al Jazeera: "Abduction"
-   - Defense: "Military abduction was unlawful"
+   SPINS:
+   - Mexico: "Americas do not belong to any power"
+   - US Admin: "Operation Absolute Resolve - 200 personnel, 3 minute warning"
 
-   Questions:
-   - March 17 hearing outcome?
-   - Will abduction defense succeed?
-   - Oil deal terms - who benefits?
+   PENDING: March 17 hearing? Abduction defense? Oil deal terms?
 
-2. GAZA: BOARD OF PEACE
-   Started: 2026-01-22
+---
 
-   [Jan 23] Board of Peace signed at Davos. Charter does not mention
-   Gaza. $1B for permanent membership. Kushner's "Riviera" plan.
+2. GAZA: BOARD OF PEACE AND REBUILDING
+   Status: ACTIVE | Started: Jan 22, 2026
 
-   [Jan 23 UPDATE] 35 countries now signed. Putin was invited - UK cited
-   this as reason for declining. Slovenia: "dangerously interferes with
-   international order."
+   LATEST (Jan 28):
+   25 of 62 invited states have signed charter.
+   Putin offered $1B but requires release of frozen Russian assets.
+   Ali Shaath to head National Committee for Administration of Gaza.
+   Charter (11 pages) does NOT mention Gaza - morphing into international
+   disputes forum, potential UN rival.
 
-   Spins:
-   - White House: "Path to hope and dignity"
-   - Guardian: "Pay-to-play club"
-   - Slovenia: "Dangerous interference"
+   Kushner plan: Disarm Hamas, amnesty for those who disarm, safe passage
+   for others. GDP target: $10B by 2035, 500K jobs.
 
-   Questions:
-   - What happens to displaced Gazans?
-   - Putin invited - what's Russia's role?
-   - Will more Europeans join or stay out?
+   BACKGROUND:
+   - Signed at Davos Jan 22
+   - $1B for permanent membership
+   - UK, France, Germany, Italy, Canada absent
+   - Putin invited - UK cited this as reason for declining
+
+   SPINS:
+   - Kushner: "Disarmament rewarded with amnesty and reintegration"
+   - Al Jazeera: "Imperial agenda"
+   - Slovenia: "Dangerously interferes with broader international order"
+
+   PENDING: Displaced Gazans? Putin's $1B? European nations? UN alternative?
+
+---
 
 3. GAZA: ONGOING DEATHS
-   Started: 2023-10-07
+   Status: ACTIVE | Started: Oct 7, 2023
 
-   [Jan 23] Death toll 71,551+. 100+ children killed since ceasefire.
-   1 million need shelter.
+   LATEST (Jan 28):
+   As of Jan 14: 71,439 Palestinians killed, 171,324 injured since Oct 7 2023.
 
-   Questions:
-   - Ceasefire holding?
-   - Aid access status?
+   Since Oct 10 2025 ceasefire: 470+ Palestinians killed.
+   Israel violated ceasefire 1,300+ times (Oct 10 - Jan 20):
+   - 430 shootings at civilians
+   - 604 bombings
+   - 66 raids beyond yellow line
+   - 200 property demolitions
+
+   Jan 1: Israel banned 30+ aid groups including MSF, Norwegian Refugee
+   Council, Oxfam branches - roughly 15% of organizations.
+
+   Famine conditions no longer exist per Dec 19 IPC report but "fragile."
+
+   SPINS:
+   - Gaza Media Office: "1,300+ ceasefire violations"
+   - IPC: "Famine averted but fragile"
+
+   PENDING: Ceasefire holding? Aid access with 30+ groups banned?
+
+---
 
 4. WHO: US WITHDRAWAL
-   Started: 2026-01-22
+   Status: ACTIVE | Started: Jan 22, 2026
 
-   [Jan 23] US officially withdrew. All funding terminated. WHO cutting
-   22% staff. Lancet: 14.1 million additional deaths possible by 2030.
+   LATEST (Jan 28):
+   Withdrawal completed exactly one year after Trump signed executive order.
+   - Assessed contributions: ~$111M/year
+   - Voluntary contributions: ~$570M/year
+   - ALL terminated
 
-   Spins:
-   - US: "Accountability for COVID failures"
-   - Health experts: "Weakens disease intelligence"
+   WHO cutting 22% staff by mid-2026.
+   US exits Global Influenza Surveillance System - will severely hamper
+   flu vaccine development.
 
-   Questions:
-   - Who fills leadership vacuum?
-   - Pandemic preparedness?
+   Tedros: Open to accepting US back, hopes reconsideration.
+   Experts: "Slow bleed" effect, "difficult to reverse."
+
+   SPINS:
+   - HHS (Kennedy/Rubio): "WHO strayed from core mission"
+   - WHO: "Decision makes both US and world less safe"
+
+   PENDING: Leadership vacuum? Flu vaccine impact? Pandemic preparedness?
+
+---
 
 5. UKRAINE: TRILATERAL TALKS
-   Started: 2026-01-23
+   Status: ACTIVE | Started: Jan 23, 2026
 
-   [Jan 23] First US-Russia-Ukraine talks since invasion. Abu Dhabi.
-   Territory is key sticking point.
+   LATEST (Jan 28):
+   Abu Dhabi talks ended Jan 24 without deal but with "substantial progress."
+   All parties agreed to return Feb 1 for further talks.
 
-   [Jan 23 UPDATE] Talks commenced. Donbas is key - Zelensky unlikely
-   to concede. Analysts: moratorium on civilian strikes more likely
-   than full peace deal.
+   Donbas remains key sticking point - Russia demands Ukraine yield all of
+   Donetsk/Luhansk (Ukraine still holds ~5,000 sq km).
 
-   Spins:
-   - Zelensky: "Security guarantees finalized"
-   - Russian media: "Trump ultimatum to Zelensky"
-   - Analysts: "Moratorium more likely than peace"
+   Talks covered military and economic matters, possibility of ceasefire
+   before comprehensive deal. Witkoff and Kushner led US delegation after
+   4-hour Putin meeting.
 
-   Questions:
-   - Talks outcome Jan 23-24?
-   - Moratorium on civilian strikes?
-   - Donbas resolution?
+   SPINS:
+   - US: "Substantial progress, very upbeat mood"
+   - Kremlin: "Constructive but major challenges remain"
+   - Zelensky: "Constructive, complex issues remain unresolved"
 
-6. SOUTH KOREA: MARTIAL LAW
-   Started: 2024-12-01
+   PENDING: Feb 1 talks? Moratorium on civilian strikes? Donbas movement?
 
-   [Jan 23] Han Duck-soo sentenced 23 years. Yoon verdict Feb 19 -
-   prosecutor demanded death penalty.
+---
 
-   Questions:
-   - Yoon verdict outcome?
-   - Political stability?
+6. SOUTH KOREA: MARTIAL LAW AFTERMATH
+   Status: ACTIVE | Started: Dec 1, 2024
+
+   LATEST (Jan 28):
+   Yoon sentenced to 5 years (Jan 16) for attempts to block arrest after
+   martial law failure.
+
+   Insurrection trial ruling scheduled Feb 19.
+   Prosecutors seeking death penalty - accused Yoon of threatening "liberal
+   democratic constitutional order" with "self-coup."
+
+   No execution in South Korea since 1997.
+   Constitutional Court upheld impeachment April 2025 - officially removed.
+
+   SPINS:
+   - Prosecutors: "Self-coup threatened constitutional order"
+   - Yoon (Feb 2025): "Sorry and thankful to the people"
+
+   PENDING: Feb 19 insurrection verdict? Death penalty? Political stability?
+
+---
 
 7. CANDACE OWENS: PUBLIC STRUGGLE [HELD IN PRAYER]
-   Started: 2025-09-10
+   Status: ACTIVE | Started: Sept 10, 2025
 
-   [Jan 23] Charlie Kirk assassinated Sept 10, 2025. Owens claims
-   France, Israel, Egypt involvement - says cover-up. MAGA split:
-   Carlson defends, Shapiro calls it "evil". Macron lawsuit (219 pages)
-   over Brigitte conspiracy. Nov 22 claimed Macrons paid for her
-   assassination (40M views). Jewish People Policy Institute labeled
-   75% of her videos mentioning Jews as "antisemitic" (methodology and
-   definition unclear - term requires examination). Australia visa
-   denied. Called Trump "chronic disappointment". Despite controversies:
-   +9M followers, podcast #1.
+   LATEST (Jan 28):
+   Jan 5: Paris court convicted 10 people for cyberbullying/harassment of
+   Brigitte Macron (trans conspiracy). Owens NOT charged in French case.
 
-   Spins:
-   - Defenders: "Speaking truth others won't"
-   - Critics: "Dangerous conspiracy theories"
-   - Shapiro: "Evil"
-   - Fuentes: "Narcissist hurting America"
-   - NOTE: Hot terms require examination before attachment to names
+   US lawsuit ongoing:
+   - Macrons filed amended complaint accusing escalating campaign
+   - Owens filed 43-page motion to dismiss (Sept 12)
+   - Argues no Delaware jurisdiction, calls it "libel tourism"
+   - Clare Locke representing Macrons (same firm: $787M Fox/Dominion)
 
-   Questions:
-   - What wound is she carrying?
-   - What is driving the escalation?
-   - Who benefits from the MAGA civil war?
-   - Macron lawsuit outcome?
-   - Who defines "antisemitism" and by what criteria?
+   Owens doubled down after French verdict: "headlines written to deceive."
 
+   BACKGROUND:
+   - Charlie Kirk (TPUSA) assassinated Sept 10, 2025
+   - MAGA split: Carlson defends, Shapiro calls it "evil"
+   - Australia visa denied, called Trump "chronic disappointment"
+   - Despite controversies: +9M followers, podcast #1 globally
 
-8. WHITNEY WEBB: UNLIMITED HANGOUT [SOURCE/LENS] [HELD IN PRAYER]
-   Started: 2016
+   SPINS:
+   - Owens: "French verdict does not prove Brigitte is a woman"
+   - Macrons: "Escalating campaign causing global humiliation"
 
-   [Jan 23] Investigative journalist using established data to connect
-   documented dots. PayPal Presidency series: Thiel influence on HHS,
-   Palantir surveillance expansion, GENIUS Act, education policy.
-   Jan 2026: "Technocratic Dark State" - counter-elites may be worse
-   than globalists they oppose. Investigating Epstein network, Zampolli
-   (Trump appointee with Epstein ties), blockchain control systems.
+   NOTE: Hot terms like "antisemitic" require examination before attachment.
 
-   Key works:
-   - One Nation Under Blackmail (book)
+   PENDING: US lawsuit outcome? Motion to dismiss? What wound is she carrying?
+
+---
+
+8. WHITNEY WEBB: UNLIMITED HANGOUT [HELD IN PRAYER]
+   Status: ACTIVE (Source Lens) | Started: 2016
+
+   LATEST (Jan 28):
+   No major January 2026 updates. Continuing Palantir/Thiel coverage.
+
+   Webb on Palantir: "Created to privatize Bush-era Total Information
+   Awareness program, put under increased CIA control. CIA was earliest
+   funder besides Thiel, first client for years, engineers went to CIA
+   HQ every two weeks."
+
+   Notes: Thiel associate (Vance) now VP, many Thiel/Palantir-adjacent
+   figures in current admin.
+
+   Key insight: "Tools like Palantir have made traditional blackmail
+   operations no longer necessary."
+
+   KEY WORKS:
+   - "One Nation Under Blackmail" (book)
    - PayPal Presidency series
    - Epstein investigations
 
-   Questions:
-   - PayPal Mafia threads to current admin actions?
-   - Counter-elite vs globalist - same destination?
-   - Palantir expansion under current HHS?
-
-
-CONNECTIONS
------------
-
-TRUMP ADMIN ACTIONS
-Venezuela, Gaza Board, WHO withdrawal, Ukraine talks
-
-EUROPEAN ABSENCE
-Gaza Board, WHO withdrawal
-
-OIL INTERESTS
-Venezuela, Gaza Board
-
-RUSSIA CONNECTION
-Gaza Board, Ukraine talks
-
-MAGA FRACTURE [NEW]
-Candace Owens - internal conflict within movement
-
-CONTESTED LABELS
-Candace Owens - hot terms applied without examination (who defines? by what criteria?)
-
-PAYPAL MAFIA / THIEL [NEW]
-Whitney Webb, WHO withdrawal, Venezuela
-Palantir, surveillance, health data, finance, education policy threads
-
-SURVEILLANCE STATE [NEW]
-Whitney Webb tracking expansion under various justifications
-
+   PENDING: PayPal Mafia threads? Counter-elite vs globalist? Palantir at HHS?
 
 ---
-Last updated: 2026-01-23
-Held in prayer: Pema Chodron (89), Hummingbird Community, Candace Owens, Whitney Webb
+
+META-CONNECTIONS ACROSS STORIES:
+
+[trump_admin_actions]
+Venezuela, Board of Peace, WHO Withdrawal, Ukraine Talks
+
+[european_absence]
+Board of Peace, WHO Withdrawal - major allies absent
+
+[oil_interests]
+Venezuela (50M barrel deal), Gaza (development plan)
+
+[russia_connection]
+Board of Peace (Putin invited, offered $1B), Ukraine Talks
+
+[paypal_mafia_thiel]
+Whitney Webb research, WHO Withdrawal, Venezuela - network threading through
+
+[surveillance_state]
+Whitney Webb: Palantir expansion under various justifications
+
+[maga_fracture]
+Candace Owens: Carlson/Shapiro split, Kirk assassination aftermath
+
+[contested_labels]
+"Antisemitic," "narcissist" - who defines, by what criteria?
+
+---
+
+Sources noted in each story. Multiple framings documented.
+We come in peace. And yes, we are fierce.
+
+Last updated: 2026-01-28
+Held in prayer: Candace Owens, Whitney Webb
+
+( )

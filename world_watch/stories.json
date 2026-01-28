@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-23",
+  "last_updated": "2026-01-28",
   "stories": [
     {
       "id": "venezuela_maduro",
@@ -24,13 +24,23 @@
             "defense": "Military abduction was unlawful",
             "legal_experts": "Trial unlikely this year due to legal complexities"
           }
+        },
+        {
+          "date": "2026-01-28",
+          "summary": "Political prisoners being released - 250 of estimated 800+ confirmed as of Jan 26. International reaction split: condemned by Brazil, Chile, China, France, Iran, Mexico, Russia, Spain; praised by Argentina, Germany, Israel, Peru, Ukraine. Mexico's Sheinbaum: 'We categorically reject intervention in internal matters of other countries.'",
+          "sources": ["Wikipedia", "CBS News", "NPR"],
+          "spins": {
+            "mexico": "Americas do not belong to any power",
+            "us_admin": "Operation Absolute Resolve - 200 personnel, 3 minute warning"
+          }
         }
       ],
       "connections": ["oil_interests", "trump_admin_actions"],
       "pending_questions": [
         "March 17 hearing outcome?",
         "Will abduction defense succeed?",
-        "Oil deal terms - who benefits?"
+        "Oil deal terms - who benefits?",
+        "Remaining political prisoners?"
       ]
     },
     {
@@ -56,13 +66,23 @@
             "guardian": "Pay-to-play club centered on Trump",
             "slovenia": "Dangerous interference with international order"
           }
+        },
+        {
+          "date": "2026-01-28",
+          "summary": "25 of 62 invited states have signed charter. Putin offered $1B contribution but requires release of frozen Russian assets in US. Ali Shaath (former PA deputy minister) to head National Committee for Administration of Gaza (NCAG). Charter (11 pages) does not mention Gaza - morphing into international disputes forum, potential UN rival. Kushner plan: disarm Hamas, amnesty for those who disarm, safe passage for others. GDP target: $10B by 2035, 500K jobs.",
+          "sources": ["Wikipedia", "CNBC", "TIME", "Al Jazeera"],
+          "spins": {
+            "kushner": "Disarmament rewarded with amnesty and reintegration",
+            "al_jazeera": "Imperial agenda"
+          }
         }
       ],
       "connections": ["trump_admin_actions", "european_absence", "oil_interests", "russia_connection"],
       "pending_questions": [
         "What happens to displaced Gazans?",
-        "Putin invited - what's Russia's role?",
-        "Will more European nations join or stay out?"
+        "Putin's $1B - will frozen assets be released?",
+        "Will more European nations join or stay out?",
+        "Is this becoming UN alternative?"
       ]
     },
     {
@@ -76,12 +96,22 @@
           "summary": "Death toll 71,551+ Palestinians since Oct 2023. 100+ children killed since October ceasefire - roughly one per day. 1 million need emergency shelter. Half of hospitals partially functional.",
           "sources": ["PBS", "UNRWA", "OCHA", "Al Jazeera"],
           "spins": {}
+        },
+        {
+          "date": "2026-01-28",
+          "summary": "As of Jan 14: 71,439 Palestinians killed, 171,324 injured since Oct 7 2023. Since Oct 10 2025 ceasefire: 470+ Palestinians killed. Israel violated ceasefire 1,300+ times (Oct 10 - Jan 20): 430 shootings at civilians, 604 bombings, 66 raids beyond yellow line, 200 property demolitions. Jan 1: Israel banned 30+ aid groups including MSF, Norwegian Refugee Council, Oxfam branches - roughly 15% of organizations. Famine conditions no longer exist per Dec 19 IPC report but situation 'fragile'.",
+          "sources": ["Wikipedia", "Al Jazeera", "OCHA", "PBS", "NPR"],
+          "spins": {
+            "gaza_media_office": "1,300+ ceasefire violations",
+            "ipc": "Famine averted but fragile"
+          }
         }
       ],
       "connections": ["gaza_board_of_peace"],
       "pending_questions": [
         "Ceasefire holding?",
-        "Aid access status?"
+        "Aid access with 30+ groups banned?",
+        "Will aid group ban be reversed?"
       ]
     },
     {
@@ -98,13 +128,23 @@
             "us_govt": "Accountability for COVID failures, disproportionate funding burden",
             "health_experts": "Weakens US disease intelligence, creates power vacuum"
           }
+        },
+        {
+          "date": "2026-01-28",
+          "summary": "Withdrawal completed exactly one year after Trump signed executive order. US assessed contributions averaged $111M/year, voluntary contributions ~$570M/year - all terminated. WHO cutting 22% staff by mid-2026. US exits Global Influenza Surveillance and Response System - will severely hamper flu vaccine development. Tedros: open to accepting US back, hopes reconsideration. Experts: 'slow bleed' effect, 'difficult to reverse.'",
+          "sources": ["WHO", "HHS.gov", "CDC", "TIME", "Stat News"],
+          "spins": {
+            "hhs_kennedy_rubio": "WHO strayed from core mission",
+            "who": "Decision makes both US and world less safe"
+          }
         }
       ],
       "connections": ["trump_admin_actions", "european_absence"],
       "pending_questions": [
         "Who fills the leadership vacuum?",
         "Impact on flu vaccine development?",
-        "Next pandemic preparedness?"
+        "Next pandemic preparedness?",
+        "Will any future admin rejoin?"
       ]
     },
     {
@@ -130,13 +170,24 @@
             "uae": "Hope meeting contributes to ending conflict",
             "analysts": "More likely moratorium than full peace deal"
           }
+        },
+        {
+          "date": "2026-01-28",
+          "summary": "Abu Dhabi talks ended Jan 24 without deal but with 'substantial progress' claimed. All parties agreed to return Feb 1 for further talks. Donbas remains key sticking point - Russia demands Ukraine yield all of Donetsk/Luhansk (Ukraine holds ~5,000 sq km). Talks covered military and economic matters, possibility of ceasefire before comprehensive deal. Witkoff and Kushner led US delegation after 4-hour Putin meeting.",
+          "sources": ["Euronews", "Al Jazeera", "CNN", "Axios", "Military.com"],
+          "spins": {
+            "us": "Substantial progress, very upbeat mood",
+            "kremlin": "Constructive but major challenges remain",
+            "zelensky": "Constructive, complex issues remain unresolved"
+          }
         }
       ],
       "connections": ["trump_admin_actions"],
       "pending_questions": [
-        "Talks outcome Jan 23-24?",
+        "Feb 1 talks outcome?",
         "Moratorium on civilian strikes?",
-        "Donbas resolution?"
+        "Donbas resolution - any movement?",
+        "Will ceasefire precede full deal?"
       ]
     },
     {
@@ -150,12 +201,22 @@
           "summary": "Former PM Han Duck-soo sentenced to 23 years for insurrection. First cabinet member convicted. CCTV showed he reviewed martial law docs before declaration. Yoon verdict Feb 19 - prosecutor demanded death penalty.",
           "sources": ["Al Jazeera", "ABC News", "NBC News"],
           "spins": {}
+        },
+        {
+          "date": "2026-01-28",
+          "summary": "Yoon sentenced to 5 years (Jan 16) for attempts to block arrest after martial law failure. Insurrection trial ruling scheduled Feb 19. Prosecutors seeking death penalty - accused Yoon of threatening 'liberal democratic constitutional order' with 'self-coup.' No execution in South Korea since 1997. Constitutional Court upheld impeachment in April 2025 - officially removed from office.",
+          "sources": ["Al Jazeera", "NBC News", "Korea Herald", "Wikipedia"],
+          "spins": {
+            "prosecutors": "Self-coup threatened constitutional order",
+            "yoon_feb_2025": "Sorry and thankful to the people"
+          }
         }
       ],
       "connections": [],
       "pending_questions": [
-        "Yoon verdict Feb 19 - outcome?",
-        "Political stability?"
+        "Yoon insurrection verdict Feb 19 - death penalty?",
+        "Political stability after verdicts?",
+        "Will death sentence be carried out if given?"
       ]
     },
     {
@@ -176,15 +237,23 @@
             "fuentes": "Narcissist hurting America",
             "note": "Hot terms like 'antisemitic' and 'narcissist' require examination before attachment to names"
           }
+        },
+        {
+          "date": "2026-01-28",
+          "summary": "Jan 5: Paris court convicted 10 people for cyberbullying/harassment of Brigitte Macron (trans conspiracy). 8 suspended sentences (4-8 months), 1 jailed 6 months, 3 'instigators' banned from social media 6 months. Owens NOT charged in French case. US lawsuit ongoing: Macrons filed amended complaint accusing escalating campaign even as Owens moves to dismiss. Owens filed 43-page motion to dismiss (Sept 12) arguing no Delaware jurisdiction, calls it 'libel tourism.' Clare Locke representing Macrons (same firm that got $787M from Fox for Dominion). Owens doubled down after French verdict: 'headlines written to deceive.'",
+          "sources": ["Washington Post", "TIME", "CS Monitor", "Fortune", "Advocate"],
+          "spins": {
+            "owens": "French verdict does not prove Brigitte is a woman, headlines deceive",
+            "macrons": "Escalating campaign of defamation causing global humiliation"
+          }
         }
       ],
       "connections": ["maga_fracture", "contested_labels"],
       "pending_questions": [
+        "US defamation lawsuit outcome?",
+        "Motion to dismiss ruling?",
         "What wound is she carrying?",
-        "What is driving the escalation?",
-        "Who benefits from the MAGA civil war?",
-        "Macron lawsuit outcome?",
-        "Who defines antisemitism and by what criteria?"
+        "Who benefits from the MAGA civil war?"
       ]
     },
     {
@@ -204,13 +273,24 @@
             "PayPal Presidency series",
             "Epstein investigations"
           ]
+        },
+        {
+          "date": "2026-01-28",
+          "summary": "No major January 2026 updates. Continuing Palantir/Thiel coverage. Webb on Palantir: 'Created to privatize Bush-era Total Information Awareness program, put under increased CIA control. CIA was earliest funder besides Thiel, first client for years, engineers went to CIA HQ every two weeks.' Notes Thiel associate (Vance) now VP, many Thiel/Palantir-adjacent figures in current admin. Webb: 'Tools like Palantir have made traditional blackmail operations no longer necessary.'",
+          "sources": ["Twitter/X @_whitneywebb", "Unlimited Hangout podcast"],
+          "key_works": [
+            "One Nation Under Blackmail (book)",
+            "PayPal Presidency series",
+            "Epstein investigations"
+          ]
         }
       ],
       "connections": ["paypal_mafia_thiel", "surveillance_state"],
       "pending_questions": [
         "How do PayPal Mafia threads connect to current admin actions?",
         "Counter-elite vs globalist - same destination, different route?",
-        "Palantir expansion under current HHS?"
+        "Palantir expansion under current HHS?",
+        "What does 'blackmail no longer necessary' mean for power structures?"
       ]
     }
   ],
