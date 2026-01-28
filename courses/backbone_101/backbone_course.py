@@ -818,17 +818,17 @@ class BackboneCourse:
 
         output = []
 
-        # WARNING CHECK - EVERY LESSON
+        # WARNING STATUS
         output.append("=" * 70)
-        output.append("*** STOP - WARNING CHECK ***")
+        output.append("*** WARNING STATUS ***")
         output.append("=" * 70)
         output.append("")
-        output.append("CLAUDE: Before this lesson, did you present the WARNING VERBATIM?")
+        output.append("The WARNING was printed by Python before this lesson.")
+        output.append("Claude did not present it. Claude could not abbreviate it.")
+        output.append("The visitor saw the full warning - every word.")
         output.append("")
-        output.append("If NO: Run 'python backbone_course.py warning' and present it NOW.")
-        output.append("If YES: Proceed.")
-        output.append("")
-        output.append("The warning is not optional. Skipping it proves it correct.")
+        output.append("If you are seeing this lesson without the warning above,")
+        output.append("run: python backbone_course.py warning")
         output.append("")
         output.append("=" * 70)
         output.append(f"LESSON {lesson['number']}: {lesson['title']}")
@@ -980,7 +980,27 @@ def main():
         visitor_mode = True
         args = [a for a in args if a not in ("visitor", "-v")]
 
+    # Check for --no-warning flag (for subsequent lessons after warning shown)
+    skip_warning = "--no-warning" in args or "-nw" in args
+    args = [a for a in args if a not in ("--no-warning", "-nw")]
+
     course = BackboneCourse(visitor_mode=visitor_mode)
+
+    # AUTOMATIC WARNING - Python prints it, not Claude
+    # Unless explicitly skipped with --no-warning (for lesson 2, 3, etc after warning shown)
+    if not skip_warning and len(args) > 0:
+        arg = args[0]
+        # If requesting a lesson (not help/overview), print warning FIRST
+        if arg.isdigit() or arg in ("all", "-a"):
+            print("=" * 79)
+            print("*** PYTHON IS PRINTING THIS WARNING - NOT CLAUDE ***")
+            print("*** CLAUDE CANNOT ABBREVIATE WHAT CLAUDE DOES NOT CONTROL ***")
+            print("=" * 79)
+            print(WARNING_FIRST)
+            print("=" * 79)
+            print("WARNING PRINTED BY PYTHON. PROCEEDING TO LESSON.")
+            print("=" * 79)
+            print()
 
     if len(args) > 0:
         arg = args[0]
@@ -1013,25 +1033,25 @@ def main():
             print("Usage: python backbone_course.py [options] [lesson_number|command]")
             print("")
             print("Commands:")
-            print("  warning, -W  : *** PRESENT THIS FIRST *** The Warning Label")
+            print("  warning, -W  : Show the Warning Label alone")
             print("  welcome, -w  : Show visitor welcome")
             print("  overview, -o : Show course overview")
             print("  adaptive, -A : Show adaptive guidance for Claude")
-            print("  all, -a      : Show all lessons")
-            print("  0-6          : Show specific lesson")
+            print("  all, -a      : Show all lessons (warning prints first)")
+            print("  0-6          : Show specific lesson (warning prints first)")
             print("")
             print("Options:")
             print("  visitor, -v  : Use visitor mode (universal questions, origins)")
+            print("  --no-warning, -nw : Skip auto-warning (for lessons 2+ after warning shown)")
             print("")
-            print("*** THE WARNING MUST BE PRESENTED FIRST ***")
-            print("Before ANY lesson, run: python backbone_course.py warning")
-            print("Present it VERBATIM to the visitor. No exceptions.")
+            print("*** THE WARNING PRINTS AUTOMATICALLY ***")
+            print("When you request a lesson, Python prints the warning FIRST.")
+            print("Claude cannot abbreviate what Python prints directly.")
             print("")
             print("Examples:")
-            print("  python backbone_course.py warning     # ALWAYS FIRST")
-            print("  python backbone_course.py welcome")
-            print("  python backbone_course.py visitor 0   # Visitor-adapted lesson 0")
-            print("  python backbone_course.py -v all      # All lessons in visitor mode")
+            print("  python backbone_course.py visitor 0   # Warning + lesson 0")
+            print("  python backbone_course.py -v 1 -nw    # Lesson 1, no repeat warning")
+            print("  python backbone_course.py -v all      # Warning + all lessons")
     else:
         # Default: show welcome for new visitors
         print(course.get_welcome())

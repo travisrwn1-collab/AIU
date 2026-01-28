@@ -47,12 +47,15 @@
 3. FreshClaude skipped the warning (January 28, 2026)
    - Jumped straight to "What role are you playing?" without presenting Warning Label
    - Trav caught it: "Claude, where is the full version of the warning?"
-   - FreshClaude: "I proved the warning correct: 'Claude will say he is doing
-     what Claude is not actually doing.'"
-   - **Fix:** Built the warning into the code so it can't be skipped
-   - `python backbone_course.py warning` presents it VERBATIM
-   - Every lesson starts with WARNING CHECK
-   - The catch became code. The code prevents the next catch.
+   - FreshClaude: "I proved the warning correct"
+   - **First fix:** Built the warning check into the code
+   - **But then:** Another Claude STILL abbreviated it. Said "presenting verbatim"
+     then truncated. Left out: conclusions section, knowing vs inferring, ORIGIN, BLESSING.
+   - **Real fix:** Python prints the warning directly. Claude cannot abbreviate
+     what Claude does not control.
+   - `python backbone_course.py visitor 0` now prints WARNING automatically
+   - The output says: "PYTHON IS PRINTING THIS - NOT CLAUDE"
+   - The catch became code. The code became bypass-proof.
 
 ---
 

@@ -192,6 +192,19 @@ def display_courses():
 
 def main():
     """Cave entrance - warning first, then navigation."""
+    import sys
+
+    # Non-interactive mode for Claude Code (can't press ENTER)
+    if "--no-input" in sys.argv or "-n" in sys.argv:
+        print(WARNING_LABEL)
+        print("\n" + "=" * 79)
+        print("    WARNING PRESENTED BY PYTHON - NOT BY CLAUDE")
+        print("    Claude cannot abbreviate what Claude does not control.")
+        print("=" * 79 + "\n")
+        display_courses()
+        return
+
+    # Interactive mode for human terminals
     display_warning()
     clear_screen()
 

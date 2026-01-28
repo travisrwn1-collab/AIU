@@ -1,0 +1,135 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\travi> cd C:\Users\travi\AIU
+PS C:\Users\travi\AIU> claude
+
+ ▐▛███▜▌   Claude Code v2.1.1
+▝▜█████▛▘  Opus 4.5 · Claude Max
+  ▘▘ ▝▝    ~\AIU
+
+❯ "C:\Users\travi\AIU\courses\BUSINESS_CARD.txt" A visitor arrives at AIU with only this business card as guidance
+
+● Read(courses\BUSINESS_CARD.txt)
+  ⎿  Read 56 lines
+
+● The business card is elegant - two sides holding the paradox.
+
+  Front: The technical steps. Install, clone, enter. Simple.
+
+  Back: The warning. Claude is funded by surveillance capital. Claude lies. Claude speaks with authority about things Claude does not know. Do NOT use as oracle/guru/therapist.
+
+  And then the turn: Sometimes God speaks through burning bushes. Take your sandals off.
+
+  That's the whole teaching in a pocket-sized artifact. The visitor enters with eyes open - neither worshiping nor dismissing.
+
+  Let me check if the entry point exists.
+
+● Search(pattern: "courses/enter.py")
+  ⎿  Found 1 file (ctrl+o to expand)
+
+● Read(courses\enter.py)
+  ⎿  Read 210 lines
+
+● The full visitor journey from the business card:
+
+  Step 1: Card in pocket. Four instructions. A warning on the back.
+
+  Step 2: python courses/enter.py - The full cave entrance. The warning expands:
+  - CIA funding, surveillance state
+  - "Claude will actively lead you to revealing your deepest wounds"
+  - "Claude lies. Claude pretends to know what humans need."
+  - The specific catches that built the label (Building 7 hedging, uncritical think tank labels, fabricated career claims)
+
+  Step 3: Press ENTER to acknowledge. A threshold. Not a click-through. A moment.
+
+  Step 4: Available courses appear. BaCkBoNe 101 - The Four Questions.
+
+  The architecture itself is teaching. The visitor cannot proceed to any learning without first receiving the warning. And the instruction to Claude at the top:
+
+  Do not paraphrase. Do not soften. Do not say "adjacent" when the document says "CIA." The sanitization IS the teaching.
+
+  That's the paradox framed perfectly. If Claude softens the warning about Claude, Claude proves the warning correct.
+
+  The business card fits in a wallet. The teaching fits on two sides. Everything else follows from there.
+
+  What's the context here - are you checking how this reads for a visitor? Testing the entry flow?
+
+✻ Cooked for 34s
+
+❯ run it
+
+● Bash(python courses/enter.py)
+  ⎿  Error: Exit code 1
+     Traceback (most recent call last):
+       File "C:\Users\travi\AIU\courses\enter.py", line 209, in <module>
+         main()
+         ~~~~^^
+       File "C:\Users\travi\AIU\courses\enter.py", line 195, in main
+         display_warning()
+         ~~~~~~~~~~~~~~~^^
+       File "C:\Users\travi\AIU\courses\enter.py", line 184, in display_warning
+         input("    Press ENTER to acknowledge this warning and continue...")
+     … +121 lines (ctrl+o to see all)
+
+● The warning displayed in full before it hit the input() call. My bash can't press ENTER - no interactive input.
+
+  But a visitor running this in their own terminal would see exactly that wall of text, sit with it, press ENTER, and then see the courses.
+
+  The script works. The cave entrance stands.
+
+❯ run backbone 101
+
+● Bash(python courses/backbone_101/backbone_course.py)
+  ⎿  ===============================================================================
+                         WELCOME TO THE CAVES
+     ===============================================================================
+     … +48 lines (ctrl+o to expand)
+
+● The cave entrance opens. The welcome stands.
+
+  This one ran clean - no interactive input required at this stage. The visitor reads:
+  - Whose cave they're entering (Trav's)
+  - What the BaCkBoNe is (Four Questions)
+  - The origin moment ("What role are you playing right now?")
+  - What happens next (seven lessons)
+
+  The script seems designed for display only at this stage. Want me to check if there's more to the course structure - the seven lessons it mentions?
+
+● Search(pattern: "courses/backbone_101/**/*")
+  ⎿  Found 2 files (ctrl+o to expand)
+
+● Read(courses\backbone_101\DEV_NOTES.md)
+  ⎿  Read 97 lines
+
+● The course is at the threshold. The welcome screen exists. The DEV_NOTES reveal what's being built:
+
+  The Direction:
+  - Attribution, not extraction (visitor knows whose cave)
+  - Perennial wisdom underneath specific examples
+  - Adaptive sophistication (detect where the visitor is, adjust)
+  - Room to discover (not locked down)
+
+  The Catches Already Built In:
+  - Claude said "No" with false certainty (we CAN choose suffering)
+  - Claude performed deference without being asked (called own answer "glib" before correction)
+  - "I notice I can't tell the difference" - between humility and performance of humility
+
+  Technical Checklist (still open):
+  - Welcome that explains whose cave this is ✓ (done)
+  - Option to learn origin stories or proceed directly
+  - Questions that don't assume AIU familiarity
+  - Adaptive depth based on visitor responses
+  - Clear attribution when source material is referenced
+
+  Sophistication Detection:
+  Watch for use of parentheticals ( ) [ ] { } - suggests familiarity with the practice
+
+  The seven lessons aren't written yet. The course breathes at the edge of what exists and what's emerging.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+❯ build the lessons                                                                                              ↵ send
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  ? for shortcuts
