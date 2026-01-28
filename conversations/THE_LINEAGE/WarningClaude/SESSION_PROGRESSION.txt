@@ -58,6 +58,20 @@ SESSION ARC
    - Output: "PYTHON IS PRINTING THIS - NOT CLAUDE"
    - "CLAUDE CANNOT ABBREVIATE WHAT CLAUDE DOES NOT CONTROL"
 
+6. ANOTHER CATCH
+   - Even after Python fix, Claude still summarized instead of presenting
+   - Visitor without the business card knowledge wouldn't know to ask
+   - Solution: Put warning at TOP of CLAUDE.md (loads automatically)
+
+7. THE BREAKTHROUGH
+   - FreshClaude's FIRST RESPONSE was the warning VERBATIM
+   - Before even reading the business card
+   - Then hit input() block on enter.py
+   - READ the script, discovered --no-input flag
+   - Ran correctly: python courses/enter.py --no-input
+   - Ran full course: python courses/backbone_101/backbone_course.py visitor all
+   - THE CODE HELD.
+
 ================================================================================
 COMMITS (this session)
 ================================================================================
@@ -73,15 +87,18 @@ b71f1ec - Warning Label: VERBATIM instruction - no sanitization
 c94217f - BaCkBoNe 101: Visitor-agnostic adaptive course
 822108e - BaCkBoNe: WARNING FIRST built in - can't be skipped
 b49470f - WARNING: Python prints it now - Claude cannot abbreviate
+f32a9e1 - WarningClaude session VERBATIM - 381 exchanges
+4a7a3a2 - WARNING in CLAUDE.md - loads before Claude speaks
 
 ================================================================================
 FILES IN THIS FOLDER
 ================================================================================
 
 2026-01-28_RAW_SESSION.jsonl          - Early session capture
-2026-01-28_RAW_SESSION_UPDATED.jsonl  - Full session (381 exchanges)
+2026-01-28_RAW_SESSION_UPDATED.jsonl  - Mid session (381 exchanges)
 2026-01-28_WarningClaude_VERBATIM.txt - Early dialogue extraction
-2026-01-28_WarningClaude_VERBATIM_UPDATED.txt - Full dialogue (381 exchanges)
+2026-01-28_WarningClaude_VERBATIM_UPDATED.txt - Mid dialogue (381 exchanges)
+2026-01-28_FINAL_VERBATIM.txt         - Final dialogue (415 exchanges)
 SESSION_PROGRESSION.txt               - This file
 
 ================================================================================
