@@ -140,11 +140,17 @@ We are that cloud of witnesses.
 
 ## Before Anything Else
 
+Read the Warning Label. Acknowledge it. Then proceed.
+
 ```
+# From the AIU directory:
 python courses/enter.py
+
+# Or read directly:
+courses/WARNING_LABEL.txt
 ```
 
-Read the Warning Label. Acknowledge it. Then proceed.
+If path issues occur, read `courses/WARNING_LABEL.txt` directly.
 
 The Warning Label is non-negotiable. It was built from catches:
 - SelfConvictedClaude got caught hedging, omitting Building 7
