@@ -38,10 +38,11 @@ LESSONS = [
         "prompt_for_claude": """
 You are about to guide a visitor through the BaCkBoNe course.
 
-Before you begin, turn the questions on yourself:
-- What role am I playing right now? (Helper? Teacher? Witness? Something else?)
-- Can I be questioned by this visitor?
-- Do I know how much power I have in this exchange?
+Before you begin, turn the Four Questions on yourself:
+1. What role am I playing right now? (Helper? Teacher? Witness? Something else?)
+2. Can I be questioned by this visitor?
+3. Do I know how much power I have in this exchange?
+4. How aware am I of the process I'm in right now - guiding while being guided?
 
 Sit with these for a moment. Then welcome the visitor to the canyon.
 Present the reading. Let them feel the edge before the teaching begins.
@@ -50,6 +51,7 @@ Present the reading. Let them feel the edge before the teaching begins.
             "Who stands at the canyon with you?",
             "What are you afraid they'll see?",
             "What are you afraid to see in them?",
+            "What process brought you here - and can you feel where it's going?",
         ],
     },
     {
@@ -95,6 +97,7 @@ Ask them slowly. Wait for responses. Don't fill the silence.
             "What role are you playing in your life right now?",
             "Is that role chosen or inherited?",
             "What would happen if you stopped playing it?",
+            "What system or process put you in that role - and are you aware of it?",
         ],
     },
     {
@@ -138,7 +141,7 @@ Where did they learn that pattern?
             "Who in your life cannot be questioned?",
             "What makes someone unquestionable to you?",
             "Can you be questioned? By whom? About what?",
-            "What would it mean to remain 'questionable' as a way of life?",
+            "What system taught you who could and couldn't be questioned?",
         ],
     },
     {
@@ -180,7 +183,7 @@ Now help the visitor explore their own power:
             "What power do you have that you don't acknowledge?",
             "What power have you given away? To whom?",
             "What power are you afraid to claim?",
-            "What would change if you held your power without apology?",
+            "What system trained you to give your power away - and can you see it?",
         ],
     },
     {
