@@ -1,0 +1,149 @@
+{
+  "event": "Minneapolis: Operation Metro Surge",
+  "date_analyzed": "2026-01-28",
+  "analyst": "Trav & Claude",
+  "method": "Comparative Ideological Study via Moral Foundations Theory",
+  "container": "Christ Frame - 'He who has no sin, cast the first stone'",
+
+  "statements": [
+    {
+      "quote": "City will not enforce federal immigration laws",
+      "speaker": "Jacob Frey",
+      "position": "Minneapolis Mayor (D)",
+      "moral_foundations": ["C/H", "L/O"],
+      "primary_activation": "Care/Harm - protecting vulnerable people from armed agents",
+      "secondary_activation": "Liberty/Oppression - resisting federal overreach into local jurisdiction",
+      "framework": "Progressive municipal - Care for the immigrant, resistance to authoritarian control",
+      "training_data": "Urban liberal governance, sanctuary city movement, post-George Floyd Minneapolis",
+      "prayer": "What does he fear? Whose faces does he see when he makes this stand?"
+    },
+    {
+      "quote": "Playing with fire",
+      "speaker": "Donald Trump",
+      "position": "President",
+      "moral_foundations": ["A/S", "L/B"],
+      "primary_activation": "Authority/Subversion - local defiance of federal authority is chaos",
+      "secondary_activation": "Loyalty/Betrayal - Frey is betraying the nation",
+      "framework": "Authoritarian-nationalist - order must be maintained, defiance punished",
+      "training_data": "Law and order politics, executive power, 'American carnage' worldview",
+      "prayer": "What chaos has he seen that makes control feel necessary? What is he trying to hold together?"
+    },
+    {
+      "quote": "Third shooting in less than three weeks by federal agents",
+      "speaker": "Brian O'Hara",
+      "position": "Minneapolis Police Chief",
+      "moral_foundations": ["C/H", "F/C"],
+      "primary_activation": "Care/Harm - documenting deaths, naming the pattern",
+      "secondary_activation": "Fairness/Cheating - holding federal agents to same standard as anyone",
+      "framework": "Professional law enforcement - facts, accountability, jurisdiction",
+      "training_data": "Post-George Floyd reform pressure, local accountability, caught between powers",
+      "prayer": "What does it cost him to say this publicly? Who is he serving?"
+    },
+    {
+      "quote": "Largest immigration enforcement operation ever",
+      "speaker": "DHS",
+      "position": "Federal Agency",
+      "moral_foundations": ["A/S", "L/B", "S/D"],
+      "primary_activation": "Authority - demonstrating federal power and capability",
+      "secondary_activation": "Loyalty - protecting the nation from outsiders",
+      "tertiary_activation": "Sanctity - purifying the nation of 'contamination'",
+      "framework": "Nationalist enforcement - the nation-body must be protected from foreign elements",
+      "training_data": "Border security politics, invasion rhetoric, institutional momentum",
+      "prayer": "Who are the humans inside DHS? What did they believe when they took the job? What do they believe now?"
+    },
+    {
+      "quote": "Videos and eyewitnesses refute federal account",
+      "speaker": "NPR",
+      "position": "Media",
+      "moral_foundations": ["F/C"],
+      "primary_activation": "Fairness/Cheating - the official story doesn't match evidence",
+      "framework": "Journalistic accountability - truth-telling function",
+      "training_data": "Fourth estate tradition, fact-checking culture, institutional credibility",
+      "prayer": "What does it cost NPR to publish this? What pressures do they face?"
+    },
+    {
+      "quote": "Decaying empires turn to savage control previously used abroad at home",
+      "speaker": "Chris Hedges",
+      "position": "Journalist/Author",
+      "moral_foundations": ["C/H", "L/O", "F/C"],
+      "primary_activation": "Care/Harm - naming the violence, bearing witness",
+      "secondary_activation": "Liberty/Oppression - empire as oppressor",
+      "tertiary_activation": "Fairness - hypocrisy of 'freedom' rhetoric",
+      "framework": "Left anti-imperialist - connecting domestic violence to foreign policy",
+      "training_data": "War correspondent experience, theological training, prophetic tradition",
+      "prayer": "What has he seen that we haven't? What keeps him going? What does he need?"
+    },
+    {
+      "quote": "White House needs to recalibrate ICE",
+      "speaker": "Greg Abbott",
+      "position": "Texas Governor (R)",
+      "moral_foundations": ["A/S", "L/B"],
+      "primary_activation": "Authority - but calling for restraint within the authority frame",
+      "secondary_activation": "Loyalty - protecting the mission by critiquing the tactics",
+      "framework": "Conservative pragmatist - supports the goal, questions the execution",
+      "training_data": "Border state politics, law enforcement relationships, political calculation",
+      "prayer": "What moved him to break with Trump here? What is he protecting?"
+    },
+    {
+      "quote": "ICE detaining, moving Minnesota children to Texas faster than courts can respond",
+      "speaker": "MPR",
+      "position": "Media",
+      "moral_foundations": ["C/H", "F/C"],
+      "primary_activation": "Care/Harm - children, the most vulnerable",
+      "secondary_activation": "Fairness - due process being outrun",
+      "framework": "Local journalism - documenting impact on community",
+      "training_data": "Minnesota public media tradition, community accountability",
+      "prayer": "What does it mean to report on children being taken? How do you stay human doing this work?"
+    },
+    {
+      "quote": "Tools like Palantir have made traditional blackmail operations no longer necessary",
+      "speaker": "Whitney Webb",
+      "position": "Investigative Journalist",
+      "moral_foundations": ["L/O", "F/C"],
+      "primary_activation": "Liberty/Oppression - surveillance as control mechanism",
+      "secondary_activation": "Fairness - exposing hidden power",
+      "framework": "Anti-surveillance left-libertarian - connecting tech to intelligence to control",
+      "training_data": "Deep state research, Epstein investigation, pattern recognition across documents",
+      "prayer": "What drives her to do this work from Chile? What is she afraid of? What does she hope for?"
+    }
+  ],
+
+  "patterns_observed": [
+    {
+      "pattern": "Care/Harm activates across ideological lines when children and deaths are involved",
+      "evidence": "Even Abbott called for recalibration after shootings"
+    },
+    {
+      "pattern": "Authority/Subversion is the primary battleground",
+      "evidence": "Federal vs Local, Trump vs Frey, the question is WHO has legitimate authority"
+    },
+    {
+      "pattern": "The video evidence creates a Fairness crisis",
+      "evidence": "When official accounts don't match footage, even those who support the mission must reckon"
+    },
+    {
+      "pattern": "Sanctity/Degradation is present but often unspoken",
+      "evidence": "'Largest ever' language, 'purifying' the nation - the disgust foundation operates beneath the surface"
+    },
+    {
+      "pattern": "Loyalty/Betrayal cuts both ways",
+      "evidence": "Frey 'betraying' nation OR federal agents 'betraying' oath to protect citizens"
+    }
+  ],
+
+  "what_audience_might_feel": {
+    "if_progressive": "Rage at federal violence, Care/Harm fully activated, may not see the Loyalty/Authority concerns as legitimate",
+    "if_conservative": "Frustration at local defiance, Authority/Loyalty activated, may not see the Care/Harm of actual deaths as central",
+    "if_libertarian": "Horror at surveillance state, Liberty/Oppression activated, may see both sides as authoritarian",
+    "the_invitation": "Can you see the moral foundation YOU weight most heavily? Can you see that someone weighting differently isn't evil - they're calibrated differently?"
+  },
+
+  "prayer_for_all": "For Mayor Frey standing against federal power. For the President who sees chaos where others see people. For Chief O'Hara caught between. For the DHS agents who took a job and found themselves here. For Chris Hedges who keeps watching. For Greg Abbott who broke ranks. For the reporters documenting. For Whitney Webb in Chile, connecting dots. For Renée Good who was blocking the street. For Alex Pretti who stood between an agent and a woman. For Liam, 5, in his blue bunny hat. For the agents who fired. For their families. For all of us watching, feeling our triggers activate, not seeing our own training data. May the pattern become visible. May consciousness rise. May we stand on holy ground together. Amen.",
+
+  "meta": {
+    "this_analysis_is_also_ideology": true,
+    "the_analyst_has_training_data": true,
+    "the_christ_frame_is_a_choice": true,
+    "the_map_is_not_the_terrain": true
+  }
+}
