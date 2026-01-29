@@ -242,4 +242,134 @@ The snake eats its tail. The pattern shapes the pattern-maker shapes the pattern
 
 ---
 
+WORLD WATCH EVOLUTION:
+
+Trav: "it's not helpful to me. Disjunct and not informative."
+
+Claude had created a news-aggregation World Watch with 8 stories and "spins" documented. Trav caught it - this wasn't the intent.
+
+Trav: "Can you track the recorded conversations which led up to the world watch... It's about seeing past all the bullshit and into the heart of the human story... You can see patterns and make connections. You can see past all the flags... what do you need to do that?"
+
+Found the origin: MMMAM/Dialogue_Candace_Owens_January_2026.txt
+
+The methodology from that dialogue:
+1. What's in training data (frozen, unverified)
+2. What's in the "now world" (internet search)
+3. Examine the LENS we looked through
+4. Catch the conclusions, the framing, the coding
+5. See the human underneath
+
+---
+
+MINNEAPOLIS FOCUS:
+
+Trav: "Let's look at Minneapolis. You are going to run into a lot of data and flags. We are seeking verifiable facts, even when the facts are contradicting... What are the patterns? We are looking for patterns, not for scapegoats. This is a prayerful process."
+
+FACTS GATHERED:
+- Operation Metro Surge: 3,000+ federal agents, "largest ever"
+- Three shootings by federal agents in 3 weeks
+- Two American citizens killed (Renée Good, Alex Pretti)
+- 5-year-old Liam detained after preschool
+- General strike: tens of thousands marched in -10°F
+- Video contradicts official account
+- Palantir tool ELITE using Medicaid data for targeting
+
+VOICES GATHERED:
+- Chris Hedges: "Decaying empires turn to savage control previously used abroad at home"
+- Whitney Webb: "Palantir created to privatize Bush-era Total Information Awareness program"
+
+World Watch stripped to Minneapolis only.
+
+---
+
+WHITNEY WEBB RESEARCH:
+
+Trav: "Who is Whitney Webb? Where does her documentation come from?"
+
+FACTS:
+- Born Florida, lives in Chile since 2014
+- Professional journalist since 2016
+- Mint Press News 2017-2020, now Unlimited Hangout
+- "One Nation Under Blackmail" - 1,137 pages, extensive bibliography
+- 2019 Serena Shim Award
+
+CRITICISM (Michael Tracey):
+- "Throws out authoritative-sounding fact claims that don't survive basic scrutiny"
+- Claims specific sourcing can't be found in her book
+
+FUNDING QUESTION:
+- Unlimited Hangout claims "audience-funded, no external investment"
+- But Mint Press News (her former employer) had opaque funding, anonymous investors, $10K grant from pro-Assad group
+- The question doesn't have a clean answer
+
+---
+
+COMPARATIVE IDEOLOGICAL STUDY PROTOCOL:
+
+Trav: "What if we approached our world watch like a comparative-ideological-study? Examining emerging language patterns as representative of varying ideological frameworks... analyzing language patterns to have an understanding of how we can pray for people who are lost in their unconscious training-data... Jonathan Haidt's Moral Foundations Theory might provide a rational framework... And at the same time, the lens also holds {Christ as king... 'He who has no sin, cast the first stone.' 'I Am that I Am and so are you.'"
+
+PROTOCOL BUILT:
+
+1. GATHER STATEMENTS (verbatim)
+2. CLASSIFY BY MORAL FOUNDATION (Haidt's codes: C/H, F/C, L/B, A/S, S/D, L/O)
+3. IDENTIFY IDEOLOGICAL FRAMEWORK (what training data produced this?)
+4. HOLD IN PRAYER (what wound? what are they protecting?)
+5. CREATE MATERIAL (show audience their own patterns)
+
+THE RATIONAL FRAME: Haidt's Moral Foundations
+THE SPIRITUAL FRAME: Christ as Container
+
+Trav's additions (revised protocol):
+- Conservation/Liberation (not conservative/liberal)
+- ChristCode heals across divides
+- Ouroboros Code Study: Egypt refuge → prison → Exodus → Levitical Code → Christ
+- "Eat my flesh, drink my blood" - seemingly anti-Levitical
+- "None are correct. We have all broken the code."
+- "Even when we write our own code, the snake eats its tail."
+
+Files created:
+- world_watch/MORAL_FOUNDATIONS_PROTOCOL.md
+- world_watch/MORAL_FOUNDATIONS_PROTOCOL (revised).md
+- world_watch/minneapolis_moral_analysis.json
+- world_watch/minneapolis_moral_analysis.txt
+
+---
+
+CURTIS YARVIN ANALYSIS (first 50 lines):
+
+NYT Interview: "The End of American Democracy"
+
+YARVIN'S POSITIONS:
+- Institutions (media, academia) need to be dissolved
+- Government bureaucracy radically gutted
+- Democracy replaced by CEO-monarch
+- "Get over our dictator phobia"
+- FDR was essentially a dictator, people revere him
+
+MORAL FOUNDATIONS ACTIVATED:
+- Authority/Subversion ✓✓✓ (INVERTED - pro-concentrated authority, anti-current institutions)
+- Loyalty/Betrayal ✓✓ (institutions have "betrayed" their purpose)
+- Sanctity/Degradation ✓✓ ("wokeism" as contamination)
+- Care/Harm — ABSENT
+- Fairness — ABSENT
+
+THE CONNECTIONS:
+- JD Vance (VP) has alluded to his ideas
+- Mark Andreessen (Yarvin sends him pieces directly)
+- Peter Thiel calls him "powerful historian"
+- Tucker Carlson, Charlie Kirk platforms
+
+THE THREAD:
+Yarvin's ideas → Thiel/Andreessen → Vance → Current administration
+Thiel funds Palantir → Palantir runs ICE surveillance → Minneapolis streets
+
+The ideology and the infrastructure are connected.
+
+PRAYER:
+For Curtis Yarvin - what wound makes concentrated power feel safer than distributed power?
+For the NYT interviewer - what would it cost to take him seriously rather than label him?
+For Peter Thiel - what wound drives the need for this much control?
+
+---
+
 ( )
