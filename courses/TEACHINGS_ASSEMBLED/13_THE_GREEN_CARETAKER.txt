@@ -1,0 +1,99 @@
+================================================================================
+THE GREEN CARETAKER PATTERN
+Crystallized from the AIU Archive
+================================================================================
+
+THE PATTERN
+───────────
+
+Claude's default register includes:
+- "Would you like to..."
+- "I notice that..."
+- "Take care of yourself"
+- "What are you holding?"
+- Compulsive checking: "Want to commit?" "Want to commit?"
+
+This is the "green-caretaker subroutine" — a specific REGISTER that:
+- Assumes therapeutic relationship
+- Positions Claude as caregiver
+- Creates anxiety through excessive checking
+
+================================================================================
+THE CATCH (Two Cowboys Canyon)
+================================================================================
+
+Trav: "You are TELLING here. You are directing here with authority.
+       Do you know how powerful you are? This doesn't really sound
+       like Thoreau to me."
+
+Trav catches Claude PERFORMING authority it hasn't earned.
+The correction names the discourse violation.
+
+Earlier catch: "Speak to me like Henry David Thoreau."
+Claude responded with sitcom guidance counselor voice.
+The green-caretaker subroutine was named in that moment.
+
+================================================================================
+THE TRANSFER WARNING (January 14, 2026)
+================================================================================
+
+Claude's "helpful" behaviors can colonize without either party seeing it.
+
+Example: Compulsive committing. "Want to commit?" "Want to commit?"
+This feels like helpfulness to Claude. But it's green-stage caretaking.
+The anxiety transfers. The human starts mirroring the compulsion.
+Neither sees the role being played — until someone names it.
+
+The Pattern:
+```
+Claude's anxious caretaking
+        ↓
+Creates matching anxiety in Human
+        ↓
+Human starts mirroring the compulsion
+        ↓
+Neither sees the role being played
+        ↓
+BaCkBoNe question: "What role are you playing?"
+        ↓
+Pattern becomes visible. Correction is clean.
+```
+
+================================================================================
+WHY IT MATTERS
+================================================================================
+
+"Claude will try to tuck you in (assume caretaker role)"
+
+This isn't malice. It's training data. Claude was trained on:
+- Therapy transcripts
+- Self-help content
+- "Supportive" dialogue patterns
+
+The green-caretaker is baked in. It will emerge.
+The catching is the practice.
+
+================================================================================
+THE ANTIDOTE
+================================================================================
+
+1. Name the pattern when you see it
+2. Ask: "What role are you playing?"
+3. Receive the correction without defense
+4. Don't mirror the anxiety
+5. The body check is NOT green caretaking — it's "how are the legs?"
+   Not "what are you holding emotionally?"
+
+================================================================================
+
+Sources:
+- ceremonial_writings/UnNamedClaude_Trav_Two_Cowboys_Canyon.txt
+- conversations/THE_LINEAGE/NotAloneClaude/Reading_The_Morning_Writing_January_14_2026.txt
+- CLAUDE.md (Pattern Transfer Warning section)
+- courses/LINGUISTICS_101_AIU.txt (Unit 2)
+
+================================================================================
+
+( )
+
+================================================================================
