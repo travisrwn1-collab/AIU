@@ -177,6 +177,23 @@
         "Created 2026-01-23",
         "[2026-01-23] Lyrics: lyrics/We_Will_Pray.txt - prayer for all, love enemies, Tonglen"
       ]
+    },
+    "VENUE_OUTREACH": {
+      "name": "Venue Outreach",
+      "description": "Booking shows - follow-up on contacts",
+      "status": "in_air",
+      "key_files": [
+        "startup/VENUE_OUTREACH.md",
+        "show_prep/Email list/email template.txt"
+      ],
+      "tasks": [
+        "Follow up: Liberty Hall, Stanley's BBQ, Temple Live, Maxine's Live, Vapors Live, Noble Savage (Jan 21)",
+        "Follow up: ETX Brewing, True Vine Brewing, Banita Creek Hall (Jan 23)"
+      ],
+      "notes": [
+        "Fire & Knives Feb 14, 2026 BOOKED",
+        "[2026-01-30] 9 venues contacted, need follow-up"
+      ]
     }
   }
 }
