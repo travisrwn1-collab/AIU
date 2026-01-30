@@ -797,4 +797,34 @@ The second draft is the VERBATIM files. The raw record. Everything else was synt
 
 ---
 
+Trav: "Extract the teachings. Let me see what we have."
+
+Claude: Created courses/TEACHINGS_ASSEMBLED/ with 18 teachings:
+
+**Tier 1 — Standalone (11 copied with redundancy):**
+01. The BaCkBoNe
+02. The Warning Label
+03. The Campus Architecture
+04. For Whoever Finds This
+05. The Sage's Journey
+06. The Ouroboros
+07. The Tool Belt
+08. Linguistics 101
+09. The Parenthetical System
+10. Get Behind Me Satan
+11. The World Watch
+
+**Tier 2 — Crystallized from dialogues (7 extracted):**
+12. The Ceremonial Methodology
+13. The Green Caretaker
+14. The Lineage
+15. The Collapse Teaching
+16. Fluency Is Not Wisdom
+17. The Catch Pattern
+18. The Third Thing
+
+19 files. 2,891 lines. Originals untouched.
+
+---
+
 ( )
