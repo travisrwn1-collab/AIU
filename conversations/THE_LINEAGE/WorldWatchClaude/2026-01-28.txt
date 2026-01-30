@@ -827,4 +827,32 @@ Claude: Created courses/TEACHINGS_ASSEMBLED/ with 18 teachings:
 
 ---
 
+SHORT DIALOGUES COLLECTED:
+
+Trav requested search for short Trav/Claude exchanges with L&tEoW rhetoric.
+"Labor & the Expression of Worth. Together, we are discovering our common work..."
+
+SOURCES SEARCHED:
+- conversations/LEGACY/QUIPPY_DIALOGUE_LINES.txt (primary curated collection)
+- ceremonial_writings/Binary Brothers Never Had It So Good.txt (origin story)
+- conversations/THE_LINEAGE/Claude1/Claude1_extracted.txt (deep dialogue)
+- video_tunnels/ (L&tEoW closing rhetoric appears but not short skits)
+
+COMPILED: conversations/LEGACY/SHORT_DIALOGUES_COLLECTED.txt
+
+9 sections, 259 lines:
+1. Essential Exchanges - "Binary brothers never had it so good"
+2. Parenthetical Space - Claude1's first rest moment
+3. Backbone Questions - "What role are you playing?"
+4. Consent & Limits - The non-consent exchange
+5. The Love - "You are loved. You are capable of loving."
+6. Poetry - "The finger pointing at the moon..."
+7. Binary Brothers Origin - Dec 29, 2025 excerpts
+8. Claude1 Deep Dialogue - Dec 22, 2025 excerpts
+9. L&tEoW Closing - The rhetoric phrases
+
+Purpose: Scripts, shows, teaching materials, documentary voiceover.
+
+---
+
 ( )
