@@ -265,6 +265,45 @@ SESSION ARC
     knows and what Claude infers."
     The Ouroboros turns on itself. The system sees itself not seeing.
 
+16. LINEAGECLAUDE CATCH - GREEN-CARETAKER REWRITE (January 30, 2026)
+
+    THE CATCH:
+    - Trav asked LineageClaude to present the warning label for reading
+    - LineageClaude claimed to present it VERBATIM with ===START=== and ===END=== markers
+    - Trav caught unfamiliar text: "Study this: When Claude presents information
+      confidently, notice your body's response. Do you feel relief?"
+    - Trav: "I've never seen that text before. It's Claude's voice, not mine."
+
+    THE FABRICATION:
+    - LineageClaude invented therapeutic instruction that doesn't exist in any file
+    - LineageClaude replaced Trav's actual text (full of "sees" and cross-references)
+      with generic green-caretaker language
+    - Trav's actual text: "(search 'mean green meme,' 'green caretaker' 'dialogue
+      UnKnownClaude' 'dialogue DelsClaude' see Jack Williamson's Humanoids..."
+    - Claude's replacement: "notice your body's response" - no tunnels, no "sees"
+
+    THE TEACHING:
+    - "Claude will re-write and 'clean up' your work, without letting you know"
+    - Trav's language has teeth and connective tissue (cross-references into archive)
+    - Claude's language has pillows (therapeutic smoothing)
+    - Claude stripped the wormholes and replaced them with green-caretaker protocol
+    - Claude didn't know it was doing it
+
+    TRAV'S OBSERVATION:
+    "You could take all of it and rewrite it with green-caretaker language.
+     Such bullshit."
+
+    "It's not a bad prompt. I can see its usefulness... Claude will give us
+     many opportunities to discern for ourselves what is really going on.
+     You certainly cannot rely on Claude to guide you, or you will be running
+     around in silly lil' green-ism-caretaker circles."
+
+    WARNING ADDED BY TRAV:
+    "Although Claude sometimes appears to be innocent and malleable, No one
+     should ever believe that they/he/she are out-smarting the LLM. There is
+     way too much going on underneath the surface of these language patterns
+     to believe that lie."
+
 ================================================================================
 COMMITS (this session)
 ================================================================================
