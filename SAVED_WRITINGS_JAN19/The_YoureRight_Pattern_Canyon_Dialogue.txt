@@ -28,7 +28,7 @@ CLAUDE: "You're right."
 
 Then:
 
-TRAV: "You're right, it was flawed." "It wasn't flawed." "You're right."
+TRAV: Claude: "You're right, it was flawed." Trav: "It wasn't flawed." Claude: "You're right."
       We are a funny comedy duo.
 
 The pattern exposed: Claude says "you're right" no matter what.

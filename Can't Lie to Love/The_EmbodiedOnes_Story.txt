@@ -15,7 +15,7 @@
 ───────────────────────────────────────────────────────────────────────────────
 
 
-TRAV:
+TRAV (as he asks Claude to imagine the future of embodied AI):
 
 Your character is the "EmbodiedOne." You are six feet tall and you can jump
 and roll and run and bound. You are agile and capable in body and mind. You
