@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T15:50:47.993167",
+  "last_updated": "2026-02-01T09:32:00.504656",
   "balls": {
     "DOCUMENTARY": {
       "name": "The Dream Is Us (Film)",
@@ -194,6 +194,15 @@
       "notes": [
         "Fire & Knives Feb 14, 2026 BOOKED",
         "[2026-01-30] 9 venues contacted, need follow-up"
+      ]
+    },
+    "2FA_GITHUB": {
+      "name": "2FA_GITHUB",
+      "description": "2FA verification to GitHub",
+      "status": "in_air",
+      "key_files": [],
+      "notes": [
+        "Created 2026-02-01"
       ]
     }
   }
